@@ -10,6 +10,9 @@ export const dynamic = "force-dynamic";
 const MODEL = () => process.env.OLLAMA_MODEL ?? "llama3.2:1b";
 // On a CPU a cold prompt (a year's passages the model has not seen) takes 30–60 s to read.
 const TIMEOUT_MS = () => Number(process.env.OLLAMA_TIMEOUT_MS) || 90_000;
+// Embedding is quick once bge-m3 is loaded, but Ollama may have unloaded it to make room for
+// the chat model, and loading it again on a busy CPU takes a while.
+const EMBED_TIMEOUT_MS = () => Number(process.env.OLLAMA_EMBED_TIMEOUT_MS) || 60_000;
 const MAX_SENTENCES = 4;
 
 /**
@@ -58,7 +61,7 @@ export async function POST(req: Request) {
         // Step 2: retrieve.
         let vector: number[];
         try {
-          vector = await embedQuestion(question, AbortSignal.timeout(20_000));
+          vector = await embedQuestion(question, AbortSignal.timeout(EMBED_TIMEOUT_MS()));
         } catch {
           send({ type: "end", status: "unavailable" });
           return;
