@@ -1,0 +1,79 @@
+services:
+  # Dev server with hot reload: docker compose up web
+  web:
+    build:
+      context: .
+      target: dev
+    user: node
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      DATABASE_URL: postgres://nyakati:${POSTGRES_PASSWORD:-nyakati}@db:5432/nyakati
+      # The review screen writes to the database; it is never enabled in production.
+      REVIEW_ENABLED: "1"
+      NEXT_PUBLIC_REPORT_URL: ${NEXT_PUBLIC_REPORT_URL:-}
+      OLLAMA_URL: ${OLLAMA_URL:-http://ollama:11434}
+      # A local model; production sets its own OLLAMA_URL and OLLAMA_MODEL.
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-llama3.2:1b}
+      # Lets `make eval` past the rate limit; any long random string, kept out of git.
+      GUIDE_EVAL_KEY: ${GUIDE_EVAL_KEY:-}
+    depends_on:
+      db:
+        condition: service_healthy
+
+  # Postgres with pgvector. Host port 5433, since 5432 is taken on this machine.
+  db:
+    image: pgvector/pgvector:pg17
+    environment:
+      POSTGRES_USER: nyakati
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-nyakati}
+      POSTGRES_DB: nyakati
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nyakati -d nyakati"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+
+  # Ollama for the guide, locally: bge-m3 embeddings and this machine's llama3.2:1b. It reads
+  # the models already here (~/.ollama/models), so nothing is downloaded twice. Production
+  # points OLLAMA_URL and OLLAMA_MODEL at its own Ollama.
+  ollama:
+    image: ollama/ollama:0.40.16
+    user: "${UID:-1000}:${GID:-1000}"
+    environment:
+      OLLAMA_MODELS: /models
+      HOME: /tmp
+      OLLAMA_KEEP_ALIVE: 30m
+      OLLAMA_NUM_PARALLEL: "1"
+    volumes:
+      - ${OLLAMA_MODELS_DIR:-${HOME}/.ollama/models}:/models
+    ports:
+      - "127.0.0.1:11434:11434"
+
+  # Build-time data scripts, run through the Makefile: make candidates
+  pipeline:
+    profiles: [pipeline]
+    build: ./pipeline
+    working_dir: /work
+    volumes:
+      - .:/work
+    environment:
+      DATABASE_URL: postgresql://nyakati:${POSTGRES_PASSWORD:-nyakati}@db:5432/nyakati
+      PYTHONPATH: /work/pipeline
+      OLLAMA_URL: ${OLLAMA_URL:-http://ollama:11434}
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-llama3.2:1b}
+      GUIDE_URL: http://web:3000/api/guide
+      GUIDE_EVAL_KEY: ${GUIDE_EVAL_KEY:-}
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:

@@ -1,0 +1,96 @@
+/* /list and /sources: plain reading pages on the site's tokens. */
+
+html:has(.doc),
+body:has(.doc) {
+  height: auto;
+  overflow: auto;
+}
+
+.doc {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 32px var(--gutter) 96px;
+}
+
+.doc a {
+  color: var(--murram-ink);
+}
+
+.doc-kicker {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.doc h1 {
+  margin: 8px 0 12px;
+  font-family: var(--font-display);
+  font-size: clamp(40px, 10vw, 72px);
+  font-weight: 800;
+  font-variation-settings: "opsz" 144;
+  line-height: 0.95;
+}
+
+.doc-intro {
+  margin: 0 0 40px;
+  color: var(--paper-dim);
+}
+
+.doc-year h2 {
+  margin: 40px 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--rule);
+  font-family: var(--font-display);
+  font-size: 36px;
+  font-weight: 800;
+  font-variation-settings: "opsz" 144;
+}
+
+.doc-year h2 a {
+  color: var(--paper);
+  text-decoration: none;
+}
+
+.doc-year h2 a:hover {
+  text-decoration: underline;
+}
+
+.doc-events {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.doc-event + .doc-event {
+  margin-top: 20px;
+}
+
+.doc-event h3 {
+  margin: 0 0 4px;
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.doc-event p {
+  margin: 0 0 6px;
+}
+
+.doc-date,
+.doc-source {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--paper-dim);
+}
+
+.doc-plain {
+  padding-left: 1.2em;
+}
+
+.doc-plain li + li {
+  margin-top: 8px;
+}

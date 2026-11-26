@@ -1,0 +1,866 @@
+{
+ "threads": [
+  {
+   "slug": "land",
+   "title": "Land",
+   "description": "Who holds the land: settler farms and the White Highlands, the Mau Mau war, reserves, resettlement and land reform.",
+   "events": [
+    {
+     "id": "wd-Q114246525",
+     "date": "1920-01-01",
+     "title": "Langley Hawkins murder case",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q28223297",
+     "date": "1923-01-01",
+     "title": "The Devonshire White Paper",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q116987070",
+     "date": "1923-06-06",
+     "title": "Jasper Abraham murder case",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q7676469",
+     "date": "1939-01-01",
+     "title": "The Taita Hills Association is founded",
+     "lens": "places"
+    },
+    {
+     "id": "wd-Q476855",
+     "date": "1952-01-01",
+     "title": "Mau Mau rebellion",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q16969043",
+     "date": "1952-10-21",
+     "title": "Operation Jock Scott",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q16919347",
+     "date": "1953-01-01",
+     "title": "Operation Mushroom",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q17107196",
+     "date": "1953-01-24",
+     "title": "Ruck Family Massacre",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q16932084",
+     "date": "1953-03-26",
+     "title": "Lari Massacre",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q16826761",
+     "date": "1953-12-24",
+     "title": "Christmas Eve Battle",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q7659389",
+     "date": "1954-01-01",
+     "title": "The Swynnerton Plan",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q17110730",
+     "date": "1954-04-24",
+     "title": "Operation Anvil (Mau Mau Uprising)",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q16825556",
+     "date": "1956-10-21",
+     "title": "Capture of Kimathi",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q5878484",
+     "date": "1959-01-01",
+     "title": "Hola massacre",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392679",
+     "date": "1963-01-01",
+     "title": "Plantation workers' union formed",
+     "lens": "places"
+    },
+    {
+     "id": "1963-08-nakuru-farmers",
+     "date": "1963-08-01",
+     "title": "Kenyatta meets settler farmers at Nakuru",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6920596",
+     "date": "2005-01-01",
+     "title": "Mount Elgon insurgency",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392904",
+     "date": "2007-01-01",
+     "title": "Kenyan tea workers strike of 2007",
+     "lens": "places"
+    },
+    {
+     "id": "yl-2007-09-08-14-ten-thousand-tea-plantation-workers-u",
+     "date": "2007-09-08",
+     "title": "14 – Ten thousand tea plantation workers undertook strike action against Unilever Tea Kenya Ltd in Kericho region",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2008-07-15-prime-minister-raila-odinga-issued-an-or",
+     "date": "2008-07-15",
+     "title": "Prime minister Raila Odinga issued an order for \"illegal\" settlers of Mau Forest to be evicted",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2009-11-16-the-kenyan-government-started-to-evict-s",
+     "date": "2009-11-16",
+     "title": "The Kenyan government started to evict settlers from the Mau Forest",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q5123132",
+     "date": "2010-01-01",
+     "title": "City Council Cemetery Land Scandal",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-10-19-higher-education-minister-william-ruto-w",
+     "date": "2010-10-19",
+     "title": "Higher education minister William Ruto was suspended due to ongoing investigations on his alleged involvement in a forest land…",
+     "lens": "culture"
+    },
+    {
+     "id": "yl-2010-10-26-nairobi-mayor-geoffrey-majiwa-steps-asid",
+     "date": "2010-10-26",
+     "title": "Nairobi Mayor Geoffrey Majiwa steps aside after being charged for his alleged involvement in a cemetery land corruption scandal",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6974007",
+     "date": "2012-01-01",
+     "title": "National Land Commission",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2025-11-27-the-high-court-strikes-down-as-unconstit",
+     "date": "2025-11-27",
+     "title": "The High Court strikes down as unconstitutional provisions that allowed authorities to raid community seed banks and confiscate seeds…",
+     "lens": "politics"
+    }
+   ]
+  },
+  {
+   "slug": "elections",
+   "title": "Elections",
+   "description": "Every vote: colonial Legislative Council polls, independence, the one-party years, multiparty contests and referendums.",
+   "events": [
+    {
+     "id": "wd-Q5327641",
+     "date": "1920-01-01",
+     "title": "1920 East Africa Protectorate general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392891",
+     "date": "1924-01-01",
+     "title": "1924 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392893",
+     "date": "1927-02-12",
+     "title": "1927 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392895",
+     "date": "1931-01-01",
+     "title": "1931 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392896",
+     "date": "1934-03-28",
+     "title": "1934 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392897",
+     "date": "1938-01-01",
+     "title": "1938 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q22281076",
+     "date": "1944-09-01",
+     "title": "1944 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q18387772",
+     "date": "1948-01-01",
+     "title": "1948 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392899",
+     "date": "1952-01-01",
+     "title": "1952 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q1690010",
+     "date": "1956-01-01",
+     "title": "1956–57 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q2539671",
+     "date": "1961-02-01",
+     "title": "KANU wins the 1961 election",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-05-18-general-election",
+     "date": "1963-05-18",
+     "title": "KANU wins the general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q24236272",
+     "date": "1966-06-12",
+     "title": "The \"little general election\"",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q2053487",
+     "date": "1969-12-06",
+     "title": "A one-party election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q2053489",
+     "date": "1974-10-14",
+     "title": "1974 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q55615838",
+     "date": "1978-11-08",
+     "title": "1978 Kenyan presidential election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392885",
+     "date": "1979-11-08",
+     "title": "1979 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392886",
+     "date": "1983-09-26",
+     "title": "1983 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392888",
+     "date": "1988-03-21",
+     "title": "1988 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q2603407",
+     "date": "1992-12-29",
+     "title": "1992 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6392889",
+     "date": "1997-12-29",
+     "title": "1997 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q1144639",
+     "date": "2002-12-27",
+     "title": "2002 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q65118136",
+     "date": "2002-12-30",
+     "title": "Mwai Kibaki becomes president",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q1861076",
+     "date": "2005-11-21",
+     "title": "Kenyan constitutional referendum",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q7961142",
+     "date": "2007-01-01",
+     "title": "Waki Commission",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2007-03-19-president-mwai-kibaki-proposes-constitut",
+     "date": "2007-03-19",
+     "title": "President Mwai Kibaki proposes constitutional reforms to be implemented before general elections set to be held in December 2007",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2007-05-14-by-election-held-in-magarini-constituenc",
+     "date": "2007-05-14",
+     "title": "By-election held in Magarini constituency was won by Harrison Garama Kombe of Shirikisho Party",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2007-11-17-main-political-parties-odm-odm-k-and-pnu",
+     "date": "2007-11-17",
+     "title": "Main political parties (ODM, ODM-K and PNU) held their primary elections selecting parliamentary and civic candidates for the upcoming…",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q166087",
+     "date": "2007-12-27",
+     "title": "2007–08 Kenyan crisis",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q2743200",
+     "date": "2007-12-27",
+     "title": "2007 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2008-01-01-riots-in-kenya-escalated-following-the-t",
+     "date": "2008-01-01",
+     "title": "Riots in Kenya escalated following the tension after disputed presidential elections",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q4547082",
+     "date": "2008-01-15",
+     "title": "The 10th Parliament opens",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2008-01-24-president-mwai-kibaki-and-his-rival-rail",
+     "date": "2008-01-24",
+     "title": "President Mwai Kibaki and his rival Raila Odinga met for the first time since the elections",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q5589265",
+     "date": "2008-04-01",
+     "title": "The Government of National Unity is formed",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2008-06-11-the-first-parliamentary-by-elections-in",
+     "date": "2008-06-11",
+     "title": "The first parliamentary by-elections in Kenya after the chaotic 2007 general elections were held",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2008-08-11-the-results-of-kamukunji-constituency-of",
+     "date": "2008-08-11",
+     "title": "The results of Kamukunji Constituency of the 2007 parliamentary elections were not tallied until now due to a court case",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2008-09-25-by-elections-were-held-in-bomet-and-soti",
+     "date": "2008-09-25",
+     "title": "By-elections were held in Bomet and Sotik constituencies and were won by Beatrice Kones and Joyce Laboso respectively",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2008-10-15-the-post-election-violence-report-by-wak",
+     "date": "2008-10-15",
+     "title": "The post-election violence report by Waki Commission was released",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2009-07-09-the-un-secretary-general-kofi-annan-hand",
+     "date": "2009-07-09",
+     "title": "the UN Secretary general Kofi Annan handed names of the main suspects of the 2007 Post-election violence to the International Criminal Court",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2009-07-30-kenyan-cabinet-announced-that-no-special",
+     "date": "2009-07-30",
+     "title": "Kenyan cabinet announced that no special tribunal will be formed to handle the 2009 post-election crisis, and that the cases will be…",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2009-08-27-parliamentary-by-elections-were-held-in",
+     "date": "2009-08-27",
+     "title": "Parliamentary by-elections were held in the constituencies of Shinyalu and Bomachoge",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2009-12-17-the-high-court-declares-the-south-mugira",
+     "date": "2009-12-17",
+     "title": "The High court declares the South Mugirango Constituency parliamentary seat held by James Magara vacant due to irregularities in the…",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q96418632",
+     "date": "2010-01-01",
+     "title": "The International Criminal Court investigates Kenya",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-02-02-the-kenyan-appellate-court-orders-2007-p",
+     "date": "2010-02-02",
+     "title": "The Kenyan Appellate Court orders 2007 parliamentary election votes of the Starehe Constituency to be recounted",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-02-05-the-minister-of-transport-chirau-ali-mwa",
+     "date": "2010-02-05",
+     "title": "The minister of transport Chirau Ali Mwakwere of PNU loses his Matuga Constituency parliamentary seat after the High Court ruled the…",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-04-01-the-kenyan-parliament-passes-the-draft-c",
+     "date": "2010-04-01",
+     "title": "The Kenyan parliament passes the draft constitution, paving the way for the 2010 constitutional referendum to be held on July 2, 2010",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-04-16-george-thuo-pnu-loses-his-parliamentary",
+     "date": "2010-04-16",
+     "title": "George Thuo (PNU) loses his parliamentary seat after a court nullified the 2007 election results of Juja Constituency citing irregularities",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-04-30-dick-wathika-pnu-is-set-to-lose-his-parl",
+     "date": "2010-04-30",
+     "title": "Dick Wathika (PNU) is set to lose his parliamentary seat after a court nullified the 2007 election results of Makadara Constituency…",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-06-10-manson-nyamweya-of-ford-people-won-the-s",
+     "date": "2010-06-10",
+     "title": "Manson Nyamweya of Ford-People won the South Mugirango Constituency parliamentary by-election, beating the previous MP James Omingo…",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-06-13-a-bomb-blast-at-the-uhuru-park-in-nairob",
+     "date": "2010-06-13",
+     "title": "A bomb blast at the Uhuru Park in Nairobi kills six people and lefts over 100 people injured",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-07-12-chirau-ali-mwakwere-pnu-retained-matuga",
+     "date": "2010-07-12",
+     "title": "Chirau Ali Mwakwere (PNU) retained Matuga Constituency parliamentary seat in a by-election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q1574034",
+     "date": "2010-08-04",
+     "title": "Kenyan constitutional referendum",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-08-04-a-referendum-is-held-on-the-proposed-con",
+     "date": "2010-08-04",
+     "title": "A referendum is held on the Proposed Constitution of Kenya, which was then ratified by a 68.55% majority, paving way for promulgation…",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-09-20-three-parliamentary-by-elections-were-he",
+     "date": "2010-09-20",
+     "title": "Three parliamentary by-elections were held",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-10-22-the-kirinyaga-central-constituency-mp-jo",
+     "date": "2010-10-22",
+     "title": "The Kirinyaga Central Constituency MP John Ngata Kariuki loses his seat following a declaration by High court that he was wrongfully…",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6016573",
+     "date": "2011-01-01",
+     "title": "Independent Electoral and Boundaries Commission",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2011-01-27-simon-mbugua-of-pnu-loses-his-kamukunji",
+     "date": "2011-01-27",
+     "title": "Simon Mbugua of PNU loses his Kamukunji Constituency parliamentary seat as the 2007 election result was annulled by a court in January 2011",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2011-02-16-joseph-gitari-of-pnu-won-the-kirinyaga-c",
+     "date": "2011-02-16",
+     "title": "Joseph Gitari of PNU won the Kirinyaga Central Constituency parliamentary by-election",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2011-02-18-bonny-khalwale-of-new-ford-kenya-loses-h",
+     "date": "2011-02-18",
+     "title": "Bonny Khalwale of New Ford Kenya loses his Ikolomani Constituency parliamentary seat as the High Court cites electoral malpractice in…",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q5137952",
+     "date": "2012-12-04",
+     "title": "The CORD coalition is formed",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q17110874",
+     "date": "2013-01-01",
+     "title": "2013 Kenyan presidential election petition",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6375976",
+     "date": "2013-03-04",
+     "title": "2013 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q117231206",
+     "date": "2017-01-01",
+     "title": "2017 Kenyan presidential election petition",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q30589468",
+     "date": "2017-01-01",
+     "title": "The National Super Alliance is formed",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q28128006",
+     "date": "2017-08-08",
+     "title": "2017 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q47486410",
+     "date": "2017-08-31",
+     "title": "The 12th Parliament opens",
+     "lens": "places"
+    },
+    {
+     "id": "yl-2017-09-01-the-supreme-court-nullified-kenyatta-s-e",
+     "date": "2017-09-01",
+     "title": "the Supreme Court nullified Kenyatta's election victory and ordered that a new presidential election take place within 60 days",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q38716916",
+     "date": "2017-10-26",
+     "title": "October 2017 Kenyan presidential election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q65086824",
+     "date": "2018-03-09",
+     "title": "The handshake",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2020-12-10-a-high-court-orders-the-government-to-co",
+     "date": "2020-12-10",
+     "title": "A high court orders the government to compensate four victims of sexual attacks by security agents during post-election violence…",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q105637425",
+     "date": "2021-01-01",
+     "title": "The Building Bridges Initiative",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q104852988",
+     "date": "2022-08-09",
+     "title": "2022 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q113614970",
+     "date": "2022-09-08",
+     "title": "13th Parliament of Kenya is established",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2026-02-03-independent-electoral-and-boundaries-com",
+     "date": "2026-02-03",
+     "title": "Independent Electoral and Boundaries Commission CEO and Commission Secretary, Marjan Hussein Marjan resigns from office ahead of the…",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2026-02-27-united-democratic-alliance-kenya-wins-is",
+     "date": "2026-02-27",
+     "title": "United Democratic Alliance (Kenya) wins Isiolo South Constituency, Evurore ward and Muminji by-elections which were previously held by…",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2026-07-16-ol-kalou-constituency-by-election-sammy",
+     "date": "2026-07-16",
+     "title": "Ol Kalou Constituency by-election: Sammy Kamau Waweru of the Democracy for the Citizens Party (DCP) wins his first National Assembly seat",
+     "lens": "politics"
+    }
+   ]
+  },
+  {
+   "slug": "constitution",
+   "title": "The constitution",
+   "description": "The rules of the state: the Lancaster House conferences, independence, the republic, one-party law, multiparty reform and the 2010 constitution.",
+   "events": [
+    {
+     "id": "wd-Q6392891",
+     "date": "1924-01-01",
+     "title": "1924 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6483199",
+     "date": "1960-01-01",
+     "title": "First Lancaster House conference",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-lancaster-house",
+     "date": "1963-01-01",
+     "title": "Last Lancaster House conference",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-06-01-mboya-justice",
+     "date": "1963-06-01",
+     "title": "Tom Mboya takes Justice",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q61179524",
+     "date": "1964-12-12",
+     "title": "Kenya becomes a republic",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q24236272",
+     "date": "1966-06-12",
+     "title": "The \"little general election\"",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-1982-06-10-parliament-passes-a-constitutional-amend",
+     "date": "1982-06-10",
+     "title": "Parliament passes a constitutional amendment declaring Kenya a one-party state, making opposition parties illegal",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q2603407",
+     "date": "1992-12-29",
+     "title": "1992 Kenyan general election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q1861076",
+     "date": "2005-11-21",
+     "title": "Kenyan constitutional referendum",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2007-03-19-president-mwai-kibaki-proposes-constitut",
+     "date": "2007-03-19",
+     "title": "President Mwai Kibaki proposes constitutional reforms to be implemented before general elections set to be held in December 2007",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6970147",
+     "date": "2008-01-01",
+     "title": "National Accord and Reconciliation Act 2008",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2009-11-17-the-harmonized-draft-constitution-of-ken",
+     "date": "2009-11-17",
+     "title": "The Harmonized Draft Constitution of Kenya was released for public (The Draft Archived 2012-09-15 at the Wayback Machine)",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-04-01-the-kenyan-parliament-passes-the-draft-c",
+     "date": "2010-04-01",
+     "title": "The Kenyan parliament passes the draft constitution, paving the way for the 2010 constitutional referendum to be held on July 2, 2010",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q2753888",
+     "date": "2010-08-01",
+     "title": "The 2010 Constitution",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q1574034",
+     "date": "2010-08-04",
+     "title": "Kenyan constitutional referendum",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2010-08-04-a-referendum-is-held-on-the-proposed-con",
+     "date": "2010-08-04",
+     "title": "A referendum is held on the Proposed Constitution of Kenya, which was then ratified by a 68.55% majority, paving way for promulgation…",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6016573",
+     "date": "2011-01-01",
+     "title": "Independent Electoral and Boundaries Commission",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2011-01-31-the-commission-on-the-implementation-of",
+     "date": "2011-01-31",
+     "title": "The Commission on the Implementation of Constitution declares unconstitutional the recent naming of Chief Justice and other top…",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q6974007",
+     "date": "2012-01-01",
+     "title": "National Land Commission",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q70252",
+     "date": "2013-03-01",
+     "title": "Provinces give way to 47 counties",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q105637425",
+     "date": "2021-01-01",
+     "title": "The Building Bridges Initiative",
+     "lens": "politics"
+    },
+    {
+     "id": "yl-2025-11-27-the-high-court-strikes-down-as-unconstit",
+     "date": "2025-11-27",
+     "title": "The High Court strikes down as unconstitutional provisions that allowed authorities to raid community seed banks and confiscate seeds…",
+     "lens": "politics"
+    }
+   ]
+  },
+  {
+   "slug": "jomo-kenyatta",
+   "title": "Jomo Kenyatta",
+   "description": "From detainee to prime minister to Kenya's first president, 1963 to 1978.",
+   "events": [
+    {
+     "id": "wd-Q6366571",
+     "date": "1952-01-01",
+     "title": "The Kapenguria Six are arrested",
+     "lens": "places"
+    },
+    {
+     "id": "wd-Q239280",
+     "date": "1960-01-01",
+     "title": "KADU is formed",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-05-18-general-election",
+     "date": "1963-05-18",
+     "title": "KANU wins the general election",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-06-01-madaraka",
+     "date": "1963-06-01",
+     "title": "Madaraka: self-rule begins",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-06-01-mboya-justice",
+     "date": "1963-06-01",
+     "title": "Tom Mboya takes Justice",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-06-east-african-federation",
+     "date": "1963-06-01",
+     "title": "Three leaders promise a federation",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-08-nakuru-farmers",
+     "date": "1963-08-01",
+     "title": "Kenyatta meets settler farmers at Nakuru",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-11-pm-respect-law",
+     "date": "1963-11-01",
+     "title": "A law against disrespecting the Prime Minister",
+     "lens": "politics"
+    },
+    {
+     "id": "1963-12-12-independence",
+     "date": "1963-12-12",
+     "title": "Independence",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q61179524",
+     "date": "1964-12-12",
+     "title": "Kenya becomes a republic",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q141531969",
+     "date": "1966-01-01",
+     "title": "Jomo Kenyatta Foundation founded",
+     "lens": "culture"
+    },
+    {
+     "id": "wd-Q2053487",
+     "date": "1969-12-06",
+     "title": "A one-party election",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q3272625",
+     "date": "1973-01-01",
+     "title": "The Kenyatta International Conference Centre opens",
+     "lens": "places"
+    },
+    {
+     "id": "wd-Q65118163",
+     "date": "1978-08-22",
+     "title": "Daniel arap Moi becomes president",
+     "lens": "politics"
+    },
+    {
+     "id": "wd-Q55615838",
+     "date": "1978-11-08",
+     "title": "1978 Kenyan presidential election",
+     "lens": "politics"
+    }
+   ]
+  }
+ ]
+}

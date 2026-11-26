@@ -1,0 +1,16 @@
+{
+  "_note": "Commons files for 1960–1969, curated by AI on 2026-11-21: files rejected with a reason, and captions replaced where Commons has no English description. The images script applies both.",
+  "reject": [
+    {
+      "file": "File:Mt Meru.jpg",
+      "reason": "Mount Meru in Tanzania, not Meru National Park in Kenya."
+    }
+  ],
+  "caption": [
+    {
+      "file": "File:Blick von den Baboon-Cliffs auf den Nakurusee in Kenia.jpg",
+      "caption": "Flamingo colonies on Lake Nakuru, seen from the Baboon Cliffs.",
+      "reason": "The Commons description is in German only; this is a translation."
+    }
+  ]
+}

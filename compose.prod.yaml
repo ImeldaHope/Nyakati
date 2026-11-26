@@ -1,0 +1,25 @@
+# Production: the site only, pulled from GitHub's container registry, where
+# .github/workflows/image.yml publishes each version tag. Stands alone; do not combine
+# with compose.yaml, which is the development setup. A reverse proxy reaches the site over an
+# existing Docker network, and the site reaches Ollama over the same network. Everything
+# specific to a host comes from the environment.
+services:
+  nyakati-web:
+    image: ghcr.io/imeldahope/nyakati:${IMAGE_TAG:-latest}
+    pull_policy: always
+    restart: unless-stopped
+    expose:
+      - "3000"
+    environment:
+      DATABASE_URL: ${DATABASE_URL:?set DATABASE_URL to a Postgres with pgvector}
+      OLLAMA_URL: ${OLLAMA_URL:?set OLLAMA_URL}
+      OLLAMA_MODEL: ${OLLAMA_MODEL:?set OLLAMA_MODEL}
+      OLLAMA_API_KEY: ${OLLAMA_API_KEY:-}
+      OLLAMA_TIMEOUT_MS: ${OLLAMA_TIMEOUT_MS:-90000}
+    networks:
+      - proxy
+
+networks:
+  proxy:
+    external: true
+    name: ${PROXY_NETWORK:?set PROXY_NETWORK to the Docker network the proxy and Ollama are on}

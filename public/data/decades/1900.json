@@ -1,0 +1,80 @@
+{
+ "decade": 1900,
+ "events": [
+  {
+   "id": "wd-Q7766218",
+   "date": "1902-01-01",
+   "date_precision": "year",
+   "title": "The Standard is founded",
+   "summary": "The Standard is the oldest newspaper in Kenya. It is published by The Standard Group, which also runs the Kenya Television Network (KTN), Radio Maisha, The Nairobian (a weekly tabloid) and Standard Digital which is its online platform.",
+   "lens": "places",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/The_Standard_(Kenya)",
+   "source_name": "Wikipedia: The Standard (Kenya)",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "people": [
+    {
+     "name": "Alibhai Mulla Jeevanjee",
+     "wikidata_id": "Q4725647",
+     "role": "founder"
+    }
+   ]
+  },
+  {
+   "id": "wd-Q113158922",
+   "date": "1905-06-01",
+   "date_precision": "month",
+   "title": "Sotik Massacre",
+   "summary": "In June 1905, between nine hundred (900) and one thousand, eight hundred ( 1,800) Kipsigis men, women and children were killed in a punitive expedition dubbed Sotik expedition by the colonial British government forces led by Major Richard Pope-Hennessy. This was as a result of a raid by the Kipsigis on the Maasai which saw the Kipsigis part with Maasai cows, women and children to which the government demanded redress and return of the spoils of the raid but to which the Kipsigis returned in insults and turned down the warning.",
+   "lens": "politics",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/Sotik_Massacre",
+   "source_name": "Wikipedia: Sotik Massacre",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q30262070",
+   "date": "1909-01-01",
+   "date_precision": "year",
+   "title": "The East Africa Natural History Society is founded",
+   "summary": "The East Africa Natural History Society (EANHS) is a natural history study organization founded in 1909 in Kenya with an office in Uganda in what was then British East Africa. The original name was East Africa and Uganda Natural History Society.",
+   "lens": "places",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/East_Africa_Natural_History_Society",
+   "source_name": "Wikipedia: East Africa Natural History Society",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude",
+   "place": {
+    "name": "Nairobi",
+    "county": "Nairobi City County",
+    "wikidata_id": "Q3870"
+   },
+   "people": [
+    {
+     "name": "Charles William Hobley",
+     "wikidata_id": "Q16844080",
+     "role": "founder"
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "event_id": "wd-Q30262070",
+   "lens": "places",
+   "year": "1909",
+   "commons_title": "File:EANHS.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/EANHS.jpg/960px-EANHS.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:EANHS.jpg",
+   "width": 800,
+   "height": 800,
+   "author": "Shyamal",
+   "licence": "CC0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "EANHS, Nairobi",
+   "taken": "2025"
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+/* The review screen is a working tool: plain, dense, and on the same tokens as the site. */
+
+html:has(.review),
+body:has(.review) {
+  height: auto;
+  overflow: auto;
+}
+
+.review {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 24px var(--gutter) 96px;
+}
+
+.review a {
+  color: var(--murram-ink);
+}
+
+.review-kicker {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.review-head h1 {
+  margin: 8px 0 16px;
+  font-family: var(--font-display);
+  font-size: clamp(48px, 12vw, 96px);
+  font-weight: 800;
+  font-variation-settings: "opsz" 144;
+  line-height: 0.9;
+}
+
+.review-progress {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 12px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--paper-dim);
+}
+
+.review-progress strong {
+  color: var(--paper);
+  font-weight: 400;
+}
+
+.review-bar {
+  flex: 1;
+  max-width: 240px;
+  height: 4px;
+  background: var(--rule);
+}
+
+.review-bar {
+  display: flex;
+}
+
+.review-bar span {
+  display: block;
+  height: 100%;
+  background: var(--murram);
+}
+
+.review-bar .review-bar-trusted {
+  background: var(--slate);
+}
+
+.review-bar .review-bar-claude {
+  background: var(--brass);
+}
+
+.review-trust {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin: 0 0 12px;
+  font-size: 13px;
+  color: var(--paper-dim);
+}
+
+.review-trust::before {
+  content: "";
+  flex: none;
+  width: 10px;
+  height: 4px;
+  background: var(--slate);
+}
+
+.review-help {
+  margin: 0 0 20px;
+  max-width: 64ch;
+  font-size: 14px;
+  color: var(--paper-dim);
+}
+
+.review-help code {
+  font-family: var(--font-mono);
+  color: var(--paper);
+}
+
+.review-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  gap: 4px;
+  margin: 0 calc(var(--gutter) * -1) 24px;
+  padding: 10px var(--gutter);
+  background: var(--ground);
+  border-bottom: 1px solid var(--rule);
+}
+
+.review-tabs a {
+  padding: 6px 12px;
+  border-radius: 999px;
+  color: var(--paper-dim);
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.review-tabs a[aria-current="page"] {
+  background: rgb(239 232 218 / 0.08);
+  color: var(--paper);
+}
+
+.review-tabs span {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  margin-left: 4px;
+}
+
+.review-empty {
+  font-family: var(--font-display);
+  font-size: 22px;
+  color: var(--paper-dim);
+}
+
+.review-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.review-item {
+  padding: 20px 0 24px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.review-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin-bottom: 10px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--paper-dim);
+}
+
+.review-origin {
+  color: var(--paper);
+}
+
+.review-decided {
+  margin: 0 0 8px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--paper-dim);
+}
+
+.review-decided[data-by="wikidata-trust"] {
+  color: var(--slate);
+}
+
+.review-note {
+  margin: 0 0 12px;
+  padding: 8px 12px;
+  border-left: 2px solid var(--slate);
+  background: rgb(111 130 150 / 0.08);
+  font-size: 13px;
+  color: var(--paper);
+}
+
+.review-warn {
+  margin: 0 0 12px;
+  padding: 8px 12px;
+  border-left: 2px solid var(--brass);
+  background: rgb(184 137 59 / 0.08);
+  font-size: 13px;
+  color: var(--paper);
+}
+
+.review-fields {
+  display: grid;
+  grid-template-columns: 9rem 9rem 1fr;
+  gap: 10px 12px;
+}
+
+.field {
+  display: grid;
+  gap: 4px;
+}
+
+.field > span {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.field input,
+.field select,
+.field textarea {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: rgb(239 232 218 / 0.03);
+  color: var(--paper);
+  font: inherit;
+}
+
+.field select option {
+  background: var(--ground);
+}
+
+.field-date input {
+  font-family: var(--font-mono);
+}
+
+.field-title input {
+  font-family: var(--font-display);
+  font-size: 18px;
+}
+
+.field-summary {
+  grid-column: 1 / -1;
+}
+
+.field textarea {
+  resize: vertical;
+  line-height: 1.5;
+}
+
+.field :focus-visible {
+  outline: 2px solid var(--murram-ink);
+  outline-offset: 0;
+}
+
+.review-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 14px;
+  margin-top: 12px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+
+.review-licence {
+  color: var(--paper-dim);
+}
+
+.review-actions {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: none;
+  color: var(--paper);
+  font-family: var(--font-body);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-color: var(--paper-dim);
+}
+
+.btn-approve {
+  border-color: var(--murram);
+  background: var(--murram);
+  color: var(--paper); /* 4.8:1 on murram */
+}
+
+.btn-approve:hover {
+  background: var(--murram-ink);
+  border-color: var(--murram-ink);
+}
+
+@media (max-width: 640px) {
+  .review-fields {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .field-title {
+    grid-column: 1 / -1;
+  }
+
+  .review-actions {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .review-actions .btn {
+    flex: 1;
+  }
+}

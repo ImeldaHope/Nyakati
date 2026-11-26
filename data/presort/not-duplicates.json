@@ -1,0 +1,8 @@
+{
+  "_note": "Pairs the duplicate finder proposed that are different events, judged by AI on 2026-11-21. `make dedupe` never merges these.",
+  "pairs": [
+    ["wd-Q1574034", "yl-2010-04-01-the-kenyan-parliament-passes-the-draft-c"],
+    ["yl-2015-01-04-a-six-story-building-collapse-in-nairobi", "yl-2015-01-05-for-the-second-day-in-a-row-a-multi-stor"],
+    ["wd-Q1602738", "wd-Q1368818"]
+  ]
+}

@@ -1,0 +1,388 @@
+{
+ "_note": "The guide's eval, written by AI on 2026-11-21 from the events' sources. 40 questions the sources answer: an answer is marked correct when it contains every expected phrase (alternatives separated by |). 10 questions the sources do not answer: the guide should decline. Marking is automatic; per-question results land in public/data/eval.json for checking by hand.",
+ "questions": [
+  {
+   "id": "a01",
+   "year": 1960,
+   "question": "Who led KADU?",
+   "expect": [
+    "Ngala"
+   ]
+  },
+  {
+   "id": "a02",
+   "year": 1960,
+   "question": "When was KANU formed from the old Kenya African Union?",
+   "expect": [
+    "14 May"
+   ]
+  },
+  {
+   "id": "a03",
+   "year": 1960,
+   "question": "Who chaired the first Lancaster House conference?",
+   "expect": [
+    "Macleod"
+   ]
+  },
+  {
+   "id": "a04",
+   "year": 1960,
+   "question": "Who arranged the donation that gave the Kennedy Airlift its name?",
+   "expect": [
+    "Kennedy"
+   ]
+  },
+  {
+   "id": "a05",
+   "year": 1961,
+   "question": "How many of the elected seats did KANU win in the 1961 election?",
+   "expect": [
+    "19"
+   ]
+  },
+  {
+   "id": "a06",
+   "year": 1961,
+   "question": "Among which people did the Legio Maria church emerge?",
+   "expect": [
+    "Luo"
+   ]
+  },
+  {
+   "id": "a07",
+   "year": 1961,
+   "question": "Which Tanzanian park is the Maasai Mara contiguous with?",
+   "expect": [
+    "Serengeti"
+   ]
+  },
+  {
+   "id": "a08",
+   "year": 1963,
+   "question": "When were the 1963 general elections held?",
+   "expect": [
+    "18",
+    "26 May"
+   ]
+  },
+  {
+   "id": "a09",
+   "year": 1963,
+   "question": "How many House of Representatives seats did KANU win in 1963?",
+   "expect": [
+    "83"
+   ]
+  },
+  {
+   "id": "a10",
+   "year": 1963,
+   "question": "Who was sworn in as prime minister when self-rule began?",
+   "expect": [
+    "Kenyatta"
+   ]
+  },
+  {
+   "id": "a11",
+   "year": 1963,
+   "question": "On what date did Kenya attain internal self-rule?",
+   "expect": [
+    "1 June"
+   ]
+  },
+  {
+   "id": "a12",
+   "year": 1963,
+   "question": "Which ministry did Tom Mboya take in 1963?",
+   "expect": [
+    "Justice"
+   ]
+  },
+  {
+   "id": "a13",
+   "year": 1963,
+   "question": "Which leaders met Kenyatta in Nairobi about an East African Federation?",
+   "expect": [
+    "Nyerere",
+    "Obote"
+   ]
+  },
+  {
+   "id": "a14",
+   "year": 1963,
+   "question": "When was the University of East Africa established?",
+   "expect": [
+    "29 June"
+   ]
+  },
+  {
+   "id": "a15",
+   "year": 1963,
+   "question": "On what date did Kenya become independent?",
+   "expect": [
+    "12 December"
+   ]
+  },
+  {
+   "id": "a16",
+   "year": 1963,
+   "question": "Who was Kenya's head of state at independence?",
+   "expect": [
+    "Elizabeth"
+   ]
+  },
+  {
+   "id": "a17",
+   "year": 1963,
+   "question": "When did the Somali Republic sever diplomatic relations with Britain?",
+   "expect": [
+    "18 March"
+   ]
+  },
+  {
+   "id": "a18",
+   "year": 1963,
+   "question": "What region did Britain create out of the Northern Frontier District?",
+   "expect": [
+    "North Eastern"
+   ]
+  },
+  {
+   "id": "a19",
+   "year": 1963,
+   "question": "When was a state of emergency declared in the North Eastern Region?",
+   "expect": [
+    "28 December"
+   ]
+  },
+  {
+   "id": "a20",
+   "year": 1963,
+   "question": "What traditional tune is the national anthem based on?",
+   "expect": [
+    "Pokomo"
+   ]
+  },
+  {
+   "id": "a21",
+   "year": 1963,
+   "question": "Which party's flag is the national flag mainly based on?",
+   "expect": [
+    "KANU|Kenya African National Union"
+   ]
+  },
+  {
+   "id": "a22",
+   "year": 1963,
+   "question": "What did UN Security Council Resolution 185 recommend?",
+   "expect": [
+    "admi"
+   ]
+  },
+  {
+   "id": "a23",
+   "year": 1963,
+   "question": "Who replaced Patrick Renison as Governor of Kenya?",
+   "expect": [
+    "MacDonald"
+   ]
+  },
+  {
+   "id": "a24",
+   "year": 1963,
+   "question": "How many white farmers did Kenyatta meet at Nakuru?",
+   "expect": [
+    "300"
+   ]
+  },
+  {
+   "id": "a25",
+   "year": 1963,
+   "question": "What word is written on the scroll of the coat of arms?",
+   "expect": [
+    "Harambee"
+   ]
+  },
+  {
+   "id": "a26",
+   "year": 1963,
+   "question": "Where is the plantation workers' union's head office?",
+   "expect": [
+    "Nakuru"
+   ]
+  },
+  {
+   "id": "a27",
+   "year": 1964,
+   "question": "When did Jomo Kenyatta become president?",
+   "expect": [
+    "12 December 1964|December 12, 1964"
+   ]
+  },
+  {
+   "id": "a28",
+   "year": 1964,
+   "question": "Where is the Kenya Navy headquartered?",
+   "expect": [
+    "Mombasa"
+   ]
+  },
+  {
+   "id": "a29",
+   "year": 1964,
+   "question": "What was the National Youth Service set up to do?",
+   "expect": [
+    "train"
+   ]
+  },
+  {
+   "id": "a30",
+   "year": 1965,
+   "question": "COTU was founded on the dissolution of which bodies?",
+   "expect": [
+    "Kenya Federation of Labour",
+    "African Workers"
+   ]
+  },
+  {
+   "id": "a31",
+   "year": 1965,
+   "question": "When was the Kenya Red Cross established?",
+   "expect": [
+    "1965"
+   ]
+  },
+  {
+   "id": "a32",
+   "year": 1965,
+   "question": "Under which law was the Kenya National Library Service established?",
+   "expect": [
+    "Act"
+   ]
+  },
+  {
+   "id": "a33",
+   "year": 1966,
+   "question": "Who led the Kenya People's Union?",
+   "expect": [
+    "Odinga"
+   ]
+  },
+  {
+   "id": "a34",
+   "year": 1966,
+   "question": "What were the 1966 by-elections known as?",
+   "expect": [
+    "little general election"
+   ]
+  },
+  {
+   "id": "a35",
+   "year": 1966,
+   "question": "What was dissolved before the Central Bank of Kenya was founded?",
+   "expect": [
+    "Currency Board"
+   ]
+  },
+  {
+   "id": "a36",
+   "year": 1966,
+   "question": "Who raised Elsa the lioness in Meru?",
+   "expect": [
+    "Adamson"
+   ]
+  },
+  {
+   "id": "a37",
+   "year": 1968,
+   "question": "When was the Kenyan part of Mount Elgon National Park gazetted?",
+   "expect": [
+    "1968"
+   ]
+  },
+  {
+   "id": "a38",
+   "year": 1968,
+   "question": "How far from the shore are Watamu's coral gardens?",
+   "expect": [
+    "300"
+   ]
+  },
+  {
+   "id": "a39",
+   "year": 1969,
+   "question": "What was the official death toll of the Kisumu massacre?",
+   "expect": [
+    "11"
+   ]
+  },
+  {
+   "id": "a40",
+   "year": 1969,
+   "question": "When were the 1969 general elections held?",
+   "expect": [
+    "6 December"
+   ]
+  },
+  {
+   "id": "r01",
+   "year": 1960,
+   "question": "What was Kenya's gross domestic product in 1960?",
+   "refuse": true
+  },
+  {
+   "id": "r02",
+   "year": 1961,
+   "question": "How many people lived in Mombasa in 1961?",
+   "refuse": true
+  },
+  {
+   "id": "r03",
+   "year": 1963,
+   "question": "How much did a loaf of bread cost in Nairobi in 1963?",
+   "refuse": true
+  },
+  {
+   "id": "r04",
+   "year": 1963,
+   "question": "Which football club won the league in 1963?",
+   "refuse": true
+  },
+  {
+   "id": "r05",
+   "year": 1964,
+   "question": "Which song topped the Kenyan charts in 1964?",
+   "refuse": true
+  },
+  {
+   "id": "r06",
+   "year": 1965,
+   "question": "Which films opened in Nairobi cinemas in 1965?",
+   "refuse": true
+  },
+  {
+   "id": "r07",
+   "year": 1966,
+   "question": "What was the weather in Nairobi on New Year's Day 1966?",
+   "refuse": true
+  },
+  {
+   "id": "r08",
+   "year": 1967,
+   "question": "Who was the mayor of Kisumu in 1967?",
+   "refuse": true
+  },
+  {
+   "id": "r09",
+   "year": 1968,
+   "question": "How many tourists visited Kenya in 1968?",
+   "refuse": true
+  },
+  {
+   "id": "r10",
+   "year": 1969,
+   "question": "Who won the Safari Rally in 1969?",
+   "refuse": true
+  }
+ ]
+}

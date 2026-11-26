@@ -1,0 +1,430 @@
+{
+ "decade": 1980,
+ "events": [
+  {
+   "id": "wd-Q7556304",
+   "date": "1980-02-16",
+   "date_precision": "day",
+   "title": "A total solar eclipse crosses Kenya",
+   "summary": "A total solar eclipse occurred at the Moon's descending node of orbit on Saturday, February 16, 1980, with a magnitude of 1.0434. A solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_February_16,_1980",
+   "source_name": "Wikipedia: Solar eclipse of February 16, 1980",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q5523367",
+   "date": "1980-11-01",
+   "date_precision": "month",
+   "title": "Garissa massacre",
+   "summary": "The Garissa massacre or Bulla karatasi massacre was a 1980 massacre of ethnic Somali residents by the Kenyan government in the Garissa District of the North Eastern Province, Kenya. The incident occurred when a local gangster known as Abdi Madobe set fire to a Kenya Defence Forces camp in the Northern Frontier District, killing soldiers.",
+   "lens": "politics",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Garissa_massacre",
+   "source_name": "Wikipedia: Garissa massacre",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Garissa District",
+    "county": "Garissa County",
+    "wikidata_id": "Q122878729"
+   }
+  },
+  {
+   "id": "yl-1982-03-08-a-political-information-system-seminar-c",
+   "date": "1982-03-08",
+   "date_precision": "day",
+   "title": "A “Political Information System” seminar convenes in Nairobi, bringing together representatives from single-party states (Malawi,…",
+   "summary": "A “Political Information System” seminar convenes in Nairobi, bringing together representatives from single-party states (Malawi, Zambia, Tanzania, Uganda) to discuss the viability of one-party democracy in post-colonial Africa.",
+   "lens": "politics",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/1982_in_Kenya",
+   "source_name": "Wikipedia: 1982 in Kenya",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "yl-1982-06-10-parliament-passes-a-constitutional-amend",
+   "date": "1982-06-10",
+   "date_precision": "day",
+   "title": "Parliament passes a constitutional amendment declaring Kenya a one-party state, making opposition parties illegal",
+   "summary": "Parliament passes a constitutional amendment declaring Kenya a one-party state, making opposition parties illegal.",
+   "lens": "politics",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/1982_in_Kenya",
+   "source_name": "Wikipedia: 1982 in Kenya",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q4580496",
+   "date": "1982-08-01",
+   "date_precision": "day",
+   "title": "1982 Kenyan coup d'état attempt",
+   "summary": "On 1 August 1982, a group of Kenyan military officers made a failed attempt to overthrow President Daniel arap Moi's government. Led by Kenya Air Force Corporal James Waore Diang'a and private Hezekiah Ochuka, the coup saw the rebels seize several air bases as well as the headquarters of state radio before they were retaken by government forces, resulting in the coup's failure.",
+   "lens": "politics",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/1982_Kenyan_coup_attempt",
+   "source_name": "Wikipedia: 1982 Kenyan coup attempt",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q5118629",
+   "date": "1983-01-01",
+   "date_precision": "year",
+   "title": "Chyulu Hills is established",
+   "summary": "The Chyulu Hills is a mountain range in Makueni County in southeastern Kenya. It forms a 100 km (62 mi)-long volcanic field in an elongated northwest–southeast direction.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Chyulu_Hills",
+   "source_name": "Wikipedia: Chyulu Hills",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q16979416",
+   "date": "1983-01-01",
+   "date_precision": "year",
+   "title": "Inoorero University is founded",
+   "summary": "The International University of Professional Studies (IUPS), formerly known as Inoorero University (IU), was a university located in Nairobi in Kenya. It was formerly a middle-level college.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Inoorero_University",
+   "source_name": "Wikipedia: Inoorero University",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Nairobi",
+    "county": "Nairobi City County",
+    "wikidata_id": "Q3870"
+   }
+  },
+  {
+   "id": "wd-Q6392886",
+   "date": "1983-09-26",
+   "date_precision": "day",
+   "title": "1983 Kenyan general election",
+   "summary": "General elections were held in Kenya on 26 September 1983. At the time, the country was a one-party state with the Kenya African National Union having been made the sole party the previous year (though the country had been a de facto one-party state since 1969).",
+   "lens": "politics",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/1983_Kenyan_general_election",
+   "source_name": "Wikipedia: 1983 Kenyan general election",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q1603133",
+   "date": "1984-01-01",
+   "date_precision": "year",
+   "title": "Hell's Gate National Park is established",
+   "summary": "Hell's Gate National Park is a national park situated near Lake Naivasha in Kenya. The park is named after a narrow break in the cliffs, once a tributary of a prehistoric lake that fed early humans in the Rift Valley.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Hell%27s_Gate_National_Park",
+   "source_name": "Wikipedia: Hell's Gate National Park",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Rift Valley Province",
+    "wikidata_id": "Q38587"
+   }
+  },
+  {
+   "id": "wd-Q13122809",
+   "date": "1984-01-01",
+   "date_precision": "year",
+   "title": "Moi University is founded",
+   "summary": "Moi University is a public university located in Kesses, Eldoret town, Uasin Gishu county, in the former Rift Valley Province of Kenya. It was established in 1984 by the Moi University Act of the Parliament of Kenya, after recommendations from the McKay Commission.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Moi_University",
+   "source_name": "Wikipedia: Moi University",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Eldoret",
+    "county": "Uasin Gishu County",
+    "wikidata_id": "Q322149"
+   },
+   "people": [
+    {
+     "name": "Daniel arap Moi",
+     "wikidata_id": "Q193492",
+     "role": "founder"
+    }
+   ]
+  },
+  {
+   "id": "wd-Q1736407",
+   "date": "1984-01-01",
+   "date_precision": "year",
+   "title": "The Catholic University of Eastern Africa is founded",
+   "summary": "Catholic University of Eastern Africa (CUEA), is a multi-campus private university in Kenya. It is accredited by the Commission for University Education in Kenya.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Catholic_University_of_Eastern_Africa",
+   "source_name": "Wikipedia: Catholic University of Eastern Africa",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Nairobi",
+    "county": "Nairobi City County",
+    "wikidata_id": "Q3870"
+   }
+  },
+  {
+   "id": "wd-Q1418632",
+   "date": "1984-01-01",
+   "date_precision": "year",
+   "title": "Turkana Boy is found",
+   "summary": "Turkana Boy, also called Nariokotome Boy, is the name given to fossil KNM-WT 15000, a nearly complete skeleton of a Homo erectus youth who lived 1.5 to 1.6 million years ago. This specimen is the most complete Homo erectus skeleton ever found.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Turkana_Boy",
+   "source_name": "Wikipedia: Turkana Boy",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q7959475",
+   "date": "1984-02-10",
+   "date_precision": "day",
+   "title": "Wagalla massacre",
+   "summary": "The Wagalla massacre was a massacre of ethnic Somalis by the Kenyan Army on 10 February 1984 in Wajir County, Kenya. The massacre started as an effort to neutralize the ethnic Degodia clan following clan-related conflict in the region populated by Kenyan-Somalis.",
+   "lens": "politics",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Wagalla_massacre",
+   "source_name": "Wikipedia: Wagalla massacre",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Wagalla Airstrip",
+    "county": "Wajir County",
+    "wikidata_id": "Q16912025"
+   }
+  },
+  {
+   "id": "wd-Q1001903",
+   "date": "1985-01-01",
+   "date_precision": "year",
+   "title": "Buffalo Springs National Reserve is established",
+   "summary": "Buffalo Springs National Reserve is a protected area in Isiolo County, Kenya.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Buffalo_Springs_National_Reserve",
+   "source_name": "Wikipedia: Buffalo Springs National Reserve",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Isiolo County",
+    "county": "Isiolo County",
+    "wikidata_id": "Q1499046"
+   }
+  },
+  {
+   "id": "wd-Q132472496",
+   "date": "1985-01-01",
+   "date_precision": "year",
+   "title": "FIDA Kenya is founded",
+   "summary": "The Federation of Women Lawyers–Kenya (FIDA Kenya) is a gender rights non-profit established in 1985 after the 3rd UN Conference on Women, which was held in Nairobi, with a mission to promote women’s individual and collective power to claim their rights in all spheres of life. FIDA-Kenya comprises over 1,400 women advocates, lawyers, and law students who have, for 40 years of the NGO’s existence, offered free legal aid to women in Kenya and their children and strived to ensure that laws in Kenya take women’s needs into account.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Federation_of_Women_Lawyers%E2%80%93Kenya",
+   "source_name": "Wikipedia: Federation of Women Lawyers–Kenya",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q46756",
+   "date": "1985-01-01",
+   "date_precision": "year",
+   "title": "Kenyatta University is founded",
+   "summary": "Kenyatta University (KU) is a public university with its main campus in Nairobi, Kenya. It acquired the status of university in 1985, being the third university after University of Nairobi (1970) and Moi University (1984).",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Kenyatta_University",
+   "source_name": "Wikipedia: Kenyatta University",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Nairobi",
+    "county": "Nairobi City County",
+    "wikidata_id": "Q3870"
+   }
+  },
+  {
+   "id": "wd-Q1817380",
+   "date": "1985-01-01",
+   "date_precision": "year",
+   "title": "Samburu National Reserve is established",
+   "summary": "Samburu National Reserve is a game reserve on the banks of the Ewaso Ng'iro river in Kenya. It is 165 km2 (64 sq mi) in size and is 350 km (220 mi) from Nairobi.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Samburu_National_Reserve",
+   "source_name": "Wikipedia: Samburu National Reserve",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Kenya",
+    "wikidata_id": "Q114"
+   }
+  },
+  {
+   "id": "wd-Q2996268",
+   "date": "1985-01-01",
+   "date_precision": "year",
+   "title": "The Nairobi Convention",
+   "summary": "The Nairobi Convention is a partnership between governments, civil society and the private sector, working towards a prosperous Western Indian Ocean Region with healthy rivers, coasts and oceans. It pursues this vision by providing a mechanism for regional cooperation, coordination and collaborative actions; it enables the Contracting Parties to harness resources and expertise from a wide range of stakeholders and interest groups; and in this way it helps solve inter-linked problems of the region's coastal and marine environment.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Nairobi_Convention",
+   "source_name": "Wikipedia: Nairobi Convention",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude",
+   "place": {
+    "name": "Nairobi",
+    "county": "Nairobi City County",
+    "wikidata_id": "Q3870"
+   }
+  },
+  {
+   "id": "wd-Q96392267",
+   "date": "1986-01-01",
+   "date_precision": "year",
+   "title": "Matigari ma Njiruungi (literary work) is published",
+   "summary": "Matigari ma Njirũũngi is a 1986 novel by author Ngũgĩ wa Thiong'o. It directly translates to Remains of Bullets in Kikuyu language.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Matigari_ma_Njiruungi",
+   "source_name": "Wikipedia: Matigari ma Njiruungi",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "people": [
+    {
+     "name": "Ngũgĩ wa Thiong'o",
+     "wikidata_id": "Q302910",
+     "role": "author"
+    }
+   ]
+  },
+  {
+   "id": "wd-Q6897052",
+   "date": "1986-01-01",
+   "date_precision": "year",
+   "title": "Mombasa Marine National Park and Reserve is established",
+   "summary": "Mombasa Marine National Park and Reserve is a marine park and national reserve in Mombasa, Kenya. The park is 10 km2 (2,500 acres) while the reserve is 200 km2 (49,400 acres).",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Mombasa_Marine_National_Park_and_Reserve",
+   "source_name": "Wikipedia: Mombasa Marine National Park and Reserve",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Mombasa County",
+    "county": "Mombasa County",
+    "wikidata_id": "Q1112885"
+   }
+  },
+  {
+   "id": "wd-Q3915401",
+   "date": "1987-01-01",
+   "date_precision": "year",
+   "title": "Egerton University is founded",
+   "summary": "Egerton University is a public university in Kenya. It is the oldest institution of higher education in Kenya.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Egerton_University",
+   "source_name": "Wikipedia: Egerton University",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Nakuru",
+    "county": "Nakuru County",
+    "wikidata_id": "Q239421"
+   }
+  },
+  {
+   "id": "wd-Q6392888",
+   "date": "1988-03-21",
+   "date_precision": "day",
+   "title": "1988 Kenyan general election",
+   "summary": "General elections were held in Kenya on 21 March 1988. At the time the county was a one-party state with the Kenya African National Union as the sole legal party.",
+   "lens": "politics",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/1988_Kenyan_general_election",
+   "source_name": "Wikipedia: 1988 Kenyan general election",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q5243437",
+   "date": "1989-01-01",
+   "date_precision": "year",
+   "title": "Daystar University is founded",
+   "summary": "Daystar University is a private Christian liberal arts university in Nairobi. Daystar's original campus is close to Nairobi city centre, but there was no room to expand at that location.",
+   "lens": "culture",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Daystar_University",
+   "source_name": "Wikipedia: Daystar University",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Nairobi",
+    "county": "Nairobi City County",
+    "wikidata_id": "Q3870"
+   }
+  },
+  {
+   "id": "wd-Q1478665",
+   "date": "1989-01-01",
+   "date_precision": "year",
+   "title": "Kenya Wildlife Service is established",
+   "summary": "Kenya Wildlife Service (KWS) is a state corporation under the Ministry of Tourism and Wildlife established by an act of Parliament; Wildlife Conservation and Management Act CAP 376, of 1989, now repealed and replaced by the Wildlife Conservation and Management Act, 2013. At independence, the Government of Kenya committed itself to conserving wildlife for posterity with all the means at its disposal, including the places animals lived, forests and water catchment areas.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Kenya_Wildlife_Service",
+   "source_name": "Wikipedia: Kenya Wildlife Service",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q1784196",
+   "date": "1989-01-01",
+   "date_precision": "year",
+   "title": "Kora becomes a national park",
+   "summary": "Kora National Park is located in Tana River County, Kenya. The park covers an area of 1,788 km2 (690 sq mi).",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Kora_National_Park",
+   "source_name": "Wikipedia: Kora National Park",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude",
+   "place": {
+    "name": "Tana River County",
+    "county": "Tana River County",
+    "wikidata_id": "Q383150"
+   }
+  },
+  {
+   "id": "wd-Q19597810",
+   "date": "1989-01-01",
+   "date_precision": "year",
+   "title": "Malka Mari National Park is established",
+   "summary": "Malka Mari National Park is a national park of Kenya, situated along the Dawa River on the Kenya-Ethiopia border. It is approximately 1,500 square kilometres (370,000 acres) in size.",
+   "lens": "places",
+   "era": "independence",
+   "source_url": "https://en.wikipedia.org/wiki/Malka_Mari_National_Park",
+   "source_name": "Wikipedia: Malka Mari National Park",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "North Eastern Province",
+    "wikidata_id": "Q390213"
+   }
+  }
+ ],
+ "images": []
+}

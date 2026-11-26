@@ -1,0 +1,707 @@
+{
+ "checked_by": "AI, at the owner's request; not a person",
+ "model": "llama3.2:1b",
+ "items": [
+  {
+   "id": "yl-2025-04-30-orange-democratic-movement-mp-charles-on",
+   "title": "Orange Democratic Movement MP Charles Ong'ondo is shot dead inside his car at a traffic stop in Nairobi",
+   "summary": "Orange Democratic Movement MP Charles Ong'ondo is shot dead inside his car at a traffic stop in Nairobi.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q48802611",
+   "title": "National Youth Service founded",
+   "summary": "The National Youth Service is established to train young people in national matters.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q96370224",
+   "title": "2020 East Africa floods",
+   "summary": "The 2020 East Africa floods were a natural disaster in Rwanda, Kenya, Somalia, Burundi, Ethiopia, Uganda, Democratic Republic of Congo, Djibouti and Tanzania, affecting at least 700,000 people. They began when excessive rains began falling in March, leading to massive flooding and landslides.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "yl-2025-11-01-at-least-26-people-are-killed-in-a-lands",
+   "title": "At least 26 people are killed in a landslide in Chesongoch, Elgeyo Marakwet County",
+   "summary": "At least 26 people are killed in a landslide in Chesongoch, Elgeyo Marakwet County.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q6016573",
+   "title": "Independent Electoral and Boundaries Commission",
+   "summary": "The Independent Electoral and Boundaries Commission (IEBC) is an independent regulatory agency that was founded in 2011 under the Constitution of Kenya. The Commission is responsible for conducting or supervising referendums and elections to any elective body or office established by the Constitution, and any other elections as prescribed by an Act of Parliament.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2009-12-02-eleven-people-died-as-a-bus-and-a-lorry",
+   "title": "Eleven people died as a bus and a lorry collided along the Nakuru–Eldoret highway at Mlango Tatu, Koibatek District",
+   "summary": "Eleven people died as a bus and a lorry collided along the Nakuru–Eldoret highway at Mlango Tatu, Koibatek District.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q16851003",
+   "title": "Jaramogi Oginga Odinga University of Science and Technology is founded",
+   "summary": "Jaramogi Oginga Odinga University of Science and Technology (JOOUST) is a public university in Bondo in Siaya County, Kenya. It is named after Kenya's first vice-president Jaramogi Oginga Odinga.",
+   "model": "places",
+   "check": "culture"
+  },
+  {
+   "id": "wd-Q113429147",
+   "title": "Student Organization of Nairobi University is founded",
+   "summary": "The Student Organization of Nairobi University (abbreviated SONU) was a student movement at the University of Nairobi, Kenya. SONU was founded in 1971.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2007-07-18-earth-tremors-have-been-felt-in-nairobi",
+   "title": "Earth tremors have been felt in Nairobi and elsewhere Kenya during few past days",
+   "summary": "Earth tremors have been felt in Nairobi and elsewhere Kenya during few past days. The tremors were related to the activity of Ol Doinyo Lengai volcano in Tanzania.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q20010704",
+   "title": "Nakuru County Peace Accord",
+   "summary": "The Nakuru County Peace Accord (or “Rift Valley Peace Accord”) refers to the peace agreement signed on 19 August 2012 between elders of the Agikuyu (see also Kikuyu) and Kalenjin communities as well as other ethnic groups of Kenya. The agreement was signed following a 16-month-long peace process led by the National Cohesion and Integration Commission (NCIC) to address sources of ethnic conflict and a history of violence in the rift valley region of Kenya.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2024-03-18-a-bus-carrying-university-students-from",
+   "title": "A bus carrying university students from Nairobi to Mombasa collides with a truck in Maungu, killing 11 and seriously injuring 42",
+   "summary": "A bus carrying university students from Nairobi to Mombasa collides with a truck in Maungu, killing 11 and seriously injuring 42.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q28223297",
+   "title": "The Devonshire White Paper",
+   "summary": "The Devonshire White Paper, or Devonshire Declaration, was a document written in 1923 by Colonial Secretary Victor Cavendish, 9th Duke of Devonshire, regarding the status of settlers and natives in the Kenya Colony and more broadly East Africa. It stated that whenever the interests of the native Africans clashed with those of Asian, European or Arab settlers, those of the native Africans should prevail.",
+   "model": "culture",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q121536406",
+   "title": "Kenya Space Agency is established",
+   "summary": "The Kenya Space Agency (KSA) is a state corporation mandated to promote, coordinate and regulate space-related activities in the country. It was established in 2017 as the successor to the National Space Secretariat (NSS).",
+   "model": "places",
+   "check": "culture"
+  },
+  {
+   "id": "yl-2025-01-03-a-shuttle-collides-with-a-lorry-in-uasin",
+   "title": "A shuttle collides with a lorry in Uasin Gishu County, killing 10 people",
+   "summary": "A shuttle collides with a lorry in Uasin Gishu County, killing 10 people.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "yl-2025-02-23-at-least-20-people-are-reported-missing",
+   "title": "At least 20 people are reported missing following cross-border clashes involving members of the Turkana people and the Daasanach people…",
+   "summary": "At least 20 people are reported missing following cross-border clashes involving members of the Turkana people and the Daasanach people in Turkana County, along the Omo River forming the border with Ethiopia.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2006-02-13-in-a-televised-address-to-the-nation-ken",
+   "title": "In a televised address to the nation, Kenyan President Mwai Kibaki announces the resignations of two government ministers in connection…",
+   "summary": "In a televised address to the nation, Kenyan President Mwai Kibaki announces the resignations of two government ministers in connection with two separate corruption scandals, the \"Goldenberg\" and \"Anglo Leasing\" affairs. Energy minister Kiraitu Murungi and education minister George Saitoti both deny any wrongdoing.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q141304315",
+   "title": "Lumboka-Chetambe war",
+   "summary": "The Lumboka-Chetambe war was a military confrontation and a war of resistance by the Ababukusu and the Abatachoni sects of the Abaluhya community against the British Empire in present-day Western Kenya, taking place from 1894 to 1895, just as the British were starting to establish their presence in East Africa.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-02-04-president-ruto-announces-income-tax-exem",
+   "title": "President Ruto announces income tax exemptions for individuals earning KSh30,000 and below per month (approximately $233), and a 25%…",
+   "summary": "President Ruto announces income tax exemptions for individuals earning KSh30,000 and below per month (approximately $233), and a 25% tax reduction for those earning up to KSh50,000 (about $388).",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2025-09-10-senior-lawyer-kyalo-mbobu-is-shot-dead-i",
+   "title": "Senior lawyer Kyalo Mbobu is shot dead in a drive-by shooting in Nairobi",
+   "summary": "Senior lawyer Kyalo Mbobu is shot dead in a drive-by shooting in Nairobi.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q16954019",
+   "title": "Multimedia University of Kenya is founded",
+   "summary": "The Multimedia University of Kenya (MMU) is a public University. It is located along Magadi Road, in Karen Ward, Langata sub-county, Nairobi County.",
+   "model": "places",
+   "check": "culture"
+  },
+  {
+   "id": "wd-Q6080019",
+   "title": "Ishaqbini Hirola Conservancy is established",
+   "summary": "The Ishaqbini Hirola Conservancy is a community-based conservation area located in Garissa County, Kenya. The conservancy covers approximately 72 km2 (28 sq mi).",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "yl-2008-12-11-kenyan-parliament-passes-the-kenya-commu",
+   "title": "Kenyan parliament passes the Kenya Communications (Amendment) Act regulating media in Kenya",
+   "summary": "Kenyan parliament passes the Kenya Communications (Amendment) Act regulating media in Kenya. Critics say the bill meant to suppress the freedom of press, while the Kenyan government denies it.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2007-01-04-three-administration-police-officers-sho",
+   "title": "Three Administration Police officers shot dead near Molo, Nakuru District",
+   "summary": "Three Administration Police officers shot dead near Molo, Nakuru District. On January 7 two suspects were shot down by police in Elburgon, Nakuru District.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-08-19-seven-people-are-killed-when-an-eurocopt",
+   "title": "Seven people are killed when an Eurocopter EC130 B4 carrying tourists crashes at Mount Ololokwe, Samburu County whilst flying to the…",
+   "summary": "Seven people are killed when an Eurocopter EC130 B4 carrying tourists crashes at Mount Ololokwe, Samburu County whilst flying to the Loisaba Conservancy. The victims include five American citizens and Ecuadorian intelligence chief Michele Sensi-Contugi.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q1537314",
+   "title": "Kisite-Mpunguti Marine National Park is established",
+   "summary": "Kisite-Mpunguti Marine National Park was established in 1978 by the Kenyan government and it is Kenya's first Blue Park. Kisite is situated on the southern coast of Kenya near Shimoni and south of Wasini Island in Kwale County near the Tanzanian border.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q2603407",
+   "title": "1992 Kenyan general election",
+   "summary": "General elections were held in Kenya on 29 December 1992 to elect the president and members of the National Assembly. They were the first multi-party general elections in Kenya since independence and the first to feature a direct vote for the president, who had been elected by the National Assembly in 1964 and been automatically declared the winner of uncontested elections held alongside parliamentary elections in 1969, 1974, 1979, 1983, and 1988 following a 1969 constitutional amendment.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q15045712",
+   "title": "Mwea National Reserve is established",
+   "summary": "The Mwea National Reserve is a Kenyan national reserve located south of Embu. Its altitude ranges between 1,000 and 1,100 m (3,300 and 3,600 ft), dominated by the Acacia-Commiphora bushland on the north shore of Kamburu Reservoir, at the confluence of Tana and Thiba Rivers.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "yl-2024-07-24-president-ruto-appoints-four-members-of",
+   "title": "President Ruto appoints four members of the opposition Orange Democratic Movement to his cabinet",
+   "summary": "President Ruto appoints four members of the opposition Orange Democratic Movement to his cabinet.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q5061569",
+   "title": "COTU is founded",
+   "summary": "The Central Organization of Trade Unions is founded as the Kenya Federation of Labour and the African Workers' Congress are dissolved. It becomes Kenya's national trade union centre.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q7887695",
+   "title": "United Democratic Movement",
+   "summary": "The United Democratic Movement (UDM) is a political party that was founded in 1999 by politicians who were at the time considered to be renegades from the then ruling party Kenya African National Union but was denied registration by the then head of state Daniel Toroitich Arap Moi and most of its then leaders went to other parties by the time of the 2002 general elections.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q6483199",
+   "title": "First Lancaster House conference",
+   "summary": "Kenya's constitutional future is negotiated in London under Colonial Secretary Iain Macleod. There is no agreement, and Macleod issues an interim constitution.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-03-01-alliance-high-school-kenya-marks-its-cen",
+   "title": "Alliance High School (Kenya) marks its centenary in a ceremony attended by President Ruto",
+   "summary": "Alliance High School (Kenya) marks its centenary in a ceremony attended by President Ruto.",
+   "model": "politics",
+   "check": "culture"
+  },
+  {
+   "id": "yl-2007-08-02-charity-ngilu-the-minister-of-health-was",
+   "title": "Charity Ngilu, the minister of health, was arrested for several hours in Nairobi",
+   "summary": "Charity Ngilu, the minister of health, was arrested for several hours in Nairobi. This happened after Ngilu allegedly freed Anne Njogu, a detained human rights activist.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2010-01-26-five-people-died-and-seven-injured-when",
+   "title": "Five people died and seven injured when two lorries collided on Waiyaki Way, Westlands, Nairobi",
+   "summary": "Five people died and seven injured when two lorries collided on Waiyaki Way, Westlands, Nairobi. Another accident occurred in Ndengelwa, Bungoma District, where a matatu and a diesel tanker collided leaving five dead and several injured.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "yl-2010-03-31-24-people-died-in-a-traffic-accident-at",
+   "title": "24 people died in a traffic accident at Katunguma Bridge along Nairobi-Mombasa highway",
+   "summary": "24 people died in a traffic accident at Katunguma Bridge along Nairobi-Mombasa highway.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q166087",
+   "title": "2007–08 Kenyan crisis",
+   "summary": "The 2007–2008 Kenyan crisis was a violent political, economic, and humanitarian crisis in Kenya. The crisis erupted after incumbent President Mwai Kibaki was declared the winner of the 2007 presidential election.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q17007305",
+   "title": "The 11th Parliament opens",
+   "summary": "The 11th Parliament of Kenya was the meeting of the legislative branch of the national government of Kenya, which began on 28 March 2013. It is the first Parliament to incorporate the structural reforms laid out in the 2010 Constitution.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q141559492",
+   "title": "Nairobi Flyways Declaration",
+   "summary": "The Nairobi Flyways Declaration is an international conservation declaration concerning the protection of migratory birds and their migration routes (flyways). It was launched on 11 September 2026 during the Global Flyways Summit in Nairobi, Kenya, which was co-hosted by BirdLife International and Nature Kenya.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "yl-2024-06-26-president-ruto-declines-to-sign-the-cont",
+   "title": "President Ruto declines to sign the controversial Kenya Finance Bill 2024 into law following the assault on parliament on 25 June",
+   "summary": "President Ruto declines to sign the controversial Kenya Finance Bill 2024 into law following the assault on parliament on 25 June.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2023-11-17-the-chief-justice-of-kenya-martha-koome",
+   "title": "The Chief Justice of Kenya, Martha Koome, declared November to be a National Children's Service Month in all court stations to fast…",
+   "summary": "The Chief Justice of Kenya, Martha Koome, declared November to be a National Children's Service Month in all court stations to fast track cases involving children, and launched the first such event at the Tononoka Law Courts.",
+   "model": "culture",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q6972473",
+   "title": "National Environment Management Authority is established",
+   "summary": "The National Environment Management Authority (NEMA) is the Kenyan government agency responsible for the management of the environment and environmental policy. It is a Semi-Autonomous Government Agency (SAGA) within the Ministry of Environment and Forestry.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q15980823",
+   "title": "Alliance for Real Change (Kenya) is founded",
+   "summary": "The Alliance for Real Change (ARC) is a Kenyan political party founded in 2010 but registered in 2012, by Mohammed Abduba Dida a candidate in the March 2013 Kenyan Presidential election.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2011-03-09-the-international-criminal-court-summons",
+   "title": "The International Criminal Court summons six previously named Kenyans to appear at the court in the Hague on April 7, 2011",
+   "summary": "The International Criminal Court summons six previously named Kenyans to appear at the court in the Hague on April 7, 2011. Meanwhile, a faction of Kenyan government, including President Mwai Kibaki and Vice President Kalonzo Musyoka are calling for ICC to drop the cases.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2007-06-08-over-30-suspected-mungiki-members-have-b",
+   "title": "Over 30 suspected Mungiki members have been killed by the police within a week, following recent violence by the sect",
+   "summary": "Over 30 suspected Mungiki members have been killed by the police within a week, following recent violence by the sect.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2010-10-26-nairobi-mayor-geoffrey-majiwa-steps-asid",
+   "title": "Nairobi Mayor Geoffrey Majiwa steps aside after being charged for his alleged involvement in a cemetery land corruption scandal",
+   "summary": "Nairobi Mayor Geoffrey Majiwa steps aside after being charged for his alleged involvement in a cemetery land corruption scandal.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2009-01-01-two-corruption-cases-the-2009-triton-oil",
+   "title": "Two corruption cases, the 2009 Triton Oil Scandal and the 2009 Kenyan Maize Scandal broke out",
+   "summary": "Two corruption cases, the 2009 Triton Oil Scandal and the 2009 Kenyan Maize Scandal broke out.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2007-05-05-kenya-airways-flight-507-crashes-in-came",
+   "title": "Kenya Airways Flight 507 crashes in Cameroon shortly after take-off",
+   "summary": "Kenya Airways Flight 507 crashes in Cameroon shortly after take-off. All 114 on board perished.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q704921",
+   "title": "Battle of Tanga",
+   "summary": "The Battle of Tanga, also known as the Battle of the Bees, was an unsuccessful invasion of the Port of Tanga in German East Africa by the British Indian Expeditionary Force \"B\" on 3–5 November 1914 during World War I. Under the command of the Major-General Arthur Aitken, British forces attacked Tanga in concert with Indian Expeditionary Force \"C\", which concomitantly attempted to capture Longido.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q1861076",
+   "title": "Kenyan constitutional referendum",
+   "summary": "A constitutional referendum was held in Kenya on 21 November 2005. Although many government officials, including President Mwai Kibaki, had campaigned for a \"yes\" vote, the proposed new constitution was rejected by 58% of voters.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2009-06-12-the-othaya-police-chief-john-nzau-was-sh",
+   "title": "The Othaya Police Chief, John Nzau was shot dead",
+   "summary": "The Othaya Police Chief, John Nzau was shot dead. Fellow policemen were arrested as suspects.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q6920596",
+   "title": "Mount Elgon insurgency",
+   "summary": "The Mount Elgon insurgency was a conflict that started in 2005 when the Sabaot Land Defence Force militia revolted in the Mount Elgon area, Western Kenya.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q141600508",
+   "title": "Macondo Literary Festival — Kenya",
+   "summary": "Literary festival in Nairobi focused on literature of Global Africa.",
+   "model": "places",
+   "check": "culture"
+  },
+  {
+   "id": "yl-2023-11-27-the-death-toll-from-floods-in-kenya-rise",
+   "title": "The death toll from floods in Kenya rises to 76 as 40,000 people are displaced from their homes",
+   "summary": "The death toll from floods in Kenya rises to 76 as 40,000 people are displaced from their homes.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "yl-2024-12-04-jackton-odhiambo-is-convicted-for-the-20",
+   "title": "Jackton Odhiambo is convicted for the 2023 murder of LGBT activist Edwin Chiloba in Eldoret",
+   "summary": "Jackton Odhiambo is convicted for the 2023 murder of LGBT activist Edwin Chiloba in Eldoret. He is sentenced to 50 years imprisonment on 16 December.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2024-10-09-kenya-is-elected-to-a-seat-at-the-united",
+   "title": "Kenya is elected to a seat at the United Nations Human Rights Council for a three-year term beginning in 2025",
+   "summary": "Kenya is elected to a seat at the United Nations Human Rights Council for a three-year term beginning in 2025.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q5137952",
+   "title": "The CORD coalition is formed",
+   "summary": "The Coalition for Reforms and Democracy (CORD) was a coalition of multiple political parties, built around the triumvirate of Raila Odinga, Kalonzo Musyoka, and Moses Wetangula, to contest the 2013 Kenyan general election. The members of the coalition are the Orange Democratic Movement, the Wiper Democratic Movement, FORD–Kenya, Kenya Social Congress, KADU–Asili, the Peoples Democratic Party, the Mkenya Solidarity Movement, Chama Cha Uzalendo, the Muungano Party, the United Democratic Movement, Chama Cha Mwananchi, and the Federal Party of Kenya Following the hotly-contested elections that saw the Jubilee Alliance win, CORD filed a petition contesting the results.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2025-12-11-the-inaugural-kenya-junior-school-educat",
+   "title": "The inaugural Kenya Junior School Education Assessment (KJSEA) results, under the new Competency-Based Education (CBE) 2-6-3-3…",
+   "summary": "The inaugural Kenya Junior School Education Assessment (KJSEA) results, under the new Competency-Based Education (CBE) 2-6-3-3 educational system are released by the Cabinet Secretary for Education, Julius Ogamba.",
+   "model": "politics",
+   "check": "culture"
+  },
+  {
+   "id": "yl-2025-08-20-a-judge-orders-the-kenyan-government-to",
+   "title": "A judge orders the Kenyan government to protect the rights of transgender people in the country by passing a Transgender Protection…",
+   "summary": "A judge orders the Kenyan government to protect the rights of transgender people in the country by passing a Transgender Protection Rights Act.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q7458680",
+   "title": "Sexual Offences Act 2006",
+   "summary": "The Sexual Offences Act, Act No. 3 of 2006, is an Act of the Parliament of Kenya that creates a range of sexual offences.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-06-15-the-government-announces-compensation-pa",
+   "title": "The government announces compensation payments to 2,000 victims of human rights abuses related to protests",
+   "summary": "The government announces compensation payments to 2,000 victims of human rights abuses related to protests.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q116449344",
+   "title": "The Hustler Fund",
+   "summary": "The Hustler Fund, administratively also known as The Financial Inclusion Fund, is a loan project led by the Kenyan government which provides instant loans to Kenyan citizens upon request. The program was launched by President William Ruto in late 2022 with the intention of providing at least $420 million in loans.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2008-01-24-president-mwai-kibaki-and-his-rival-rail",
+   "title": "President Mwai Kibaki and his rival Raila Odinga met for the first time since the elections",
+   "summary": "President Mwai Kibaki and his rival Raila Odinga met for the first time since the elections. Kofi Annan, former United Nations Secretary-General was also present.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q15036625",
+   "title": "Karatina University is founded",
+   "summary": "Karatina University is a chartered public university in the town of Karatina, in central Kenya.",
+   "model": "places",
+   "check": "culture"
+  },
+  {
+   "id": "wd-Q114246525",
+   "title": "Langley Hawkins murder case",
+   "summary": "In May 1920, white European settler Langley Hawkins discovered money and documents were missing from his house in Kiambu County in the British East Africa Protectorate. He summoned a Black African policeman from nearby Ruiru and the pair proceeded to beat and torture three of Hawkins' black male employees and a pregnant black woman to extract information relating to the theft.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2010-03-29-two-people-died-when-a-light-aircraft-cr",
+   "title": "Two people died when a light aircraft crashed at landing Wilson Airport in Nairobi",
+   "summary": "Two people died when a light aircraft crashed at landing Wilson Airport in Nairobi.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q60628970",
+   "title": "2019 Nairobi attack",
+   "summary": "On January 15, 2019, a coordinated attack perpetrated by Al-Shabaab occurred at the DusitD2 complex in Westlands District, Nairobi, Kenya. The attack began at around 14:30 EAT (UTC+3), shortly after a suicide bomber blew himself up near the centre of the complex at a restaurant.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q6392690",
+   "title": "Kenya Revenue Authority is established",
+   "summary": "Kenya Revenue Authority (KRA) is an agency of the Government of Kenya that is responsible for the assessment, collection and accounting of all revenues that are due to the government in accordance with the laws of Kenya.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q46756",
+   "title": "Kenyatta University is founded",
+   "summary": "Kenyatta University (KU) is a public university with its main campus in Nairobi, Kenya. It acquired the status of university in 1985, being the third university after University of Nairobi (1970) and Moi University (1984).",
+   "model": "places",
+   "check": "culture"
+  },
+  {
+   "id": "yl-2007-03-04-five-dangerous-criminals-escaped-nakuru",
+   "title": "Five dangerous criminals escaped Nakuru GK Prison",
+   "summary": "Five dangerous criminals escaped Nakuru GK Prison.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q10963557",
+   "title": "National Rainbow Coalition – Kenya is founded",
+   "summary": "The People's Liberation Party (PLP), previously known as the National Rainbow Coalition–Kenya (NARC–Kenya) until February 2025, is a political party in Kenya.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q3551629",
+   "title": "Maseno University is founded",
+   "summary": "Maseno University is a public university based in the Maseno district of the Kisumu County, Kenya, along the Equator. It was fully fledged as a university in 2001, after being a constituent college of Moi University for a decade.",
+   "model": "places",
+   "check": "culture"
+  },
+  {
+   "id": "yl-2024-08-20-suspected-serial-killer-collins-jumaisi",
+   "title": "Suspected serial killer Collins Jumaisi Khalusha, accused of murdering 42 women in July, escapes from police custody in Nairobi along…",
+   "summary": "Suspected serial killer Collins Jumaisi Khalusha, accused of murdering 42 women in July, escapes from police custody in Nairobi along with 12 Eritrean inmates.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-02-03-independent-electoral-and-boundaries-com",
+   "title": "Independent Electoral and Boundaries Commission CEO and Commission Secretary, Marjan Hussein Marjan resigns from office ahead of the…",
+   "summary": "Independent Electoral and Boundaries Commission CEO and Commission Secretary, Marjan Hussein Marjan resigns from office ahead of the 2027 General Elections.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-09-01-a-forest-fire-breaks-out-at-mount-kenya",
+   "title": "A forest fire breaks out at Mount Kenya Forest, consuming 30,000 acres of moorland by 7 September",
+   "summary": "A forest fire breaks out at Mount Kenya Forest, consuming 30,000 acres of moorland by 7 September.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "yl-2020-07-13-a-newly-acquired-md-530f-cayuse-warrior",
+   "title": "A newly acquired MD 530F Cayuse Warrior Kenya Army helicopter crashes in Masinga, Kitui County killing two soldiers",
+   "summary": "A newly acquired MD 530F Cayuse Warrior Kenya Army helicopter crashes in Masinga, Kitui County killing two soldiers.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q5878484",
+   "title": "Hola massacre",
+   "summary": "The 1959 Hola massacre was a massacre committed by British colonial forces during the Mau Mau Rebellion at a colonial detention camp in Hola, Kenya.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q1422517",
+   "title": "KANU is formed",
+   "summary": "James Gichuru re-establishes the banned Kenya African Union, and on 14 May it becomes the Kenya African National Union after merging with Tom Mboya's Kenya Independence Movement. KANU will rule Kenya for nearly 40 years.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2011-01-01-10-people-die-when-a-bus-veers-off-road",
+   "title": "10 people die when a bus veers off-road in Ngarariga, near Nairobi",
+   "summary": "10 people die when a bus veers off-road in Ngarariga, near Nairobi.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q5403455",
+   "title": "Ethics and Anti-Corruption Commission",
+   "summary": "The Ethics and Anti-Corruption Commission, abbreviated as the EACC, is a Kenyan government agency established to combat and prevent corruption in the country. The commission operates through direct law enforcement and preventive measures in addition to the education and promotion of standards and best practices in integrity and ethics in Kenya.",
+   "model": "culture",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-05-20-the-high-court-decriminalizes-consensual",
+   "title": "The High Court decriminalizes consensual under-age sexual relationships following a case involving the arrest of a 17-year old minor…",
+   "summary": "The High Court decriminalizes consensual under-age sexual relationships following a case involving the arrest of a 17-year old minor found living with his 16-year-old partner.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2007-10-17-john-njue-the-newly-appointed-archbishop",
+   "title": "John Njue, the newly appointed Archbishop of Nairobi, is now elevated to cardinal status",
+   "summary": "John Njue, the newly appointed Archbishop of Nairobi, is now elevated to cardinal status. He became the second Kenyan cardinal, the other was Maurice Michael Otunga, who died in 2003.",
+   "model": "politics",
+   "check": "culture"
+  },
+  {
+   "id": "wd-Q120197228",
+   "title": "2023 Kericho truck crash",
+   "summary": "On 30 June 2023, a lorry carrying a shipping container went out of control and hit several vehicles, pedestrians and market traders on a road in Londiani, Kericho County, Kenya, killing at least 52 people and injuring at least 30.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "yl-2026-09-17-four-people-are-killed-and-at-least-22-o",
+   "title": "Four people are killed and at least 22 others seriously injured while attempting to siphon fuel from a petrol tanker involved in an…",
+   "summary": "Four people are killed and at least 22 others seriously injured while attempting to siphon fuel from a petrol tanker involved in an accident in Turbo Constituency, Uasin Gishu County.",
+   "model": "politics",
+   "check": "places"
+  },
+  {
+   "id": "yl-2014-11-17-kenyan-police-raid-two-mosques-in-mombas",
+   "title": "Kenyan police raid two mosques in Mombasa suspected of being linked to Al-Shabaab",
+   "summary": "Kenyan police raid two mosques in Mombasa suspected of being linked to Al-Shabaab. One man is killed and over 200 are arrested.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2009-08-23-a-bus-and-a-truck-collide-near-gilgil-re",
+   "title": "A bus and a truck collide near Gilgil, resulting in 16 deaths",
+   "summary": "A bus and a truck collide near Gilgil, resulting in 16 deaths.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q85745813",
+   "title": "Battle of Baure",
+   "summary": "The Battle of Baure was an Al-Shabaab attack on a Kenyan military base located next to the town of Baure, in Lamu County, Kenya.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2025-08-15-kenya-appoints-a-consul-general-for-the",
+   "title": "Kenya appoints a consul-general for the M-23 held city of Goma in the Democratic Republic of Congo, prompting criticism from the…",
+   "summary": "Kenya appoints a consul-general for the M-23 held city of Goma in the Democratic Republic of Congo, prompting criticism from the Congolese government.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q108427913",
+   "title": "Willie Kimani is killed",
+   "summary": "Willie Kimani Kinuthia (21 April 1984 – 23 June 2016) was a Kenyan human rights lawyer that was murdered in-line of duty in one of the most prolific cases on Police Brutality in Kenya. He worked with the International Justice Mission (IJM) in Nairobi and a board member of Right Promotion Protection and also a member of the Law Society of Kenya (LSK) Before his killing, Willie had taken up a case against police officer Fredrick Leliman filed by his client Josephat Mwenda, a motorcycle 'bobaboda' operator.",
+   "model": "culture",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2020-11-16-covid-19-pandemic-schools-close-and-stud",
+   "title": "COVID-19 pandemic: Schools close and student pregnancies increase during lockdown",
+   "summary": "COVID-19 pandemic: Schools close and student pregnancies increase during lockdown.",
+   "model": "politics",
+   "check": "culture"
+  },
+  {
+   "id": "yl-2010-11-06-peter-karanja-a-jealous-administration-p",
+   "title": "Peter Karanja, a jealous Administration Police officer, killed 10 people in a shooting spree in Siakago",
+   "summary": "Peter Karanja, a jealous Administration Police officer, killed 10 people in a shooting spree in Siakago.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2025-01-10-a-light-aircraft-crashes-into-a-highway",
+   "title": "A light aircraft crashes into a highway in Malindi, Kilifi County, killing three people on the ground",
+   "summary": "A light aircraft crashes into a highway in Malindi, Kilifi County, killing three people on the ground.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "wd-Q6414603",
+   "title": "The kipande pass is imposed",
+   "summary": "The kipande was an identity document during the British-ruled Kenya Colony and featured basic personal details, fingerprints and an employment history. The Native Registration Amendment Ordinance of 1920 made it compulsory for African males above the age of 15 to wear it at all times around their necks.",
+   "model": "places",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q116880591",
+   "title": "2006 Kenyan Air Force Harbin Y-12 crash",
+   "summary": "On 10 April 2006, a Kenya Air Force Harbin Y-12 II operating as Flight I-32, flying from Nairobi to Marsabit, Kenya, crashed into Mount Marsabit in bad weather as it was approaching Marsabit airstrip a second time after aborting its first attempt, killing 14 of the 17 occupants on board, including a number of politicians. The flight to the region was carrying a peace delegation meant to mediate regional feuds, which were exacerbated by a food crisis.",
+   "model": "places",
+   "check": "places"
+  },
+  {
+   "id": "yl-2024-11-01-kithure-kindiki-is-inaugurated-as-deputy",
+   "title": "Kithure Kindiki is inaugurated as deputy president after a court upholds the impeachment of his predecessor Rigathi Gachagua",
+   "summary": "Kithure Kindiki is inaugurated as deputy president after a court upholds the impeachment of his predecessor Rigathi Gachagua.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2008-01-01-riots-in-kenya-escalated-following-the-t",
+   "title": "Riots in Kenya escalated following the tension after disputed presidential elections",
+   "summary": "Riots in Kenya escalated following the tension after disputed presidential elections. On January 1, 2008, a mob attacked and set fire to a church in the town of Eldoret, where hundreds of people had taken refuge.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-10-06-kenya-reports-its-first-ever-ebola-case",
+   "title": "Kenya reports its first ever Ebola case following the death of a patient in Nairobi who had traveled to the Democratic Republic of the…",
+   "summary": "Kenya reports its first ever Ebola case following the death of a patient in Nairobi who had traveled to the Democratic Republic of the Congo and Uganda.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2026-05-25-fuel-price-hike-protests-resume-after-a",
+   "title": "Fuel price hike protests resume after a week's pause, leaving one person shot dead by the police in Nyeri",
+   "summary": "Fuel price hike protests resume after a week's pause, leaving one person shot dead by the police in Nyeri.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "wd-Q126906449",
+   "title": "Kenya Finance Bill protests",
+   "summary": "A series of decentralized mass protests took place in Kenya in response to tax increases proposed by the Government of Kenya in the Finance Bill 2024. Following the storming of the Kenyan Parliament, president William Ruto reportedly rejected the Bill on 28 June; signed into law the \"Appropriations Bill 2024\" to address the budget shortfall caused by the rejection.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2011-02-16-joseph-gitari-of-pnu-won-the-kirinyaga-c",
+   "title": "Joseph Gitari of PNU won the Kirinyaga Central Constituency parliamentary by-election",
+   "summary": "Joseph Gitari of PNU won the Kirinyaga Central Constituency parliamentary by-election.",
+   "model": "politics",
+   "check": "politics"
+  },
+  {
+   "id": "yl-2023-10-05-government-reshuffle-in-which-musalia-mu",
+   "title": "Government reshuffle in which Musalia Mudavadi replaces Alfred Mutua as Foreign Minister following controversy over the country's…",
+   "summary": "Government reshuffle in which Musalia Mudavadi replaces Alfred Mutua as Foreign Minister following controversy over the country's involvement in the crisis in Haiti.",
+   "model": "politics",
+   "check": "politics"
+  }
+ ],
+ "definitions": "politics: government, elections, parties, laws, courts, war, conflict, security, diplomacy, the economy. culture: arts, books, film, music, religion, education, universities, media, science, heritage. places: parks, reserves, the environment, wildlife, cities, land, infrastructure, natural disasters and accidents."
+}

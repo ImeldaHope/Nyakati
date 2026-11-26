@@ -1,0 +1,943 @@
+{
+ "_note": "Pre-sort of the 1960–1969 candidates, written by AI on 2026-11-21 from each item's Wikidata entry and Wikipedia lead. keep = an event, with suggested edits; hold = needs a person's judgement; reject = not an event, a duplicate, outside Kenya or the decade, or contradicted by its source. Under the trust-Wikidata rule, kept Wikidata items are approved with Wikidata's date; everything else waits for a person. approve = approved by AI at the owner's request on 2026-11-21: the 21 hand-written 1963 events, each checked against its article's text when written, and three Wikipedia events whose source states the date.",
+ "decisions": [
+  {
+   "id": "1963-01-macdonald-governor",
+   "action": "approve"
+  },
+  {
+   "id": "1963-03-08-north-eastern-region",
+   "action": "approve"
+  },
+  {
+   "id": "1963-03-18-somalia-breaks-relations",
+   "action": "approve"
+  },
+  {
+   "id": "1963-05-18-general-election",
+   "action": "approve"
+  },
+  {
+   "id": "1963-05-kadu-majimbo",
+   "action": "approve"
+  },
+  {
+   "id": "1963-05-northern-seats-empty",
+   "action": "approve"
+  },
+  {
+   "id": "1963-06-01-madaraka",
+   "action": "approve"
+  },
+  {
+   "id": "1963-06-01-mboya-justice",
+   "action": "approve"
+  },
+  {
+   "id": "1963-06-east-african-federation",
+   "action": "approve"
+  },
+  {
+   "id": "1963-06-29-university-of-east-africa",
+   "action": "approve"
+  },
+  {
+   "id": "1963-08-nakuru-farmers",
+   "action": "approve"
+  },
+  {
+   "id": "1963-lancaster-house",
+   "action": "approve"
+  },
+  {
+   "id": "1963-10-08-coastal-strip",
+   "action": "approve"
+  },
+  {
+   "id": "1963-11-nfd-violence",
+   "action": "approve"
+  },
+  {
+   "id": "1963-11-pm-respect-law",
+   "action": "approve"
+  },
+  {
+   "id": "1963-11-22-frontier-statement",
+   "action": "approve"
+  },
+  {
+   "id": "1963-12-12-independence",
+   "action": "approve"
+  },
+  {
+   "id": "1963-12-12-uhuru-gardens",
+   "action": "approve"
+  },
+  {
+   "id": "1963-12-12-flag",
+   "action": "approve"
+  },
+  {
+   "id": "1963-anthem",
+   "action": "approve"
+  },
+  {
+   "id": "1963-12-28-nep-emergency",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q1422517",
+   "action": "keep",
+   "date": "1960-05-14",
+   "title": "KANU is formed",
+   "summary": "James Gichuru re-establishes the banned Kenya African Union, and on 14 May it becomes the Kenya African National Union after merging with Tom Mboya's Kenya Independence Movement. KANU will rule Kenya for nearly 40 years."
+  },
+  {
+   "id": "wd-Q239280",
+   "action": "keep",
+   "title": "KADU is formed",
+   "summary": "Leading politicians who refuse to join Kenyatta's KANU form the Kenya African Democratic Union, led by Ronald Ngala. It brings together smaller parties, including Moi's Kalenjin Political Alliance and Masinde Muliro's Baluhya Political Union."
+  },
+  {
+   "id": "wd-Q6483199",
+   "action": "approve",
+   "date": "1960-01",
+   "title": "First Lancaster House conference",
+   "summary": "Kenya's constitutional future is negotiated in London under Colonial Secretary Iain Macleod. There is no agreement, and Macleod issues an interim constitution.",
+   "note": "The article covers all three conferences; this card is the January 1960 one."
+  },
+  {
+   "id": "wd-Q7744096",
+   "action": "approve",
+   "date": "1960-09",
+   "title": "The Kennedy Airlift gets its name",
+   "summary": "Senator John F. Kennedy arranges a $100,000 donation to fly the autumn 1960 group of East African students to colleges in North America. The programme, started by Tom Mboya, brought hundreds of students between 1959 and 1963.",
+   "note": "Dated to September 1960, when the article says the programme got its nickname."
+  },
+  {
+   "id": "wd-Q2539671",
+   "action": "keep",
+   "title": "KANU wins the 1961 election",
+   "summary": "General elections are held in February 1961. KANU wins 19 of the 53 elected seats."
+  },
+  {
+   "id": "wd-Q207724",
+   "action": "keep",
+   "lens": "places",
+   "title": "Maasai Mara game reserve",
+   "summary": "The Maasai Mara national game reserve in Narok County is established. It borders Tanzania's Serengeti and hosts the great wildebeest migration."
+  },
+  {
+   "id": "wd-Q926005",
+   "action": "keep",
+   "lens": "culture",
+   "title": "Legio Maria church founded",
+   "summary": "Legio Maria, an African initiated church among the Luo of western Kenya, breaks away from the Catholic lay movement it grew out of. Its followers believe Simeo Ondetto to be the returned Son of God."
+  },
+  {
+   "id": "wd-Q7622156",
+   "action": "keep",
+   "lens": "culture",
+   "title": "Strathmore founded in Nairobi",
+   "summary": "Strathmore, now a chartered university in Nairobi, is founded."
+  },
+  {
+   "id": "wd-Q141490029",
+   "action": "keep",
+   "lens": "culture",
+   "title": "Kenya Union of Journalists founded",
+   "summary": "The union that represents Kenya's media workers is founded as the Kenya Colony branch of the National Union of Journalists."
+  },
+  {
+   "id": "wd-Q201068",
+   "action": "keep",
+   "lens": "culture",
+   "title": "The coat of arms",
+   "summary": "Kenya's coat of arms shows two lions holding spears and a shield in the national colours, with KANU's rooster on the shield. The scroll beneath reads Harambee, \"pulling together\"."
+  },
+  {
+   "id": "wd-Q16739257",
+   "action": "keep",
+   "title": "Relations with West Germany",
+   "summary": "Kenya and the Federal Republic of Germany establish diplomatic relations in the year of independence."
+  },
+  {
+   "id": "wd-Q63244762",
+   "action": "keep",
+   "lens": "culture",
+   "title": "Goethe-Institut opens in Kenya",
+   "summary": "The German cultural institute opens its Kenyan branch."
+  },
+  {
+   "id": "wd-Q141726910",
+   "action": "keep",
+   "lens": "culture",
+   "title": "Chemchemi Cultural Center opens",
+   "summary": "An arts and cultural centre, Chemchemi, opens in Nairobi."
+  },
+  {
+   "id": "wd-Q6392679",
+   "action": "keep",
+   "title": "Plantation workers' union formed",
+   "summary": "Several unions merge into the Kenya Plantation and Agricultural Workers Union, representing tea, coffee and other farm workers. Its head office is in Nakuru."
+  },
+  {
+   "id": "wd-Q6867007",
+   "action": "keep",
+   "title": "A foreign ministry for independent Kenya",
+   "summary": "Kenya's Ministry of Foreign Affairs is established after independence to run the country's foreign relations."
+  },
+  {
+   "id": "wd-Q3087710",
+   "action": "approve",
+   "title": "The UN Security Council backs Kenya's membership",
+   "summary": "The Security Council unanimously adopts Resolution 185, recommending that the General Assembly admit Kenya to the United Nations."
+  },
+  {
+   "id": "wd-Q17069134",
+   "action": "keep",
+   "title": "The Kenya Army is formed",
+   "summary": "Kenya's land army is formed as British units are handed over around independence."
+  },
+  {
+   "id": "wd-Q675932",
+   "action": "keep",
+   "title": "The Kenya Navy is formed",
+   "summary": "Kenya's navy is formed. It is headquartered in Mombasa."
+  },
+  {
+   "id": "wd-Q48802611",
+   "action": "keep",
+   "title": "National Youth Service founded",
+   "summary": "The National Youth Service is established to train young people in national matters."
+  },
+  {
+   "id": "wd-Q1137383",
+   "action": "keep",
+   "title": "The Kenya Air Force is formed",
+   "summary": "Kenya's air force is established as a branch of the armed forces."
+  },
+  {
+   "id": "wd-Q61179524",
+   "action": "keep",
+   "title": "Kenya becomes a republic",
+   "summary": "On the first anniversary of independence Kenya becomes a republic and Jomo Kenyatta becomes its first President. He holds office until his death in 1978."
+  },
+  {
+   "id": "wd-Q644399",
+   "action": "keep",
+   "lens": "places",
+   "title": "A space centre at Malindi",
+   "summary": "Italy's San Marco equatorial range is developed near Malindi with NASA. From 1967 to 1988 it launches Italian and international satellites.",
+   "note": "Dated 1964 by its Wikipedia category; the article says only that it was developed in the 1960s."
+  },
+  {
+   "id": "wd-Q139546994",
+   "action": "keep",
+   "title": "Operation Binnacle",
+   "summary": "Britain draws up a war plan to intervene militarily if there is a coup in Kenya in 1965. It is cited as evidence of Kenyatta's close ties with the United Kingdom."
+  },
+  {
+   "id": "wd-Q5061569",
+   "action": "keep",
+   "title": "COTU is founded",
+   "summary": "The Central Organization of Trade Unions is founded as the Kenya Federation of Labour and the African Workers' Congress are dissolved. It becomes Kenya's national trade union centre."
+  },
+  {
+   "id": "wd-Q6974126",
+   "action": "keep",
+   "lens": "culture",
+   "title": "Kenya National Library Service set up",
+   "summary": "An Act of Parliament establishes the Kenya National Library Service to run the national library and public libraries."
+  },
+  {
+   "id": "wd-Q3698016",
+   "action": "keep",
+   "title": "Kenya Red Cross established",
+   "summary": "Kenya's national Red Cross society is established."
+  },
+  {
+   "id": "wd-Q139890023",
+   "action": "keep",
+   "lens": "places",
+   "title": "Ahero irrigation scheme",
+   "summary": "The Ahero irrigation scheme is set up."
+  },
+  {
+   "id": "wd-Q2510227",
+   "action": "keep",
+   "title": "The Central Bank of Kenya is founded",
+   "summary": "The Central Bank of Kenya is founded after the East African Currency Board is dissolved. It becomes the country's monetary authority."
+  },
+  {
+   "id": "wd-Q141531969",
+   "action": "keep",
+   "lens": "culture",
+   "title": "Jomo Kenyatta Foundation founded",
+   "summary": "The Jomo Kenyatta Foundation, an educational publisher owned by the state, is founded."
+  },
+  {
+   "id": "wd-Q6392678",
+   "action": "keep",
+   "title": "The Kenya People's Union is formed",
+   "summary": "Jaramogi Oginga Odinga leads a breakaway from KANU to form the socialist Kenya People's Union. It will be banned in 1969."
+  },
+  {
+   "id": "wd-Q1755551",
+   "action": "keep",
+   "lens": "places",
+   "title": "Meru National Park",
+   "summary": "Meru National Park, east of Meru, is created. Joy and George Adamson raised Elsa the lioness of Born Free there."
+  },
+  {
+   "id": "wd-Q2859436",
+   "action": "keep",
+   "title": "Kenya creates its national honours",
+   "summary": "The Order of the Burning Spear, the Order of the Golden Heart and the Distinguished Service Medal are established on the same day. They are awarded by the President for service to the nation.",
+   "source_url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Kenya",
+   "source_name": "Wikipedia: Orders, decorations, and medals of Kenya"
+  },
+  {
+   "id": "wd-Q24236272",
+   "action": "keep",
+   "title": "The \"little general election\"",
+   "summary": "After 29 MPs leave KANU for the Kenya People's Union, a constitutional amendment forces them to seek re-election. The KPU wins the most votes, but KANU wins more seats."
+  },
+  {
+   "id": "wd-Q313071",
+   "action": "keep",
+   "lens": "places",
+   "title": "Lake Nakuru National Park",
+   "summary": "Lake Nakuru National Park is established."
+  },
+  {
+   "id": "wd-Q3695222",
+   "action": "keep",
+   "lens": "places",
+   "title": "Ol Donyo Sabuk National Park",
+   "summary": "A national park is created on Ol Donyo Sabuk mountain in Machakos."
+  },
+  {
+   "id": "wd-Q1887395",
+   "action": "keep",
+   "lens": "places",
+   "title": "Malindi Marine National Park",
+   "summary": "A marine national park is created in the Indian Ocean at Malindi. It is said to be the oldest marine park in Africa."
+  },
+  {
+   "id": "wd-Q1107102",
+   "action": "keep",
+   "lens": "places",
+   "title": "Watamu Marine National Park",
+   "summary": "Watamu Marine National Park is established, one of Kenya's first marine parks. Its coral gardens lie 300 metres from the shore."
+  },
+  {
+   "id": "wd-Q622515",
+   "action": "keep",
+   "lens": "places",
+   "title": "Shimba Hills National Reserve",
+   "summary": "The Shimba Hills reserve near Mombasa is created to protect coastal rainforest, woodland and grassland. Over half of Kenya's rare plants grow there."
+  },
+  {
+   "id": "wd-Q1273335",
+   "action": "keep",
+   "lens": "places",
+   "title": "Mount Elgon National Park",
+   "summary": "The Kenyan side of Mount Elgon is gazetted as a national park. Uganda's side follows in 1992."
+  },
+  {
+   "id": "wd-Q4802307",
+   "action": "keep",
+   "date": "1969-09-24",
+   "title": "The Arusha Agreement",
+   "summary": "Kenya, Uganda and Tanzania sign a treaty with the European Community at Arusha to improve economic relations. It enters into force in 1971."
+  },
+  {
+   "id": "wd-Q19720584",
+   "action": "keep",
+   "lens": "culture",
+   "title": "USIU-Africa founded",
+   "summary": "United States International University-Africa, a private university in Nairobi, is founded."
+  },
+  {
+   "id": "wd-Q17110548",
+   "action": "keep",
+   "title": "The Kisumu massacre",
+   "summary": "The presidential guard and police shoot civilians in Kisumu. The government puts the toll at 11 dead; other sources say close to 100."
+  },
+  {
+   "id": "wd-Q2053487",
+   "action": "keep",
+   "title": "A one-party election",
+   "summary": "In the first general election since independence, KANU is the only party, after the Kenya People's Union was banned on 30 October. Kenyatta is the sole presidential candidate and is returned without a vote."
+  },
+  {
+   "id": "wd-Q202882",
+   "action": "hold",
+   "note": "Wikidata dates the Kenyan shilling to 1964, but the Central Bank that issues it was founded in 1966. Check the year before approving."
+  },
+  {
+   "id": "wd-Q1549127",
+   "action": "hold",
+   "lens": "places",
+   "title": "Lambwe Valley Game Reserve",
+   "summary": "The reserve that later becomes Ruma National Park is created in the Lambwe Valley to protect Kenya's last indigenous roan antelope.",
+   "note": "The article says \"established in 1067\", a typo; its category says 1966. Check the year."
+  },
+  {
+   "id": "wd-Q61931585",
+   "action": "hold",
+   "note": "A government training school; Wikidata gives 1961. Keep only if you want institutional founding dates."
+  },
+  {
+   "id": "wd-Q116693508",
+   "action": "hold",
+   "note": "A training institute for journalists and broadcasters; Wikidata gives 1961. Keep only if you want institutional founding dates."
+  },
+  {
+   "id": "wd-Q720033",
+   "action": "reject",
+   "reason": "Contradicted by its source: Wikipedia says the current Kenya Defence Forces were established by the 2010 Constitution. The army, navy and air force have their own cards."
+  },
+  {
+   "id": "wd-Q7692311",
+   "action": "reject",
+   "reason": "Contradicted by its source: the Technical University of Kenya was chartered in 2013."
+  },
+  {
+   "id": "wd-Q3330879",
+   "action": "reject",
+   "reason": "Contradicted by its source: the National Museum was founded in 1910."
+  },
+  {
+   "id": "wd-Q15036631",
+   "action": "reject",
+   "reason": "Contradicted by its source: Kisii University was established in 2013."
+  },
+  {
+   "id": "wd-Q7589442",
+   "action": "reject",
+   "reason": "Wrong decade: the St. Kizito massacre was in 1991."
+  },
+  {
+   "id": "wd-Q4572454",
+   "action": "reject",
+   "reason": "Outside Kenya: the earthquake struck the Uganda–DRC border."
+  },
+  {
+   "id": "wd-Q139916708",
+   "action": "reject",
+   "reason": "Outside Kenya: a Hong Kong radio show."
+  },
+  {
+   "id": "wd-Q4689959",
+   "action": "reject",
+   "reason": "An international organisation, not a Kenyan event."
+  },
+  {
+   "id": "wd-Q50357831",
+   "action": "reject",
+   "reason": "A foreign government office."
+  },
+  {
+   "id": "wd-Q50573102",
+   "action": "reject",
+   "reason": "A UK charity, not a Kenyan event; duplicated by the Wikipedia candidate."
+  },
+  {
+   "id": "wd-Q7237309",
+   "action": "reject",
+   "reason": "A UK charity, not a Kenyan event."
+  },
+  {
+   "id": "wd-Q108737099",
+   "action": "reject",
+   "reason": "An international organisation's office."
+  },
+  {
+   "id": "wd-Q30260467",
+   "action": "reject",
+   "reason": "An international organisation's office."
+  },
+  {
+   "id": "wd-Q7889497",
+   "action": "reject",
+   "reason": "A foreign military research unit."
+  },
+  {
+   "id": "wd-Q2053483",
+   "action": "reject",
+   "reason": "Duplicate of the hand-written \"KANU wins the general election\"."
+  },
+  {
+   "id": "wd-Q557172",
+   "action": "reject",
+   "reason": "Duplicate of the hand-written \"University of East Africa founded\"."
+  },
+  {
+   "id": "wd-Q30337262",
+   "action": "reject",
+   "reason": "Duplicate of the hand-written \"Independence\"."
+  },
+  {
+   "id": "wd-Q165905",
+   "action": "reject",
+   "reason": "Duplicate of the hand-written \"The flag is adopted\"."
+  },
+  {
+   "id": "wd-Q131321470",
+   "action": "reject",
+   "reason": "A holiday; independence day itself is a hand-written card."
+  },
+  {
+   "id": "wd-Q3062847",
+   "action": "reject",
+   "reason": "A holiday; independence day itself is a hand-written card."
+  },
+  {
+   "id": "wd-Q6726501",
+   "action": "reject",
+   "reason": "A holiday; Madaraka itself is a hand-written card."
+  },
+  {
+   "id": "enwiki-mashujaa-day",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q1271059",
+   "action": "reject",
+   "reason": "Covered by the hand-written 1963 cards on the north; the war as a whole suits a thread."
+  },
+  {
+   "id": "wd-Q16959101",
+   "action": "reject",
+   "reason": "Covered by the hand-written \"Last Lancaster House conference\" and \"Independence\"."
+  },
+  {
+   "id": "wd-Q5915296",
+   "action": "reject",
+   "reason": "An institution; its election is the hand-written general election card."
+  },
+  {
+   "id": "wd-Q2206209",
+   "action": "reject",
+   "reason": "Covered by \"Kenya creates its national honours\"."
+  },
+  {
+   "id": "wd-Q106171249",
+   "action": "reject",
+   "reason": "Covered by \"Kenya creates its national honours\"."
+  },
+  {
+   "id": "wd-Q114",
+   "action": "reject",
+   "reason": "The country itself, not an event."
+  },
+  {
+   "id": "wd-Q2538511",
+   "action": "reject",
+   "reason": "The colony itself, not an event."
+  },
+  {
+   "id": "wd-Q6392538",
+   "action": "reject",
+   "reason": "A state, not an event; covered by \"Independence\"."
+  },
+  {
+   "id": "wd-Q6898087",
+   "action": "reject",
+   "reason": "A title, not an event; covered by \"Independence\"."
+  },
+  {
+   "id": "wd-Q21022441",
+   "action": "reject",
+   "reason": "An institution, not an event."
+  },
+  {
+   "id": "wd-Q1701225",
+   "action": "reject",
+   "reason": "An institution, not an event."
+  },
+  {
+   "id": "wd-Q6978858",
+   "action": "reject",
+   "reason": "An institution, not an event."
+  },
+  {
+   "id": "wd-Q23091421",
+   "action": "reject",
+   "reason": "An institution, not an event."
+  },
+  {
+   "id": "wd-Q14784066",
+   "action": "reject",
+   "reason": "An office, not an event; the republic has its own card."
+  },
+  {
+   "id": "wd-Q3123537",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q2736951",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q6570927",
+   "action": "reject",
+   "reason": "A title, not an event."
+  },
+  {
+   "id": "wd-Q135976627",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q7889319",
+   "action": "reject",
+   "reason": "A foreign diplomatic post."
+  },
+  {
+   "id": "wd-Q113950167",
+   "action": "reject",
+   "reason": "A foreign diplomatic post."
+  },
+  {
+   "id": "wd-Q20716357",
+   "action": "reject",
+   "reason": "A list article."
+  },
+  {
+   "id": "wd-Q111908345",
+   "action": "reject",
+   "reason": "An embassy."
+  },
+  {
+   "id": "wd-Q16528163",
+   "action": "reject",
+   "reason": "An embassy."
+  },
+  {
+   "id": "wd-Q20926176",
+   "action": "reject",
+   "reason": "An embassy."
+  },
+  {
+   "id": "wd-Q61976877",
+   "action": "reject",
+   "reason": "An embassy."
+  },
+  {
+   "id": "wd-Q89344634",
+   "action": "reject",
+   "reason": "An embassy."
+  },
+  {
+   "id": "wd-Q110910041",
+   "action": "reject",
+   "reason": "An embassy."
+  },
+  {
+   "id": "wd-Q135582188",
+   "action": "reject",
+   "reason": "A subject, not an event."
+  },
+  {
+   "id": "wd-Q849508",
+   "action": "reject",
+   "reason": "A lake, not an event; the national park has its own card."
+  },
+  {
+   "id": "wd-Q1721867",
+   "action": "reject",
+   "reason": "A county created in 2013, not a 1960s event."
+  },
+  {
+   "id": "wd-Q17382021",
+   "action": "reject",
+   "reason": "A power station; no 1960s event in the source."
+  },
+  {
+   "id": "wd-Q116449234",
+   "action": "reject",
+   "reason": "A government department; the armed forces have their own cards."
+  },
+  {
+   "id": "wd-Q18204659",
+   "action": "reject",
+   "reason": "A government department under a recent name; no 1960s event in the source."
+  },
+  {
+   "id": "wd-Q113111576",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q23777595",
+   "action": "reject",
+   "reason": "Too little in the source to write a card; it is named in \"KADU is formed\"."
+  },
+  {
+   "id": "wd-Q23777597",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q23777598",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q23777599",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q25183203",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q23777612",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q24236353",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q23777627",
+   "action": "reject",
+   "reason": "Founded long before the 1960s; the category year is unexplained."
+  },
+  {
+   "id": "wd-Q4006836",
+   "action": "reject",
+   "reason": "The source does not say the band formed in 1969."
+  },
+  {
+   "id": "wd-Q46996538",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q46996539",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q46996540",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q46996537",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q870617",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q872036",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q649086",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q872829",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q871600",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q1079423",
+   "action": "reject",
+   "reason": "A church administrative unit."
+  },
+  {
+   "id": "wd-Q15939173",
+   "action": "reject",
+   "reason": "A church body."
+  },
+  {
+   "id": "wd-Q138266870",
+   "action": "reject",
+   "reason": "A church office."
+  },
+  {
+   "id": "wd-Q138268338",
+   "action": "reject",
+   "reason": "A church office."
+  },
+  {
+   "id": "wd-Q138298073",
+   "action": "reject",
+   "reason": "A church office."
+  },
+  {
+   "id": "wd-Q124397832",
+   "action": "reject",
+   "reason": "A church office."
+  },
+  {
+   "id": "wd-Q138268861",
+   "action": "reject",
+   "reason": "A church office."
+  },
+  {
+   "id": "wd-Q138268775",
+   "action": "reject",
+   "reason": "A church office."
+  },
+  {
+   "id": "wd-Q4689558",
+   "action": "reject",
+   "reason": "A minor church."
+  },
+  {
+   "id": "wd-Q16207505",
+   "action": "reject",
+   "reason": "A minor church."
+  },
+  {
+   "id": "wd-Q19595548",
+   "action": "reject",
+   "reason": "A church body."
+  },
+  {
+   "id": "wd-Q137943545",
+   "action": "reject",
+   "reason": "A minor organisation."
+  },
+  {
+   "id": "wd-Q1739085",
+   "action": "reject",
+   "reason": "Sport."
+  },
+  {
+   "id": "wd-Q5387498",
+   "action": "reject",
+   "reason": "Sport."
+  },
+  {
+   "id": "wd-Q6959789",
+   "action": "reject",
+   "reason": "Sport."
+  },
+  {
+   "id": "wd-Q17110606",
+   "action": "reject",
+   "reason": "A beauty pageant."
+  },
+  {
+   "id": "wd-Q17110614",
+   "action": "reject",
+   "reason": "A beauty pageant."
+  },
+  {
+   "id": "wd-Q15036545",
+   "action": "reject",
+   "reason": "A museum; the source gives no 1960s event."
+  },
+  {
+   "id": "wd-Q6392554",
+   "action": "reject",
+   "reason": "A minor professional association."
+  },
+  {
+   "id": "wd-Q141685432",
+   "action": "reject",
+   "reason": "A minor union."
+  },
+  {
+   "id": "wd-Q28223339",
+   "action": "reject",
+   "reason": "A minor college."
+  },
+  {
+   "id": "wd-Q24236287",
+   "action": "reject",
+   "reason": "A minor college."
+  },
+  {
+   "id": "wd-Q140798400",
+   "action": "reject",
+   "reason": "A minor college."
+  },
+  {
+   "id": "wd-Q30262091",
+   "action": "reject",
+   "reason": "A minor organisation."
+  },
+  {
+   "id": "wd-Q28223288",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q55643126",
+   "action": "reject",
+   "reason": "A military unit, not an event."
+  },
+  {
+   "id": "wd-Q6392546",
+   "action": "reject",
+   "reason": "A military unit, not an event."
+  },
+  {
+   "id": "wd-Q55639074",
+   "action": "reject",
+   "reason": "A military unit, not an event."
+  },
+  {
+   "id": "wd-Q140246386",
+   "action": "reject",
+   "reason": "A minor statutory body."
+  },
+  {
+   "id": "wd-Q6027691",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q5252942",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q140811806",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q6970904",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q384451",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q376537",
+   "action": "reject",
+   "reason": "A trade association."
+  }
+ ]
+}

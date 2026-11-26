@@ -1,0 +1,1724 @@
+{
+ "_note": "Drafted by autosort.py from rules on 2026-11-21, then read through by AI before applying. keep = a Wikidata event approved under the trust rule; approve = approved by AI; hold = left for a person; reject = with a reason.",
+ "decisions": [
+  {
+   "id": "wd-Q109356066",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q105637541",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q28124309",
+   "action": "approve",
+   "title": "Ken Walibora dies",
+   "date": "2020-04-10",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q113460052",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460058",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460061",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460065",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q125922831",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q141637375",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q96370659",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q114433590",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q114344719",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q132529638",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q116980498",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q113460055",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2020-01-05-war-in-somalia-camp-simba-attack",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q83806112",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q87930231",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66387157",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q125903138",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q86694873",
+   "action": "reject",
+   "reason": "Africa-wide; Kenya's pandemic has its own card."
+  },
+  {
+   "id": "wd-Q87931234",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q96370224",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q106335570",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2020-03-13-first-case-of-the-covid-19-pandemic-in-t",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q87705884",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2020-03-15-cabinet-secretary-for-health-mutahi-kagw",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q93623661",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q93623664",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113885155",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q99530192",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q87929921",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q139913876",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q102154421",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q93581648",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q97045250",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2020-06-18-kenya-narrowly-achieves-a-majority-in-th",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q113898703",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2020-06-25-police-officers-killed-three-people-at-a",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2020-07-13-a-newly-acquired-md-530f-cayuse-warrior",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q90693156",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q97045382",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q96143529",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113893715",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113582651",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113890580",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113892383",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113895686",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q100788751",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113914484",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2020-10-30-the-united-nations-and-the-world-food-pr",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q113891138",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113894699",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2020-11-16-covid-19-pandemic-schools-close-and-stud",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q135534433",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q113891298",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q96759560",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2020-12-10-a-high-court-orders-the-government-to-co",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2020-12-15-somalia-cuts-diplomatic-ties-with-kenya",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2020-12-16-cholo-abdi-abdullah-30-a-kenyan-national",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2020-12-21-covid-19-pandemic-thousands-of-members-o",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2020-12-30-al-shabaab-gunmen-kill-a-man-taking-his",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q113896650",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q133811616",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q138460651",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140811810",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q141680854",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q114785354",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141804394",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q105044799",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q131428236",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q63442596",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q109313631",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q24236364",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q114231570",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q65121679",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q63442603",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q114450506",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q119840582",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q135274761",
+   "action": "approve",
+   "title": "Somalia v. Kenya at the International Court of Justice"
+  },
+  {
+   "id": "wd-Q105637425",
+   "action": "approve",
+   "title": "The Building Bridges Initiative"
+  },
+  {
+   "id": "wd-Q106977421",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q105790841",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113909369",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113915515",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q106637676",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113913876",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q106098521",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113913903",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113918693",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q130377389",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q113918931",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113925079",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q107166477",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q107214249",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113920833",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113914554",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141804085",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q113944411",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113892873",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113923918",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113924009",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113933237",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113923867",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113929423",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113923993",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113912753",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141804318",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q113937015",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q110343741",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q121046931",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q121046766",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "enwiki-nairobi-contemporary-art-institute",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2020 rather than 2022."
+  },
+  {
+   "id": "wd-Q64216398",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q111911688",
+   "action": "approve",
+   "title": "Kenya Kwanza is formed"
+  },
+  {
+   "id": "wd-Q139023692",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q112041507",
+   "action": "approve",
+   "title": "Azimio la Umoja is formed"
+  },
+  {
+   "id": "wd-Q115805323",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q116824384",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q116449344",
+   "action": "approve",
+   "title": "The Hustler Fund"
+  },
+  {
+   "id": "wd-Q110286012",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q113912712",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113933406",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113887634",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113940835",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113926018",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113926020",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113468585",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q113929640",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q111830188",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q61081811",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q104852988",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q84034298",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q106749460",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q135984970",
+   "action": "reject",
+   "reason": "Covered by the 2022 general election card."
+  },
+  {
+   "id": "wd-Q113614970",
+   "action": "approve",
+   "title": "13th Parliament of Kenya is established"
+  },
+  {
+   "id": "wd-Q113955168",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q114395985",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q116413522",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q114901305",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q115124248",
+   "action": "reject",
+   "reason": "Ethiopia's peace agreement, not a Kenyan event."
+  },
+  {
+   "id": "wd-Q137824480",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q139761963",
+   "action": "approve",
+   "title": "Ambushes at Ogorwen and Orgene",
+   "date": "2023-07"
+  },
+  {
+   "id": "wd-Q131127794",
+   "action": "approve",
+   "title": "Taifa-1, Kenya's earth observation satellite",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q60569535",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q140882334",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q24236460",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q123592992",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q136718154",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q131359953",
+   "action": "reject",
+   "reason": "A state, not an event."
+  },
+  {
+   "id": "wd-Q120197228",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141804256",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q141637367",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141604579",
+   "action": "reject",
+   "reason": "A planned recurring fair."
+  },
+  {
+   "id": "wd-Q114973509",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q117035277",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q116873199",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q116873349",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q124036200",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q125472150",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q125526277",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140908186",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140907853",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140045942",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q133811864",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q118316106",
+   "action": "reject",
+   "reason": "Africa-wide; Kenya's floods have their own cards."
+  },
+  {
+   "id": "wd-Q138297964",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q118903210",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "yl-2023-03-30-a-collision-between-a-pwani-university-b",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141791153",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "yl-2023-04-08-at-least-ten-people-are-killed-in-migori",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-04-15-spacex-launches-earth-observation-satell",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-06-19-kenya-signs-a-trade-deal-with-the-europe",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-06-21-mps-voted-to-increase-vat-on-petroleum-p",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-06-26-president-ruto-signs-into-law-the-financ",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-06-30-londiani-multi-vehicle-crash-more-than-5",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-07-07-anti-government-protests-across-the-coun",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-07-12-anti-government-protests-continue-at-lea",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q120799716",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q138269327",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "yl-2023-10-05-government-reshuffle-in-which-musalia-mu",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-10-09-a-court-in-kenya-blocks-the-government-f",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-11-06-15-people-in-kenya-are-killed-during-flo",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-11-16-the-parliament-of-kenya-approves-the-dep",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-11-17-the-chief-justice-of-kenya-martha-koome",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-11-23-the-very-last-kenya-certificate-of-prima",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-11-27-the-death-toll-from-floods-in-kenya-rise",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-11-29-kevin-mccool-an-off-duty-british-soldier",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-12-10-a-nationwide-power-outage-occurs-in-keny",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-12-12-kenyan-president-william-ruto-announces",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2023-12-22-kenya-s-anti-corruption-commission-charg",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q137049494",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q126912076",
+   "action": "reject",
+   "reason": "Covered by the Finance Bill protests card."
+  },
+  {
+   "id": "wd-Q287210",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2010 rather than 2024."
+  },
+  {
+   "id": "wd-Q140365693",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q18394932",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q125698224",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q113460056",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460059",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460053",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q138460640",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460066",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460063",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123583214",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q124660990",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q125922882",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q131549614",
+   "action": "keep",
+   "title": "Communist Party Marxist - Kenya is founded"
+  },
+  {
+   "id": "yl-2024-02-01-a-gas-truck-explodes-in-a-residential-ar",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-03-01-may-2024-kenya-floods-at-least-238-peopl",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-03-01-president-william-ruto-announces-an-agre",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q124827295",
+   "action": "approve",
+   "title": "A mid-air collision over Nairobi",
+   "lens": "places"
+  },
+  {
+   "id": "yl-2024-03-05-a-cessna-172-on-a-training-flight-crashe",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-03-18-a-bus-carrying-university-students-from",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-03-25-four-people-including-three-police-offic",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q140990263",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "yl-2024-04-18-the-head-of-the-kenya-defence-forces-gen",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q125924337",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2024-05-23-a-u-s-official-announces-president-joe-b",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-05-24-five-miners-are-killed-after-an-illegal",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-06-07-four-construction-workers-are-killed-in",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-06-13-a-judge-is-injured-in-a-shooting-inside",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q126906449",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2024-06-18-ongoing-one-person-is-killed-while-at-le",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-06-23-the-government-of-kenya-says-it-is-ready",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q126915304",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2024-06-26-president-ruto-declines-to-sign-the-cont",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-06-27-thousands-of-people-protest-in-cities-ac",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-07-02-protests-against-the-controversial-rejec",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-07-08-a-kenyan-court-rules-that-the-2022-killi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-07-11-president-ruto-dismisses-his-cabinet-wit",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-07-16-clashes-break-out-nationwide-between-ken",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-07-19-president-ruto-reappoints-six-ministers",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-07-24-president-ruto-appoints-four-members-of",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-07-31-authorities-declare-an-outbreak-of-mpox",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-08-20-suspected-serial-killer-collins-jumaisi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-08-28-8-september-kenya-at-the-2024-summer-par",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q129755147",
+   "action": "reject",
+   "reason": "A recurring conference."
+  },
+  {
+   "id": "yl-2024-09-11-a-strike-is-held-by-employees-of-jomo-ke",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-09-13-germany-and-kenya-agree-on-a-labour-migr",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-09-21-president-ruto-visits-haiti-to-inspect-t",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-10-01-an-impeachment-motion-is-introduced-in-p",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-10-09-kenya-is-elected-to-a-seat-at-the-united",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610217",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "yl-2024-10-17-following-a-majority-vote-by-the-senate",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-11-01-kithure-kindiki-is-inaugurated-as-deputy",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2024-12-04-jackton-odhiambo-is-convicted-for-the-20",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q138679748",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141561730",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q6335503",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q141491582",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q130631703",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q132733123",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "yl-2025-01-03-a-shuttle-collides-with-a-lorry-in-uasin",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-01-10-a-light-aircraft-crashes-into-a-highway",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-01-17-cooper-motor-corporation-announces-its-p",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-02-23-at-least-20-people-are-reported-missing",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-03-03-at-least-four-people-are-shot-and-injure",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-03-07-the-ruling-united-democratic-alliance-of",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-03-10-president-ruto-donates-20-million-shilli",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-03-23-six-police-reservists-are-killed-in-a-cr",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-03-26-kenya-formally-recognizes-kosovo-as-an-i",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-04-05-three-vehicles-collide-along-the-kericho",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-04-21-police-raid-melkio-saint-joseph-missions",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-04-30-orange-democratic-movement-mp-charles-on",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-05-25-mp-george-koimburi-is-abducted-by-unknow",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141874153",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q135100278",
+   "action": "approve",
+   "title": "Death of Albert Ojwang"
+  },
+  {
+   "id": "yl-2025-06-08-the-united-kingdom-announces-the-arrest",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-06-09-a-tour-bus-falls-off-a-cliff-in-gichakha",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q135258576",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2025-06-10-the-european-union-adds-kenya-to-its-lis",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-06-14-a-grob-g-120-of-the-kenya-air-force-cras",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-06-16-eliud-langat-resigns-as-deputy-inspector",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-06-17-one-person-is-killed-in-an-attack-by-mot",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-06-25-at-least-16-people-are-killed-during-ant",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-07-07-at-least-31-people-are-killed-during-ant",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q138266773",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q135266230",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "yl-2025-07-15-three-soldiers-are-killed-by-an-ied-whil",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-07-20-activist-boniface-mwangi-is-arrested-and",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q127786668",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q135615272",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2025-08-08-a-bus-carrying-mourners-from-a-funeral-f",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q135726467",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2025-08-15-kenya-appoints-a-consul-general-for-the",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-08-20-a-judge-orders-the-kenyan-government-to",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-08-21-the-united-kingdom-agrees-to-pay-compens",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-08-21-the-bodies-of-at-five-suspected-victims",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-09-10-senior-lawyer-kyalo-mbobu-is-shot-dead-i",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-09-15-the-high-court-orders-the-arrest-of-a-br",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-09-19-the-government-designates-the-muslim-bro",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-09-27-police-in-nairobi-rescue-22-people-from",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-10-13-a-man-is-arrested-outside-state-house-na",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-10-16-four-people-are-killed-in-nairobi-when-s",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q136526266",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "yl-2025-10-25-the-kenyan-navy-intercepts-a-ship-carryi",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q136659268",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2025-10-28-mombasa-air-safari-flight-203-a-light-ai",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-11-01-at-least-26-people-are-killed-in-a-lands",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-11-08-two-kenyan-activists-abducted-in-uganda",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610433",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "yl-2025-11-27-the-high-court-strikes-down-as-unconstit",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-11-30-kenya-formally-exits-the-comesa-sugar-sa",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-12-09-queen-mary-of-denmark-arrives-in-nairobi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-12-11-the-inaugural-kenya-junior-school-educat",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-12-11-the-nairobi-high-court-suspends-a-2-5-bi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2025-12-15-the-national-cabinet-approves-the-creati",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610163",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q138381754",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q137909268",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q138637932",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q140245826",
+   "action": "approve",
+   "title": "Killing of Rachel Wandeto",
+   "date": "2026-05-16"
+  },
+  {
+   "id": "wd-Q141559492",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-01-02-a-multi-storey-building-under-constructi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-01-03-president-ruto-says-the-government-will",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-01-26-al-shabaab-terrorists-kill-a-local-chief",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610250",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "yl-2026-01-30-koko-networks-announces-its-closure-citi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-02-a-matatu-strike-paralyzes-transport-in-n",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-03-the-tax-appeals-tribunal-rules-that-the",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-03-independent-electoral-and-boundaries-com",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-04-president-ruto-announces-income-tax-exem",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-11-orange-democratic-movement-national-exec",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610488",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "yl-2026-02-16-a-strike-is-held-by-workers-at-jomo-keny",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-17-the-government-unveils-a-national-carbon",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141608644",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "yl-2026-02-26-festus-omwamba-is-charged-at-the-kahawa",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-27-united-democratic-alliance-kenya-wins-is",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-02-28-six-people-are-killed-when-an-airbus-hel",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-03-01-alliance-high-school-kenya-marks-its-cen",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141608897",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q141608804",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "yl-2026-03-07-at-least-45-people-are-killed-in-overnig",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-03-10-a-chinese-national-is-arrested-at-jomo-k",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-03-13-a-court-in-nairobi-convicts-six-people-i",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-03-16-a-building-collapses-during-a-botched-de",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-03-19-the-government-restarts-the-building-of",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-03-22-a-mass-grave-discovered-in-kericho-town",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-04-02-foreign-affairs-minister-musalia-mudavad",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-04-27-final-contingent-of-kenyan-police-office",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-05-01-china-lifts-tariffs-on-imports-from-keny",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-05-01-june-a-wave-of-student-unrest-affects-ov",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q139821980",
+   "action": "reject",
+   "reason": "Mainly in the Democratic Republic of the Congo."
+  },
+  {
+   "id": "yl-2026-05-18-four-people-are-killed-transportation-pa",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-05-20-the-high-court-decriminalizes-consensual",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-05-25-fuel-price-hike-protests-resume-after-a",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-05-28-sixteen-children-are-killed-in-a-fire-at",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-05-29-the-high-court-suspends-a-us-plan-to-est",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141265951",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "yl-2026-06-01-two-people-are-shot-dead-during-a-protes",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-06-03-a-nganya-matatu-performing-a-stunt-at-in",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-06-09-the-switzerland-based-legal-action-world",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-06-15-the-government-announces-compensation-pa",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-06-22-the-high-court-finds-health-cabinet-secr",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610280",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "yl-2026-07-07-police-block-the-saba-saba-day-protests",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610545",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "yl-2026-07-09-edwin-sifuna-is-officially-removed-as-th",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-07-16-ol-kalou-constituency-by-election-sammy",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-07-22-former-migori-county-governor-okoth-obad",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-07-28-9-september-nurses-across-the-country-be",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141610198",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "yl-2026-08-16-four-people-are-killed-during-a-linda-mw",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141131120",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2026-08-19-seven-people-are-killed-when-an-eurocopt",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-09-01-a-forest-fire-breaks-out-at-mount-kenya",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-09-02-ruto-orders-a-crackdown-on-foreigners-wo",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-09-16-five-people-including-two-anti-stock-the",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-09-17-four-people-are-killed-and-at-least-22-o",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-09-30-groundbreaking-of-the-planned-ksh-2-tril",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-10-03-a-road-accident-at-salama-along-the-nair",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-10-06-kenya-reports-its-first-ever-ebola-case",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-10-14-the-high-court-overturns-the-criminal-ac",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-10-19-good-news-international-ministries-cult",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-10-23-an-18-storey-building-along-9th-street-i",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-10-25-a-bus-collides-with-a-truck-along-the-na",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-11-11-the-last-ebola-patient-in-kenya-is-disch",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2026-11-13-six-people-are-killed-and-five-others-in",
+   "action": "approve"
+  }
+ ]
+}

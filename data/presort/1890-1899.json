@@ -1,0 +1,77 @@
+{
+ "_note": "Drafted by autosort.py from rules on 2026-11-21, then read through by AI before applying. keep = a Wikidata event approved under the trust rule; approve = approved by AI; hold = left for a person; reject = with a reason.",
+ "decisions": [
+  {
+   "id": "wd-Q15036547",
+   "action": "reject",
+   "reason": "Before 1895, where the river starts."
+  },
+  {
+   "id": "wd-Q7240759",
+   "action": "reject",
+   "reason": "Before 1895, where the river starts."
+  },
+  {
+   "id": "wd-Q17110796",
+   "action": "reject",
+   "reason": "Before 1895, where the river starts."
+  },
+  {
+   "id": "wd-Q139765030",
+   "action": "reject",
+   "reason": "Before 1895, where the river starts."
+  },
+  {
+   "id": "wd-Q141303532",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141304315",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q136564117",
+   "action": "approve",
+   "title": "The East Africa Rifles are raised",
+   "note": "Dated by its category; the article says the unit was created in 1895."
+  },
+  {
+   "id": "wd-Q876185",
+   "action": "reject",
+   "reason": "A state, not an event."
+  },
+  {
+   "id": "wd-Q140811812",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q4969898",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q500115",
+   "action": "approve",
+   "title": "Work begins on the Uganda Railway",
+   "lens": "places",
+   "note": "Dated by its category; construction began at Mombasa in 1896."
+  },
+  {
+   "id": "wd-Q2510263",
+   "action": "approve",
+   "title": "The Tsavo man-eaters",
+   "lens": "places",
+   "note": "Dated by its category; the lions attacked railway workers at Tsavo in 1898."
+  },
+  {
+   "id": "wd-Q3870",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1637884",
+   "action": "approve"
+  }
+ ]
+}

@@ -1,0 +1,793 @@
+{
+ "_note": "One-off decisions the autosort rules cannot make, by AI on 2026-11-21 after reading the drafts: rejections with reasons, and held items promoted to events with corrected titles and dates. Applied by autosort over its rules.",
+ "decisions": [
+  {
+   "id": "wd-Q135765674",
+   "action": "reject",
+   "reason": "An object, not an event."
+  },
+  {
+   "id": "wd-Q132159480",
+   "action": "reject",
+   "reason": "An expedition outside Kenya."
+  },
+  {
+   "id": "wd-Q14918573",
+   "action": "reject",
+   "reason": "The source describes a different commission (Indian currency)."
+  },
+  {
+   "id": "wd-Q64007191",
+   "action": "reject",
+   "reason": "A monument; the source gives no event."
+  },
+  {
+   "id": "wd-Q122241407",
+   "action": "reject",
+   "reason": "A minor professional association."
+  },
+  {
+   "id": "wd-Q3272625",
+   "action": "keep",
+   "title": "The Kenyatta International Conference Centre opens",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q1193718",
+   "action": "keep",
+   "title": "The Green Belt Movement is founded",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q106342176",
+   "action": "reject",
+   "reason": "Outside Kenya: Uganda–Tanzania War."
+  },
+  {
+   "id": "wd-Q55643127",
+   "action": "reject",
+   "reason": "A military unit, not an event."
+  },
+  {
+   "id": "wd-Q85759463",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q111654470",
+   "action": "reject",
+   "reason": "A recurring observance."
+  },
+  {
+   "id": "wd-Q15980930",
+   "action": "reject",
+   "reason": "The source describes a different party (the Communist Party of Kenya)."
+  },
+  {
+   "id": "wd-Q117837664",
+   "action": "reject",
+   "reason": "The founding of a church; its notable event is later."
+  },
+  {
+   "id": "wd-Q125629001",
+   "action": "reject",
+   "reason": "Somalia's election, not Kenya's."
+  },
+  {
+   "id": "wd-Q2032704",
+   "action": "reject",
+   "reason": "Outside Kenya: a park in Tanzania."
+  },
+  {
+   "id": "wd-Q7225733",
+   "action": "reject",
+   "reason": "Covered by the 2007 general election card."
+  },
+  {
+   "id": "wd-Q7316424",
+   "action": "reject",
+   "reason": "Covered by the 2007 general election card."
+  },
+  {
+   "id": "wd-Q135704105",
+   "action": "reject",
+   "reason": "A recurring conference."
+  },
+  {
+   "id": "wd-Q5013900",
+   "action": "reject",
+   "reason": "A minor foreign-owned radio station."
+  },
+  {
+   "id": "wd-Q6959772",
+   "action": "reject",
+   "reason": "An agreement between Uganda and Sudan, not a Kenyan event."
+  },
+  {
+   "id": "wd-Q1042557",
+   "action": "reject",
+   "reason": "The source names Somalia, Djibouti and Ethiopia, not Kenya."
+  },
+  {
+   "id": "wd-Q6896742",
+   "action": "reject",
+   "reason": "The source text is a list, not this event."
+  },
+  {
+   "id": "wd-Q15305030",
+   "action": "reject",
+   "reason": "The source text describes the 2011–2014 attacks in general; that has its own card."
+  },
+  {
+   "id": "wd-Q16763563",
+   "action": "reject",
+   "reason": "The source text describes the 2011–2014 attacks in general; that has its own card."
+  },
+  {
+   "id": "wd-Q2753888",
+   "action": "approve",
+   "title": "The 2010 Constitution",
+   "date": "2010-08"
+  },
+  {
+   "id": "wd-Q61014565",
+   "action": "reject",
+   "reason": "A power station; no event in the source."
+  },
+  {
+   "id": "wd-Q50828855",
+   "action": "reject",
+   "reason": "A continental agreement, not a Kenyan event."
+  },
+  {
+   "id": "wd-Q81068910",
+   "action": "reject",
+   "reason": "The global pandemic; Kenya's has its own card."
+  },
+  {
+   "id": "wd-Q86694873",
+   "action": "reject",
+   "reason": "Africa-wide; Kenya's pandemic has its own card."
+  },
+  {
+   "id": "wd-Q139821980",
+   "action": "reject",
+   "reason": "Mainly in the Democratic Republic of the Congo."
+  },
+  {
+   "id": "wd-Q115124248",
+   "action": "reject",
+   "reason": "Ethiopia's peace agreement, not a Kenyan event."
+  },
+  {
+   "id": "wd-Q118316106",
+   "action": "reject",
+   "reason": "Africa-wide; Kenya's floods have their own cards."
+  },
+  {
+   "id": "wd-Q135984970",
+   "action": "reject",
+   "reason": "Covered by the 2022 general election card."
+  },
+  {
+   "id": "wd-Q30645367",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q7180818",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q60762784",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q4426277",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q7233983",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q975747",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q22080442",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q30261978",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q5152661",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q4101502",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q22080540",
+   "action": "reject",
+   "reason": "A government department; ministries are not cards."
+  },
+  {
+   "id": "wd-Q6866618",
+   "action": "reject",
+   "reason": "A government department; ministries are not cards."
+  },
+  {
+   "id": "wd-Q25182991",
+   "action": "reject",
+   "reason": "A government department; ministries are not cards."
+  },
+  {
+   "id": "wd-Q5331123",
+   "action": "reject",
+   "reason": "A minor radio station."
+  },
+  {
+   "id": "wd-Q60741505",
+   "action": "reject",
+   "reason": "A minor radio station."
+  },
+  {
+   "id": "wd-Q6392754",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141064234",
+   "action": "reject",
+   "reason": "A recurring conference."
+  },
+  {
+   "id": "wd-Q129755147",
+   "action": "reject",
+   "reason": "A recurring conference."
+  },
+  {
+   "id": "wd-Q141604579",
+   "action": "reject",
+   "reason": "A planned recurring fair."
+  },
+  {
+   "id": "wd-Q2729481",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q136564117",
+   "action": "approve",
+   "title": "The East Africa Rifles are raised",
+   "note": "Dated by its category; the article says the unit was created in 1895."
+  },
+  {
+   "id": "wd-Q500115",
+   "action": "approve",
+   "title": "Work begins on the Uganda Railway",
+   "lens": "places",
+   "note": "Dated by its category; construction began at Mombasa in 1896."
+  },
+  {
+   "id": "wd-Q2510263",
+   "action": "approve",
+   "title": "The Tsavo man-eaters",
+   "lens": "places",
+   "note": "Dated by its category; the lions attacked railway workers at Tsavo in 1898."
+  },
+  {
+   "id": "wd-Q6406452",
+   "action": "approve",
+   "title": "The Kikuyu controversy",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q6935366",
+   "action": "approve",
+   "title": "Mumboism is founded",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q6414603",
+   "action": "approve",
+   "title": "The kipande pass is imposed"
+  },
+  {
+   "id": "wd-Q28223297",
+   "action": "approve",
+   "title": "The Devonshire White Paper"
+  },
+  {
+   "id": "wd-Q5442751",
+   "action": "approve",
+   "title": "Campaign against female genital mutilation",
+   "date": "1929",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q7676469",
+   "action": "approve",
+   "title": "The Taita Hills Association is founded"
+  },
+  {
+   "id": "wd-Q6366571",
+   "action": "approve",
+   "title": "The Kapenguria Six are arrested"
+  },
+  {
+   "id": "wd-Q42322987",
+   "action": "approve",
+   "title": "The Mombasa tusks are built",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q7659389",
+   "action": "approve",
+   "title": "The Swynnerton Plan"
+  },
+  {
+   "id": "wd-Q2384385",
+   "action": "approve",
+   "title": "The Nairobi Stock Exchange opens"
+  },
+  {
+   "id": "wd-Q384103",
+   "action": "approve",
+   "title": "Amref is founded"
+  },
+  {
+   "id": "wd-Q4683420",
+   "action": "approve",
+   "title": "The Administration Police is established"
+  },
+  {
+   "id": "wd-Q182016",
+   "action": "approve",
+   "title": "The UN Environment Programme is established",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q5560444",
+   "action": "approve",
+   "title": "GEMA is founded"
+  },
+  {
+   "id": "wd-Q2349521",
+   "action": "approve",
+   "title": "KNM ER 3733 is found",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q1176629",
+   "action": "approve",
+   "title": "The Sheldrick Wildlife Trust is founded",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q6392686",
+   "action": "approve",
+   "title": "The Kenya Ports Authority is established",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q487883",
+   "action": "approve",
+   "title": "UN-Habitat is established",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q65118163",
+   "action": "approve",
+   "title": "Daniel arap Moi becomes president",
+   "date": "1978-08-22"
+  },
+  {
+   "id": "wd-Q7556304",
+   "action": "approve",
+   "title": "A total solar eclipse crosses Kenya",
+   "date": "1980-02-16",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q1418632",
+   "action": "approve",
+   "title": "Turkana Boy is found",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q132472496",
+   "action": "approve",
+   "title": "FIDA Kenya is founded"
+  },
+  {
+   "id": "wd-Q2996268",
+   "action": "approve",
+   "title": "The Nairobi Convention",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q1784196",
+   "action": "approve",
+   "title": "Kora becomes a national park",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q136723177",
+   "action": "approve",
+   "title": "The Christiana Hama sinks",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q131936106",
+   "action": "approve",
+   "title": "The Dadaab refugee camps open",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q123560288",
+   "action": "approve",
+   "title": "Kakuma refugee camp opens",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q42695",
+   "action": "approve",
+   "title": "The .ke domain is created",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q2757422",
+   "action": "approve",
+   "title": "Save the Elephants is founded",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q1666743",
+   "action": "approve",
+   "title": "The International Livestock Research Institute is founded"
+  },
+  {
+   "id": "wd-Q1636583",
+   "action": "approve",
+   "title": "The EastAfrican is first published",
+   "date": "1994-11-07",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q2545159",
+   "action": "approve",
+   "title": "UN Security Council Resolution 1189",
+   "date": "1998-08-13"
+  },
+  {
+   "id": "wd-Q1153249",
+   "action": "approve",
+   "title": "Kenya Airways Flight 431 crashes",
+   "date": "2000-01-30",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q5327657",
+   "action": "approve",
+   "title": "The East African Legislative Assembly opens"
+  },
+  {
+   "id": "wd-Q65118136",
+   "action": "approve",
+   "title": "Mwai Kibaki becomes president",
+   "date": "2002-12-30"
+  },
+  {
+   "id": "wd-Q4601769",
+   "action": "approve",
+   "title": "The Ringera report on the judiciary"
+  },
+  {
+   "id": "wd-Q4892999",
+   "action": "approve",
+   "title": "A tribunal investigates Chief Justice Chunga"
+  },
+  {
+   "id": "wd-Q4646589",
+   "action": "approve",
+   "title": "The 9th Parliament opens"
+  },
+  {
+   "id": "wd-Q5584341",
+   "action": "approve",
+   "title": "The Gor Sunguh Commission"
+  },
+  {
+   "id": "wd-Q7427621",
+   "action": "approve",
+   "title": "Sauti Sol is formed",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q65086824",
+   "action": "approve",
+   "title": "The handshake",
+   "date": "2018-03-09",
+   "note": "The article dates it 9 March 2018; its category had 2007."
+  },
+  {
+   "id": "wd-Q1739099",
+   "action": "approve",
+   "title": "Kenya Airways Flight 507 crashes",
+   "date": "2007-05-05",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q6392757",
+   "action": "approve",
+   "title": "Kenya Vision 2030 is launched"
+  },
+  {
+   "id": "wd-Q5589265",
+   "action": "approve",
+   "title": "The Government of National Unity is formed"
+  },
+  {
+   "id": "wd-Q4547082",
+   "action": "approve",
+   "title": "The 10th Parliament opens"
+  },
+  {
+   "id": "wd-Q7106071",
+   "action": "approve",
+   "title": "Oscar Kingara is killed",
+   "date": "2009-03-05"
+  },
+  {
+   "id": "wd-Q3545957",
+   "action": "approve",
+   "title": "The MTV Africa Music Awards in Nairobi",
+   "date": "2009-10-10",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q136289007",
+   "action": "approve",
+   "title": "The Endorois case"
+  },
+  {
+   "id": "wd-Q5971163",
+   "action": "approve",
+   "title": "iHub opens in Nairobi",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q96418632",
+   "action": "approve",
+   "title": "The International Criminal Court investigates Kenya"
+  },
+  {
+   "id": "wd-Q687030",
+   "action": "approve",
+   "title": "The EASSy undersea cable lands",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q4617656",
+   "action": "approve",
+   "title": "A border clash with al-Shabaab",
+   "date": "2010-07-20"
+  },
+  {
+   "id": "wd-Q5137952",
+   "action": "approve",
+   "title": "The CORD coalition is formed"
+  },
+  {
+   "id": "wd-Q70252",
+   "action": "approve",
+   "title": "Provinces give way to 47 counties",
+   "date": "2013-03"
+  },
+  {
+   "id": "wd-Q15993156",
+   "action": "approve",
+   "title": "Death of Mutula Kilonzo",
+   "date": "2013-04-27"
+  },
+  {
+   "id": "wd-Q17007305",
+   "action": "approve",
+   "title": "The 11th Parliament opens"
+  },
+  {
+   "id": "wd-Q17110765",
+   "action": "approve",
+   "title": "Uhuru Kenyatta becomes president",
+   "date": "2013-04-09"
+  },
+  {
+   "id": "wd-Q65062089",
+   "action": "approve",
+   "title": "The Beyond Zero campaign"
+  },
+  {
+   "id": "wd-Q24236329",
+   "action": "approve",
+   "title": "Pope Francis visits Kenya",
+   "date": "2015-11-25",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q108427913",
+   "action": "approve",
+   "title": "Willie Kimani is killed",
+   "date": "2016-06-23"
+  },
+  {
+   "id": "wd-Q27990965",
+   "action": "approve",
+   "title": "The Naivasha tanker explosion",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q24088686",
+   "action": "approve",
+   "title": "The Mombasa–Nairobi Standard Gauge Railway opens",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q30589468",
+   "action": "approve",
+   "title": "The National Super Alliance is formed"
+  },
+  {
+   "id": "wd-Q47486410",
+   "action": "approve",
+   "title": "The 12th Parliament opens"
+  },
+  {
+   "id": "wd-Q134437548",
+   "action": "approve",
+   "title": "Fly-SAX Flight 102 crashes",
+   "date": "2018-06-05",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q54263824",
+   "action": "approve",
+   "title": "Kenya's first satellite",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q61707724",
+   "action": "approve",
+   "title": "Death of Caroline Mwatha",
+   "date": "2019-02-06"
+  },
+  {
+   "id": "wd-Q85850121",
+   "action": "approve",
+   "title": "Landslides in West Pokot",
+   "date": "2019-11",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q28124309",
+   "action": "approve",
+   "title": "Ken Walibora dies",
+   "date": "2020-04-10",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q105637425",
+   "action": "approve",
+   "title": "The Building Bridges Initiative"
+  },
+  {
+   "id": "wd-Q135274761",
+   "action": "approve",
+   "title": "Somalia v. Kenya at the International Court of Justice"
+  },
+  {
+   "id": "wd-Q112041507",
+   "action": "approve",
+   "title": "Azimio la Umoja is formed"
+  },
+  {
+   "id": "wd-Q111911688",
+   "action": "approve",
+   "title": "Kenya Kwanza is formed"
+  },
+  {
+   "id": "wd-Q116449344",
+   "action": "approve",
+   "title": "The Hustler Fund"
+  },
+  {
+   "id": "wd-Q139761963",
+   "action": "approve",
+   "title": "Ambushes at Ogorwen and Orgene",
+   "date": "2023-07"
+  },
+  {
+   "id": "wd-Q131127794",
+   "action": "approve",
+   "title": "Taifa-1, Kenya's earth observation satellite",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q124827295",
+   "action": "approve",
+   "title": "A mid-air collision over Nairobi",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q135100278",
+   "action": "approve",
+   "title": "Death of Albert Ojwang"
+  },
+  {
+   "id": "wd-Q140245826",
+   "action": "approve",
+   "title": "Killing of Rachel Wandeto",
+   "date": "2026-05-16"
+  },
+  {
+   "id": "wd-Q6392594",
+   "action": "approve",
+   "title": "The Kenya Literature Bureau is founded",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q16963147",
+   "action": "approve",
+   "title": "Maendeleo ya Wanawake is founded"
+  },
+  {
+   "id": "wd-Q30262070",
+   "action": "approve",
+   "title": "The East Africa Natural History Society is founded",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q11301158",
+   "action": "reject",
+   "reason": "Covered by the Mau Mau rebellion card."
+  },
+  {
+   "id": "wd-Q5991218",
+   "action": "reject",
+   "reason": "Covered by the Dadaab refugee camps card."
+  },
+  {
+   "id": "wd-Q123517749",
+   "action": "reject",
+   "reason": "Covered by the Dadaab refugee camps card."
+  },
+  {
+   "id": "wd-Q126912076",
+   "action": "reject",
+   "reason": "Covered by the Finance Bill protests card."
+  },
+  {
+   "id": "wd-Q7320594",
+   "action": "reject",
+   "reason": "Sport."
+  },
+  {
+   "id": "wd-Q3994811",
+   "action": "reject",
+   "reason": "Sport, outside Kenya."
+  }
+ ]
+}

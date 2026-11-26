@@ -1,0 +1,143 @@
+{
+ "_note": "Drafted by autosort.py from rules on 2026-11-21, then read through by AI before applying. keep = a Wikidata event approved under the trust rule; approve = approved by AI; hold = left for a person; reject = with a reason.",
+ "decisions": [
+  {
+   "id": "wd-Q6392576",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q6414603",
+   "action": "approve",
+   "title": "The kipande pass is imposed"
+  },
+  {
+   "id": "wd-Q5327641",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q114246525",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q17110905",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q138579",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q4370220",
+   "action": "keep",
+   "title": "Kenya Police is established"
+  },
+  {
+   "id": "wd-Q1278269",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q25183218",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q8058209",
+   "action": "keep",
+   "title": "Young Kikuyu Association is founded"
+  },
+  {
+   "id": "wd-Q50357033",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q42843020",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q119820540",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q7049259",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q28223297",
+   "action": "approve",
+   "title": "The Devonshire White Paper"
+  },
+  {
+   "id": "wd-Q116987070",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q64007191",
+   "action": "reject",
+   "reason": "A monument; the source gives no event."
+  },
+  {
+   "id": "wd-Q140798383",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q140798381",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q48796348",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6392891",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q15036543",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1364719",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q2536086",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q132159480",
+   "action": "reject",
+   "reason": "An expedition outside Kenya."
+  },
+  {
+   "id": "wd-Q14918573",
+   "action": "reject",
+   "reason": "The source describes a different commission (Indian currency)."
+  },
+  {
+   "id": "wd-Q872335",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q6392893",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q17074821",
+   "action": "keep"
+  }
+ ]
+}

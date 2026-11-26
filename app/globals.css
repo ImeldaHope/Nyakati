@@ -1,0 +1,1061 @@
+/* Nyakati: an archive at night. Warm paper, ink, and one earth red. */
+
+:root {
+  /* Palette, from the plan. Contrast against --ground (WCAG 2.x):
+     paper 15.4, paper-dim 6.8, brass 6.0, slate 4.8 pass as body text (4.5).
+     murram 3.2 and acacia 3.9 pass only for large text and marks (3.0),
+     so small text in those hues uses the -ink variants below. */
+  --ground: #14110f;
+  --paper: #efe8da;
+  --paper-dim: #a39a88;
+  --murram: #a8452f; /* red laterite road soil: current year, active lens, links */
+  --acacia: #5e7a57; /* Culture */
+  --brass: #b8893b; /* Places, thread lines */
+  --slate: #6f8296; /* News */
+  --rule: rgb(239 232 218 / 0.14);
+
+  /* Same hue, lightened until it reaches 4.6:1 on --ground. For small text only. */
+  --murram-ink: #cb5c44;
+  --acacia-ink: #67865f;
+
+  --lens-politics: var(--murram);
+  --lens-news: var(--slate);
+  --lens-culture: var(--acacia);
+  --lens-places: var(--brass);
+
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-body: var(--font-geist), system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  /* The one ease-out curve (GSAP power3.out). */
+  --ease: cubic-bezier(0.25, 1, 0.5, 1);
+  --gutter: 16px;
+}
+
+@media (min-width: 760px) {
+  :root {
+    --gutter: 32px;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+
+body {
+  /* The ground: warm near-black with a faint paper grain, an archive at night. */
+  background-color: var(--ground);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.94 0 0 0 0 0.91 0 0 0 0 0.85 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  color: var(--paper);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button,
+input {
+  font: inherit;
+  color: inherit;
+}
+
+a {
+  color: var(--murram-ink);
+  text-underline-offset: 0.2em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--murram-ink);
+  outline-offset: 4px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* Year numerals: Fraunces at its heaviest optical size. The river's canvas draws them
+   with the same weight and letter-spacing, so the numeral can travel without a jump. */
+.room-numeral {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-variation-settings: "opsz" 144, "SOFT" 0, "WONK" 0;
+  line-height: 0.8;
+  letter-spacing: -0.03em;
+  font-variant-numeric: lining-nums;
+}
+
+/* ---------- The river ---------- */
+
+/* A canvas draws the years, marks and eras (components/River.tsx). The scroller above it
+   is native, so touch momentum and scroll-linked drawing come for free. */
+
+.river-screen {
+  position: fixed;
+  inset: 0;
+}
+
+.river-screen[data-covered] {
+  opacity: 0;
+}
+
+.river-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.river {
+  position: absolute;
+  inset: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+.river::-webkit-scrollbar {
+  display: none;
+}
+
+.river[data-pointing] {
+  cursor: pointer;
+}
+
+.river[data-dragging] {
+  cursor: grabbing;
+  user-select: none;
+}
+
+.river-spacer {
+  position: relative;
+}
+
+/* One invisible button per year, laid over its cell: focus, keyboard and screen readers. */
+.river-years {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.river-years li {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(var(--pad) + var(--i) * var(--cell));
+  height: var(--cell);
+  pointer-events: none;
+}
+
+.river-year {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: transparent;
+  font-size: 1px;
+  pointer-events: none;
+}
+
+.river-year:focus-visible {
+  outline: none; /* the ring is drawn on the canvas, around the numeral */
+}
+
+.mark-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 260px;
+  padding: 6px 10px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--ground);
+  font-size: 13px;
+  line-height: 1.3;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 150ms var(--ease);
+}
+
+.mark-tip[data-show] {
+  opacity: 1;
+}
+
+/* The arrival: one line of text under the era bar (26px, drawn on the canvas). */
+.river-ui {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  right: 0;
+  padding: 14px var(--gutter) 24px;
+  background: linear-gradient(to bottom, var(--ground) 55%, transparent);
+  pointer-events: none;
+}
+
+.arrival {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 10px;
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.35;
+  color: var(--paper-dim);
+  pointer-events: auto;
+}
+
+.arrival-hint {
+  display: none;
+}
+
+.wordmark {
+  font-family: var(--font-display);
+  font-size: 18px;
+  color: var(--paper);
+}
+
+/* "type a year": an underline in the sentence, not a form. Typing digits anywhere fills it. */
+.jump-input {
+  width: 4.6ch;
+  padding: 0 2px 1px;
+  border: 0;
+  border-bottom: 1px solid rgb(239 232 218 / 0.35);
+  border-radius: 0;
+  background: none;
+  font-family: var(--font-mono);
+  font-size: 16px; /* 16px stops iOS zooming on focus */
+  line-height: 1.2;
+  color: var(--paper);
+}
+
+.jump-input::placeholder {
+  color: rgb(239 232 218 / 0.3);
+}
+
+.jump-input:focus {
+  outline: none;
+  border-bottom-color: var(--murram-ink);
+}
+
+.jump-error {
+  flex-basis: 100%;
+  font-size: 12px;
+  color: var(--murram-ink);
+}
+
+/* The foot: page links and zoom, as quiet text. */
+.river-foot {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 12px var(--gutter) calc(14px + env(safe-area-inset-bottom));
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+
+.river-foot > * {
+  display: flex;
+  gap: 14px;
+  pointer-events: auto;
+}
+
+.river-foot a,
+.zoom button {
+  padding: 6px 0;
+  border: 0;
+  background: none;
+  color: var(--paper-dim);
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.river-foot a:hover,
+.zoom button:hover {
+  color: var(--paper);
+}
+
+.zoom button[aria-pressed="true"] {
+  color: var(--paper);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+
+@media (min-width: 760px) {
+  .river {
+    overflow-x: auto;
+    overflow-y: hidden;
+    cursor: grab;
+  }
+
+  .river-spacer {
+    height: 100%;
+  }
+
+  .river-years li {
+    top: 0;
+    bottom: 0;
+    left: calc(var(--pad) + var(--i) * var(--cell));
+    right: auto;
+    width: var(--cell);
+    height: auto;
+  }
+
+  .river-ui {
+    padding: 16px var(--gutter) 28px;
+  }
+
+  .arrival {
+    font-size: 15px;
+    gap: 4px 12px;
+  }
+
+  .arrival-hint {
+    display: inline;
+  }
+
+  .wordmark {
+    font-size: 20px;
+    margin-right: 4px;
+  }
+
+  .river-foot {
+    padding-bottom: 20px;
+  }
+}
+
+/* ---------- The year room ---------- */
+
+.room {
+  position: fixed;
+  inset: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 0 var(--gutter) 120px;
+}
+
+.room-bar {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 0 calc(var(--gutter) * -1);
+  padding: 12px var(--gutter);
+  background: linear-gradient(to bottom, var(--ground) 70%, transparent);
+}
+
+.room-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: var(--ground);
+  font-size: 14px;
+  cursor: pointer;
+  transition: border-color 300ms var(--ease);
+}
+
+.room-back:hover {
+  border-color: var(--paper-dim);
+}
+
+kbd {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--paper-dim);
+}
+
+@media (hover: none) {
+  .room-back kbd {
+    display: none;
+  }
+}
+
+.lens-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 4px;
+}
+
+.lens-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background-color 300ms var(--ease);
+}
+
+.lens-tab:hover {
+  background: rgb(239 232 218 / 0.05);
+}
+
+.lens-tab[aria-current="page"] {
+  background: rgb(239 232 218 / 0.1);
+}
+
+.lens-tab[aria-current="page"] .lens-tag {
+  color: var(--paper);
+}
+
+.news-title a {
+  color: var(--paper);
+  text-decoration: none;
+}
+
+.news-title a:hover {
+  text-decoration: underline;
+}
+
+/* The thread panel: which thread is drawn, and its events as links. */
+.thread-panel {
+  position: fixed;
+  left: var(--gutter);
+  bottom: calc(56px + env(safe-area-inset-bottom));
+  width: min(360px, calc(100vw - 2 * var(--gutter)));
+  max-height: 46dvh;
+  overflow-y: auto;
+  padding: 16px 18px;
+  border: 1px solid var(--rule);
+  border-left: 2px solid var(--brass);
+  border-radius: 4px;
+  background: var(--ground);
+}
+
+.thread-kicker {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.thread-kicker a {
+  color: var(--paper-dim);
+}
+
+.thread-title {
+  margin: 4px 0 6px;
+  font-family: var(--font-display);
+  font-size: 26px;
+  font-weight: 400;
+  color: var(--brass);
+}
+
+.thread-description {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: rgb(239 232 218 / 0.86);
+}
+
+.thread-events summary {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--paper-dim);
+  cursor: pointer;
+}
+
+.thread-events ol {
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 13px;
+}
+
+.thread-events li + li {
+  margin-top: 6px;
+}
+
+.thread-events a {
+  color: var(--paper);
+  text-decoration: none;
+}
+
+.thread-events a:hover {
+  text-decoration: underline;
+}
+
+.thread-year {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--brass);
+}
+
+.foot-label {
+  padding: 6px 0;
+  color: rgb(239 232 218 / 0.35);
+}
+
+.river-foot nav {
+  flex-wrap: wrap;
+  row-gap: 0;
+}
+
+.river-foot a[aria-current="page"] {
+  color: var(--brass);
+}
+
+.lens-count {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--paper-dim);
+}
+
+.room-head {
+  padding: 8px 0 24px;
+}
+
+/* The numeral fills the width and becomes the room's header. */
+.room-numeral {
+  display: inline-block;
+  margin: 0;
+  font-size: min(calc((100vw - var(--gutter) * 2) / 2.55), 50dvh);
+}
+
+.baseline-probe {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  vertical-align: baseline;
+}
+
+.room-numeral:focus {
+  outline: none;
+}
+
+.room-count {
+  margin: 16px 0 0;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.room-grid {
+  display: grid;
+  /* minmax(0, …) so the swipeable image strip scrolls inside the column instead of widening it. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: 40px;
+}
+
+.room-note,
+.room-empty {
+  margin: 0 0 32px;
+  padding-left: 12px;
+  border-left: 2px solid var(--murram);
+  font-size: 14px;
+  color: var(--paper-dim);
+}
+
+.room-empty {
+  font-family: var(--font-display);
+  font-size: 22px;
+  line-height: 1.35;
+  color: var(--paper);
+}
+
+.month + .month {
+  margin-top: 32px;
+}
+
+.month-label {
+  margin: 0 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--rule);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.cards {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card + .card {
+  margin-top: 24px;
+}
+
+.card-date {
+  margin: 0 0 4px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.card-title {
+  margin: 0 0 6px;
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 400;
+  font-variation-settings: "opsz" 36;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+.card-summary {
+  margin: 0 0 10px;
+  color: rgb(239 232 218 / 0.86);
+  text-wrap: pretty;
+}
+
+/* Where and who, from Wikidata: a quiet line of links between the summary and the source. */
+.card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 0;
+  margin: 0 0 10px;
+  font-size: 0.85rem;
+  color: var(--paper-dim);
+}
+
+.card-meta a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: rgb(163 154 136 / 0.4);
+  text-underline-offset: 3px;
+}
+
+.card-meta a:hover {
+  color: var(--paper);
+}
+
+.card-meta a + a::before {
+  content: "·";
+  display: inline-block;
+  padding: 0 8px;
+  color: var(--paper-dim);
+}
+
+.card-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 14px;
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--paper-dim);
+}
+
+.lens-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--paper-dim);
+}
+
+.lens-tag::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  background: var(--lens);
+}
+
+.lens-tag[data-lens="politics"] { --lens: var(--lens-politics); }
+.lens-tag[data-lens="news"] { --lens: var(--lens-news); }
+.lens-tag[data-lens="culture"] { --lens: var(--lens-culture); }
+.lens-tag[data-lens="places"] { --lens: var(--lens-places); }
+
+.lens-tag[data-shape="circle"]::before { border-radius: 50%; }
+/* All is not a lens, so it has no mark. */
+.lens-all::before { display: none; }
+.lens-tag[data-shape="diamond"]::before { transform: rotate(45deg) scale(0.85); }
+.lens-tag[data-shape="triangle"]::before {
+  width: 9px;
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+}
+
+.source {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  /* 44px-tall tap target without changing the line. */
+  padding: 12px 0;
+  margin: -12px 0;
+}
+
+.source-marker {
+  display: inline-grid;
+  place-items: center;
+  min-width: 18px;
+  height: 18px;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  font-size: 11px;
+  line-height: 1;
+}
+
+.report {
+  margin-left: auto;
+  color: var(--paper-dim);
+}
+
+.licence {
+  opacity: 0.8;
+}
+
+.guide-body {
+  padding: 20px;
+  border: 1px dashed var(--rule);
+  border-radius: 4px;
+}
+
+/* The image strip. Photographs keep their natural aspect ratio and are never cropped.
+   Phones: a row you swipe, every image the same height. */
+.strip {
+  display: flex;
+  gap: 16px;
+  margin: 0 calc(var(--gutter) * -1);
+  padding: 0 var(--gutter) 8px;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: thin;
+}
+
+.strip li {
+  flex: none;
+  width: min(calc(220px * var(--ratio)), 78vw);
+  scroll-snap-align: start;
+}
+
+.strip figure {
+  margin: 0;
+}
+
+.strip img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: rgb(239 232 218 / 0.04);
+}
+
+.strip figcaption {
+  display: grid;
+  gap: 4px;
+  padding-top: 8px;
+}
+
+.strip-caption {
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--paper);
+}
+
+.strip-credit {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  line-height: 1.5;
+  color: var(--paper-dim);
+}
+
+.strip-credit a {
+  color: var(--paper-dim);
+}
+
+.strip-credit a:hover {
+  color: var(--murram-ink);
+}
+
+.placeholder-label {
+  display: block;
+  margin: 0 0 8px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--paper-dim);
+}
+
+.placeholder-text {
+  margin: 0;
+  font-size: 14px;
+  color: var(--paper-dim);
+}
+
+.guide-input {
+  width: 100%;
+  margin-bottom: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: none;
+}
+
+.guide-input::placeholder {
+  color: var(--paper-dim);
+}
+
+.guide-form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.guide-form .guide-input {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  font-size: 16px; /* no zoom on iOS */
+}
+
+.guide-ask {
+  padding: 0 14px;
+  border: 1px solid var(--murram);
+  border-radius: 4px;
+  background: var(--murram);
+  color: var(--paper);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.guide-ask:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.guide-asked {
+  margin: 0 0 8px;
+  font-family: var(--font-display);
+  font-size: 17px;
+}
+
+.guide-wait {
+  margin: 0;
+  font-size: 14px;
+  color: var(--paper-dim);
+}
+
+.guide-text {
+  margin: 0 0 12px;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+/* Sentences appear one at a time; each marker fades in after its sentence passed the check. */
+.guide-sentence {
+  animation: guide-in 400ms var(--ease) calc(var(--i, 0) * 350ms) both;
+}
+
+.guide-sentence .guide-marker {
+  animation-delay: calc(var(--i, 0) * 350ms + 250ms);
+}
+
+.guide-marker {
+  display: inline-grid;
+  place-items: center;
+  min-width: 16px;
+  height: 16px;
+  margin-left: 3px;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  line-height: 1;
+  text-decoration: none;
+  vertical-align: 2px;
+  animation: guide-in 300ms var(--ease) 250ms both;
+}
+
+@keyframes guide-in {
+  from {
+    opacity: 0;
+  }
+}
+
+.guide-sources {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding: 12px 0 0 1.4em;
+  border-top: 1px solid var(--rule);
+  font-size: 13px;
+}
+
+.guide-sources li::marker {
+  font-family: var(--font-mono);
+  color: var(--paper-dim);
+}
+
+.guide-sources li:target {
+  outline: 1px solid var(--murram-ink);
+  outline-offset: 4px;
+}
+
+.guide-passage {
+  margin: 0 0 4px;
+  color: rgb(239 232 218 / 0.86);
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.guide-source {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--paper-dim);
+}
+
+/* Mobile: the guide is a bottom sheet. */
+.room-guide {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+  padding: 0 var(--gutter) calc(12px + env(safe-area-inset-bottom));
+  background: var(--ground);
+  border-top: 1px solid var(--rule);
+}
+
+.guide-toggle {
+  display: block;
+  width: 100%;
+  padding: 14px 0;
+  border: 0;
+  background: none;
+  font-family: var(--font-display);
+  font-size: 18px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.guide-toggle::after {
+  content: "↑";
+  float: right;
+  color: var(--paper-dim);
+  transition: transform 300ms var(--ease);
+}
+
+.room-guide[data-open] .guide-toggle::after {
+  transform: rotate(180deg);
+}
+
+.guide-body {
+  display: none;
+  margin-bottom: 8px;
+}
+
+.room-guide[data-open] .guide-body {
+  display: block;
+  max-height: 70dvh;
+  overflow-y: auto;
+}
+
+@media (min-width: 1024px) {
+  .room {
+    padding-bottom: 80px;
+  }
+
+  /* Events 4 of 12, images 5, guide 3. */
+  .room-grid {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 32px;
+    align-items: start;
+  }
+
+  .room-events {
+    grid-column: span 4;
+  }
+
+  .room-images {
+    grid-column: span 5;
+  }
+
+  /* Desktop: a column, each image at full column width. */
+  .strip {
+    flex-direction: column;
+    gap: 28px;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+  }
+
+  .strip li {
+    width: auto;
+    max-width: calc(440px * var(--ratio)); /* tall portraits narrow rather than tower */
+  }
+
+  .room-guide {
+    grid-column: span 3;
+    position: sticky;
+    top: 80px;
+    max-height: calc(100dvh - 100px);
+    overflow-y: auto;
+    padding: 0;
+    border: 0;
+    background: none;
+  }
+
+  .guide-toggle {
+    display: none;
+  }
+
+  .guide-body {
+    display: block;
+  }
+}
+
+/* Reduced motion: every transition becomes a 150 ms cross-fade (the plan). CSS animations
+   (the guide's sentences and markers) fade in at once, with no stagger. JS motion checks
+   prefers-reduced-motion itself: the river's current stands still, zooms are instant, and
+   entering or leaving a year cross-fades. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 150ms !important;
+    animation-duration: 150ms !important;
+    animation-delay: 0ms !important;
+    scroll-behavior: auto !important;
+  }
+}

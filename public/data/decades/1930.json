@@ -1,0 +1,101 @@
+{
+ "decade": 1930,
+ "events": [
+  {
+   "id": "wd-Q6392895",
+   "date": "1931-01-01",
+   "date_precision": "year",
+   "title": "1931 Kenyan general election",
+   "summary": "General elections were held in Kenya Colony in 1931. Five of the eleven white seats in the Legislative Council were uncontested, with Lord Delamere amongst those returned unopposed.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/1931_Kenyan_general_election",
+   "source_name": "Wikipedia: 1931 Kenyan general election",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q6392896",
+   "date": "1934-03-28",
+   "date_precision": "day",
+   "title": "1934 Kenyan general election",
+   "summary": "General elections were held in Kenya Colony in 1934, with the first seats elected on 28 March. Four candidates were returned unopposed in the eleven Europeans constituencies, whilst the remaining seven constituencies were contested by 18 candidates.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/1934_Kenyan_general_election",
+   "source_name": "Wikipedia: 1934 Kenyan general election",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q6392897",
+   "date": "1938-01-01",
+   "date_precision": "year",
+   "title": "1938 Kenyan general election",
+   "summary": "General elections were held in Kenya Colony between 26 March and 2 April 1938. Three of the eleven white seats in the Legislative Council were uncontested, whilst all Indian seats were contested, and saw more businessmen were elected than politicians.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/1938_Kenyan_general_election",
+   "source_name": "Wikipedia: 1938 Kenyan general election",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q7676469",
+   "date": "1939-01-01",
+   "date_precision": "year",
+   "title": "The Taita Hills Association is founded",
+   "summary": "Taita Hills Association (THA) was a political organization established around the issue of land alienations in Taita Taveta District. It was established in 1939 as a branch of Kikuyu Central Association (KCA) and banned in 1940 with KCA and Ukamba Members Association.",
+   "lens": "places",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Taita_Hills_Association",
+   "source_name": "Wikipedia: Taita Hills Association",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  }
+ ],
+ "images": [
+  {
+   "event_id": "wd-Q6392895",
+   "lens": "politics",
+   "year": "1931",
+   "commons_title": "File:Coat_of_arms_of_Kenya_(Official).svg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/960px-Coat_of_arms_of_Kenya_%28Official%29.svg.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kenya_(Official).svg",
+   "width": 800,
+   "height": 753,
+   "author": "Ashiriz",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Republic of Kenya"
+  },
+  {
+   "event_id": "wd-Q6392896",
+   "lens": "politics",
+   "year": "1934",
+   "commons_title": "File:Coat_of_arms_of_Kenya_(Official).svg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/960px-Coat_of_arms_of_Kenya_%28Official%29.svg.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kenya_(Official).svg",
+   "width": 800,
+   "height": 753,
+   "author": "Ashiriz",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Republic of Kenya"
+  },
+  {
+   "event_id": "wd-Q6392897",
+   "lens": "politics",
+   "year": "1938",
+   "commons_title": "File:Coat_of_arms_of_Kenya_(Official).svg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/960px-Coat_of_arms_of_Kenya_%28Official%29.svg.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kenya_(Official).svg",
+   "width": 800,
+   "height": 753,
+   "author": "Ashiriz",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Republic of Kenya"
+  }
+ ]
+}

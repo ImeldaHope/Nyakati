@@ -1,0 +1,526 @@
+{
+ "_note": "Drafted by autosort.py from rules on 2026-11-21, then read through by AI before applying. keep = a Wikidata event approved under the trust rule; approve = approved by AI; hold = left for a person; reject = with a reason.",
+ "decisions": [
+  {
+   "id": "wd-Q649998",
+   "action": "keep",
+   "title": "University of Nairobi is founded"
+  },
+  {
+   "id": "wd-Q110387278",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q540783",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6772360",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q3741338",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q6049130",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q15241300",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q42843239",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q107518988",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q110389378",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q5560444",
+   "action": "approve",
+   "title": "GEMA is founded"
+  },
+  {
+   "id": "wd-Q11054937",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q113429147",
+   "action": "approve",
+   "title": "Student Organization of Nairobi University is founded"
+  },
+  {
+   "id": "wd-Q611606",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q225477",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q123126834",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123126839",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123126843",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123126848",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140798338",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q108737573",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q110389345",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q117813680",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123126829",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q182016",
+   "action": "approve",
+   "title": "The UN Environment Programme is established",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q42843517",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q1380559",
+   "action": "keep",
+   "title": "Sibiloi National Park is established"
+  },
+  {
+   "id": "wd-Q140798382",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q6668682",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6208256",
+   "action": "approve",
+   "title": "Joe (magazine) is founded"
+  },
+  {
+   "id": "wd-Q3272625",
+   "action": "keep",
+   "title": "The Kenyatta International Conference Centre opens",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q4575713",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q125581117",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q130882612",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q140811811",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "enwiki-citibank-kenya",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7100247",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1967 rather than 1974."
+  },
+  {
+   "id": "wd-Q15036549",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q762107",
+   "action": "keep",
+   "title": "Shaba National Reserve is established"
+  },
+  {
+   "id": "wd-Q386153",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q1636810",
+   "action": "keep",
+   "title": "Saiwa Swamp National Park is established"
+  },
+  {
+   "id": "wd-Q4101502",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q6270216",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q2053489",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q534358",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q6361133",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q30291491",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q108501281",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q2349521",
+   "action": "approve",
+   "title": "KNM ER 3733 is found",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q17011931",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q20716371",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q25212200",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q106128033",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q20010728",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q6361135",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q135113220",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q16257590",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6529698",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7682180",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q15045712",
+   "action": "keep",
+   "title": "Mwea National Reserve is established"
+  },
+  {
+   "id": "wd-Q869047",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q4941962",
+   "action": "keep",
+   "title": "Boni National Reserve is established"
+  },
+  {
+   "id": "wd-Q138268902",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q6361138",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q27825700",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30261857",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q110576643",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q115459100",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q140798379",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q140903892",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q743126",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6803583",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q3860333",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q638900",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q1176629",
+   "action": "approve",
+   "title": "The Sheldrick Wildlife Trust is founded",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q1193718",
+   "action": "keep",
+   "title": "The Green Belt Movement is founded",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q3701493",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q31348427",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q77083195",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6361141",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q135640497",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q106342176",
+   "action": "reject",
+   "reason": "Outside Kenya: Uganda–Tanzania War."
+  },
+  {
+   "id": "wd-Q6392686",
+   "action": "approve",
+   "title": "The Kenya Ports Authority is established",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q68653306",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6530088",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q28223319",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q30624340",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q487883",
+   "action": "approve",
+   "title": "UN-Habitat is established",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q373604",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q1362380",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q1537314",
+   "action": "keep",
+   "title": "Kisite-Mpunguti Marine National Park is established"
+  },
+  {
+   "id": "wd-Q138267197",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q138266738",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q65118163",
+   "action": "approve",
+   "title": "Daniel arap Moi becomes president",
+   "date": "1978-08-22"
+  },
+  {
+   "id": "wd-Q55615838",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q6361143",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q30261885",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30290237",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q108737419",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140893583",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q7082823",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6418728",
+   "action": "keep",
+   "title": "Kiunga Marine National Reserve is established"
+  },
+  {
+   "id": "wd-Q30687901",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q6392885",
+   "action": "keep"
+  }
+ ]
+}

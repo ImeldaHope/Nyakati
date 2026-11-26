@@ -1,0 +1,471 @@
+{
+ "decade": 1950,
+ "events": [
+  {
+   "id": "wd-Q108470840",
+   "date": "1950-01-01",
+   "date_precision": "year",
+   "title": "1950 Nairobi general strike",
+   "summary": "The 1950 Nairobi general strike was a nine-day general strike led by the East African Trades Union Congress (EAUTC) that took place in Nairobi, Kenya, in the spring of 1950. On 15 May 1950, union leaders Makhan Singh and Fred Kubai, under charges of being officers of an unregistered trade union whose registration had been refused, as per section 8 and 10 of the Trades Unions and Trades Disputes Ordinance, 1943.",
+   "lens": "culture",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/1950_Nairobi_general_strike",
+   "source_name": "Wikipedia: 1950 Nairobi general strike",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Nairobi",
+    "county": "Nairobi City County",
+    "wikidata_id": "Q3870"
+   }
+  },
+  {
+   "id": "wd-Q319356",
+   "date": "1950-01-01",
+   "date_precision": "year",
+   "title": "Aberdare National Park is established",
+   "summary": "The Aberdare National Park is a protected area in the Aberdare Mountain Range in central Kenya located east of the East African Rift Valley. It covers the higher areas and the Aberdare Salient to the east.",
+   "lens": "places",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Aberdare_National_Park",
+   "source_name": "Wikipedia: Aberdare National Park",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q6392899",
+   "date": "1952-01-01",
+   "date_precision": "year",
+   "title": "1952 Kenyan general election",
+   "summary": "General elections were held in Kenya in 1952.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/1952_Kenyan_general_election",
+   "source_name": "Wikipedia: 1952 Kenyan general election",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q16963147",
+   "date": "1952-01-01",
+   "date_precision": "year",
+   "title": "Maendeleo ya Wanawake is founded",
+   "summary": "Maendeleo Ya Wanawake Organisation (MYWO) is a women's NGO that deals with issues to do with women's rights and gender equity in Kenya. It was founded in 1952 by a group of European women and was then under the umbrella of the Department of Community Development and Rehabilitation.",
+   "lens": "culture",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Maendeleo_Ya_Wanawake",
+   "source_name": "Wikipedia: Maendeleo Ya Wanawake",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q476855",
+   "date": "1952-01-01",
+   "date_precision": "year",
+   "title": "Mau Mau rebellion",
+   "summary": "The Mau Mau rebellion (1952–1960), also known as the Mau Mau uprising or Kenya Emergency, was an armed conflict in the British Colony of Kenya between the Kenya Land and Freedom Army (KLFA, also known as the Mau Mau) and the British colonial authorities. While the KLFA was primarily composed of Kikuyu, Meru, and Embu fighters, the movement also drew support from units of Kamba and Maasai.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Mau_Mau_rebellion",
+   "source_name": "Wikipedia: Mau Mau rebellion",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Kenya Colony",
+    "wikidata_id": "Q2538511"
+   }
+  },
+  {
+   "id": "wd-Q6366571",
+   "date": "1952-01-01",
+   "date_precision": "year",
+   "title": "The Kapenguria Six are arrested",
+   "summary": "The Kapenguria Six – Bildad Kaggia, Kung'u Karumba, Jomo Kenyatta, Fred Kubai, Paul Ngei and Achieng Oneko were the six leading Kenyan nationalists who were arrested in 1952, tried at Kapenguria in 1952–53, and imprisoned thereafter in Northern Kenya.",
+   "lens": "places",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Kapenguria_Six",
+   "source_name": "Wikipedia: Kapenguria Six",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q42322987",
+   "date": "1952-01-01",
+   "date_precision": "year",
+   "title": "The Mombasa tusks are built",
+   "summary": "The Mombasa Tusks, also referred to as Mapembe ya Ndovu or Mapembeni or Pembe za Ndovu (Swahili for elephant tusks), form a monument over Moi Avenue, a major thoroughfare in Mombasa, Kenya. Built in the 1950s to commemorate visits by the British royal family, the monument originally comprised two wooden structures resembling tusks; nowadays, there are four aluminium tusks in an M shape.",
+   "lens": "places",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Mombasa_tusks",
+   "source_name": "Wikipedia: Mombasa tusks",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude",
+   "place": {
+    "name": "Mombasa County",
+    "county": "Mombasa County",
+    "wikidata_id": "Q1112885"
+   }
+  },
+  {
+   "id": "wd-Q16969043",
+   "date": "1952-10-21",
+   "date_precision": "day",
+   "title": "Operation Jock Scott",
+   "summary": "Operation Jock Scott took place shortly after the declaration of State of Emergency in the Mau Mau Rebellion. British troops suspended African political leaders and rounded up suspected Mau Mau leaders.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Operation_Jock_Scott",
+   "source_name": "Wikipedia: Operation Jock Scott",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Kenya",
+    "wikidata_id": "Q114"
+   }
+  },
+  {
+   "id": "wd-Q16919347",
+   "date": "1953-01-01",
+   "date_precision": "year",
+   "title": "Operation Mushroom",
+   "summary": "Operation Mushroom was the use of airpower by the Royal Air Force against the Mau Mau Movement during the Mau Mau Uprising in British Kenya from 1953 to 1956.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Operation_Mushroom",
+   "source_name": "Wikipedia: Operation Mushroom",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Kenya",
+    "wikidata_id": "Q114"
+   }
+  },
+  {
+   "id": "wd-Q17107196",
+   "date": "1953-01-24",
+   "date_precision": "day",
+   "title": "Ruck Family Massacre",
+   "summary": "The Ruck Family massacre took place during the Mau Mau Uprising. Farmer Roger Ruck, his wife Esme and six-year-old son Michael, along with one of their African servants, were killed by Mau Mau, one of whom allegedly worked for the family.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Ruck_Family_massacre",
+   "source_name": "Wikipedia: Ruck Family massacre",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q16932084",
+   "date": "1953-03-26",
+   "date_precision": "day",
+   "title": "Lari Massacre",
+   "summary": "The Lari massacre was an incident during the Mau Mau Uprising in which the Mau Mau massacred approximately 74 people, including some members of the loyalist Home Guard, but mostly their families: women, children and elderly relatives. Those murdered included prominent local loyalist Luka Kahangara.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Lari_massacre",
+   "source_name": "Wikipedia: Lari massacre",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q5532191",
+   "date": "1953-08-01",
+   "date_precision": "month",
+   "title": "General Service Unit is established",
+   "summary": "The General Service Unit (GSU) is the gendarmerie branch of the Kenya Police Service, consisting of highly trained police officers, transported by seven dedicated Cessnas and three Bell helicopters. Having been in existence since 1948, the GSU has fought in a number of conflicts in and around Kenya, including the 1963 – 1969 Shifta War and the 1982 Kenyan coup.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/General_Service_Unit_(Kenya)",
+   "source_name": "Wikipedia: General Service Unit (Kenya)",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q16826761",
+   "date": "1953-12-24",
+   "date_precision": "day",
+   "title": "Christmas Eve Battle",
+   "summary": "The Christmas Eve Battle took place during the Mau Mau Uprising on the 24 December 1953 between British Empire and rebel Mau Mau forces and resulted in the death of Earl Wavell, the only son of Archibald Wavell. It took place around 25 miles north of Nairobi.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Christmas_Eve_Battle",
+   "source_name": "Wikipedia: Christmas Eve Battle",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude",
+   "place": {
+    "name": "Thika",
+    "wikidata_id": "Q589616"
+   }
+  },
+  {
+   "id": "wd-Q2384385",
+   "date": "1954-01-01",
+   "date_precision": "year",
+   "title": "The Nairobi Stock Exchange opens",
+   "summary": "The Nairobi Securities Exchange (NSE) was established in 1954 as the Nairobi Stock Exchange, based in Nairobi, the capital of Kenya. It was a voluntary association of stockbrokers in the European community registered under the Societies Act in British Kenya.",
+   "lens": "places",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Nairobi_Securities_Exchange",
+   "source_name": "Wikipedia: Nairobi Securities Exchange",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q7659389",
+   "date": "1954-01-01",
+   "date_precision": "year",
+   "title": "The Swynnerton Plan",
+   "summary": "The Swynnerton Plan was a colonial agricultural policy that appeared as a government report in 1954 in Kenya, aiming to intensify the development of agricultural practice in the Kenya Colony. The plan was geared to expanding native Kenyan's cash-crop production through improved markets and infrastructure, the distribution of appropriate inputs, and the gradual consolidation and enclosure of land holdings.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Swynnerton_Plan",
+   "source_name": "Wikipedia: Swynnerton Plan",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q17110730",
+   "date": "1954-04-24",
+   "date_precision": "day",
+   "title": "Operation Anvil (Mau Mau Uprising)",
+   "summary": "Operation Anvil was a British military operation during the Mau Mau Uprising where British troops attempted to remove suspected Mau Mau from Nairobi and place them in Langata Camp or reserves. The operation began on 24 April 1954 and took two weeks, at the end of which 20,000 Mau Mau suspects had been taken to Langata, and 30,000 more had been deported to the reserves.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Operation_Anvil_(Mau_Mau_Uprising)",
+   "source_name": "Wikipedia: Operation Anvil (Mau Mau Uprising)",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q1690010",
+   "date": "1956-01-01",
+   "date_precision": "year",
+   "title": "1956–57 Kenyan general election",
+   "summary": "General elections were held in Kenya between 25 September and 2 October 1956, with additional elections in March 1957 for eight African constituencies, the first in which Africans could be elected. The elections in 1956 were open to Europeans, Indians and Arabs.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/1956%E2%80%9357_Kenyan_general_election",
+   "source_name": "Wikipedia: 1956–57 Kenyan general election",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q16825556",
+   "date": "1956-10-21",
+   "date_precision": "day",
+   "title": "Capture of Kimathi",
+   "summary": "The Capture of Kimathi was the arrest of noted Mau Mau leader Dedan Kimathi during the Mau Mau Uprising in October 1956. Kimathi had been the field commander of the Mau Mau.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Capture_of_Kimathi",
+   "source_name": "Wikipedia: Capture of Kimathi",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Kenya",
+    "wikidata_id": "Q114"
+   }
+  },
+  {
+   "id": "wd-Q384103",
+   "date": "1957-01-01",
+   "date_precision": "year",
+   "title": "Amref is founded",
+   "summary": "Amref Health Africa is a Kenyan-based non-governmental organization focused on providing community and environmental healthcare to countries in Africa. It is considered one of the most prominent health NGOs in Africa.",
+   "lens": "culture",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Amref_Health_Africa",
+   "source_name": "Wikipedia: Amref Health Africa",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q6392675",
+   "date": "1957-01-01",
+   "date_precision": "year",
+   "title": "Kenya National Union of Teachers is founded",
+   "summary": "The Kenya National Union of Teachers (KNUT) is the largest teachers' trade union in Kenya. It was formed on December 4, 1957.",
+   "lens": "culture",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Kenya_National_Union_of_Teachers",
+   "source_name": "Wikipedia: Kenya National Union of Teachers",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust"
+  },
+  {
+   "id": "wd-Q104865314",
+   "date": "1957-01-01",
+   "date_precision": "year",
+   "title": "Nairobi People's Convention Party",
+   "summary": "The Nairobi People's Convention Party (NPCP) was a Nairobi based political party formed in 1957 by Tom Mboya. This party played a crucial role in the fight for Kenya's independence.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Nairobi_People%27s_Convention_Party",
+   "source_name": "Wikipedia: Nairobi People's Convention Party",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "people": [
+    {
+     "name": "Tom Mboya",
+     "wikidata_id": "Q733180",
+     "role": "founder"
+    }
+   ]
+  },
+  {
+   "id": "wd-Q1768677",
+   "date": "1958-01-01",
+   "date_precision": "year",
+   "title": "Daily Nation is founded",
+   "summary": "The Daily Nation is a Kenyan daily newspaper based in Nairobi. It was founded in 1958 and is published by Nation Media Group.",
+   "lens": "places",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Daily_Nation",
+   "source_name": "Wikipedia: Daily Nation",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "people": [
+    {
+     "name": "Aga Khan IV",
+     "wikidata_id": "Q311793",
+     "role": "founder"
+    }
+   ]
+  },
+  {
+   "id": "wd-Q4683420",
+   "date": "1958-01-01",
+   "date_precision": "year",
+   "title": "The Administration Police is established",
+   "summary": "The Administration Police Service (APS; Swahili: Polisi wa Utawala Kenya) is a paramilitary security organization and is a branch of the Republic of Kenya's National Police Service.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Administration_Police",
+   "source_name": "Wikipedia: Administration Police",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q5878484",
+   "date": "1959-01-01",
+   "date_precision": "year",
+   "title": "Hola massacre",
+   "summary": "The 1959 Hola massacre was a massacre committed by British colonial forces during the Mau Mau Rebellion at a colonial detention camp in Hola, Kenya.",
+   "lens": "politics",
+   "era": "colony",
+   "source_url": "https://en.wikipedia.org/wiki/Hola_massacre",
+   "source_name": "Wikipedia: Hola massacre",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "wikidata-trust",
+   "place": {
+    "name": "Hola",
+    "county": "Tana River County",
+    "wikidata_id": "Q2738432"
+   }
+  }
+ ],
+ "images": [
+  {
+   "event_id": "wd-Q319356",
+   "lens": "places",
+   "year": "1950",
+   "commons_title": "File:Aberdare Park entrance.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Aberdare_Park_entrance.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Aberdare_Park_entrance.jpg",
+   "width": 800,
+   "height": 601,
+   "author": "javic",
+   "licence": "CC BY-SA 2.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "Aberdare National Park entrance (Kenya)",
+   "taken": "2006"
+  },
+  {
+   "event_id": "wd-Q6392899",
+   "lens": "politics",
+   "year": "1952",
+   "commons_title": "File:Coat_of_arms_of_Kenya_(Official).svg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/960px-Coat_of_arms_of_Kenya_%28Official%29.svg.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kenya_(Official).svg",
+   "width": 800,
+   "height": 753,
+   "author": "Ashiriz",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Republic of Kenya"
+  },
+  {
+   "event_id": "wd-Q476855",
+   "lens": "politics",
+   "year": "1952",
+   "commons_title": "File:KAR Mau Mau.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/KAR_Mau_Mau.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:KAR_Mau_Mau.jpg",
+   "width": 800,
+   "height": 617,
+   "author": "Ministry of Defence POST-1945 OFFICIAL COLLECTION",
+   "licence": "Public domain",
+   "licence_url": "https://commons.wikimedia.org/wiki/File:KAR_Mau_Mau.jpg",
+   "caption": "Troops of the King's African Rifles carry supplies while on watch for Mau Mau fighters.",
+   "taken": "1952"
+  },
+  {
+   "event_id": "wd-Q42322987",
+   "lens": "places",
+   "year": "1952",
+   "commons_title": "File:Mombasa tusks, 2025 (08).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Mombasa_tusks%2C_2025_%2808%29.jpg/960px-Mombasa_tusks%2C_2025_%2808%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mombasa_tusks,_2025_(08).jpg",
+   "width": 800,
+   "height": 533,
+   "author": "Bahnfrend",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Mombasa tusks",
+   "taken": "2025"
+  },
+  {
+   "event_id": "wd-Q5532191",
+   "lens": "politics",
+   "year": "1953",
+   "commons_title": "File:GSU_-_Uhuru_Park.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GSU_-_Uhuru_Park.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:GSU_-_Uhuru_Park.jpg",
+   "width": 800,
+   "height": 533,
+   "author": "DEMOSH",
+   "licence": "CC BY 2.0",
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Recreation ground in Nairobi has been turned into a \"Millitary Barracks\" now.",
+   "taken": "2008"
+  },
+  {
+   "event_id": "wd-Q1690010",
+   "lens": "politics",
+   "year": "1956",
+   "commons_title": "File:Coat_of_arms_of_Kenya_(Official).svg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/960px-Coat_of_arms_of_Kenya_%28Official%29.svg.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kenya_(Official).svg",
+   "width": 800,
+   "height": 753,
+   "author": "Ashiriz",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Republic of Kenya"
+  },
+  {
+   "event_id": "wd-Q4683420",
+   "lens": "politics",
+   "year": "1958",
+   "commons_title": "File:AdministrationPolice.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/AdministrationPolice.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AdministrationPolice.jpg",
+   "width": 800,
+   "height": 567,
+   "author": "Billy Limo",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Administration Police Flag - The Administration Police Service (APS) is a paramilitary security organization and is a branch of the Republic of Kenya's National Police Service.",
+   "taken": "2020"
+  }
+ ]
+}

@@ -1,0 +1,4252 @@
+{
+ "_note": "Drafted by autosort.py from rules on 2026-11-21, then read through by AI before applying. keep = a Wikidata event approved under the trust rule; approve = approved by AI; hold = left for a person; reject = with a reason.",
+ "decisions": [
+  {
+   "id": "wd-Q6954009",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q5971163",
+   "action": "approve",
+   "title": "iHub opens in Nairobi",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q7088234",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q17110466",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q96418632",
+   "action": "approve",
+   "title": "The International Criminal Court investigates Kenya"
+  },
+  {
+   "id": "wd-Q6954010",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q16890793",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q117885178",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64707602",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64634977",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63838288",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63838195",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q59536840",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30261767",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q30261704",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799697",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799397",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799096",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798792",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798485",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q129740591",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q131311844",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q131315722",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q15980823",
+   "action": "keep",
+   "title": "Alliance for Real Change (Kenya) is founded"
+  },
+  {
+   "id": "wd-Q4619071",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q2814454",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q24038039",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q30261882",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140798340",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q136419465",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q118555625",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q5123132",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q2753888",
+   "action": "approve",
+   "title": "The 2010 Constitution",
+   "date": "2010-08"
+  },
+  {
+   "id": "wd-Q5369518",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q136289007",
+   "action": "approve",
+   "title": "The Endorois case"
+  },
+  {
+   "id": "yl-2010-01-08-kenya-gazetted-the-new-media-law-despite",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-01-21-jamaican-muslim-cleric-sheikh-abdullah-a",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-01-26-five-people-died-and-seven-injured-when",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63832845",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63817459",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63838973",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-02-01-five-workers-died-when-a-quarry-collapse",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-02-02-the-kenyan-appellate-court-orders-2007-p",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-02-05-the-minister-of-transport-chirau-ali-mwa",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-02-13-number-of-permanent-secretaries-and-othe",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-02-14-prime-minister-raila-odinga-suspends-min",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-02-21-six-kidnappers-were-shot-dead-by-the-pol",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-02-24-11-people-died-and-nearly-30-injured-whe",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-02-27-a-new-political-coalition-progressive-de",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64661946",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61939142",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-03-11-administration-police-officers-shot-seve",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-03-16-six-people-died-when-a-matatu-and-a-lorr",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-03-25-nine-people-died-in-traffic-accident-at",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-03-29-two-people-died-when-a-light-aircraft-cr",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-03-31-24-people-died-in-a-traffic-accident-at",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61938719",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-04-01-the-kenyan-parliament-passes-the-draft-c",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-04-16-george-thuo-pnu-loses-his-parliamentary",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64679088",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-04-23-12-people-died-when-a-bus-collided-with",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-04-30-dick-wathika-pnu-is-set-to-lose-his-parl",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64658865",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63812382",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64648205",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-06-10-manson-nyamweya-of-ford-people-won-the-s",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-06-13-a-bomb-blast-at-the-uhuru-park-in-nairob",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63835328",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-07-12-chirau-ali-mwakwere-pnu-retained-matuga",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q687030",
+   "action": "approve",
+   "title": "The EASSy undersea cable lands",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q4617656",
+   "action": "approve",
+   "title": "A border clash with al-Shabaab",
+   "date": "2010-07-20"
+  },
+  {
+   "id": "wd-Q63830236",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65376119",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q1574034",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2010-08-04-a-referendum-is-held-on-the-proposed-con",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q1722597",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q116178080",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64651501",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63815535",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-09-20-three-parliamentary-by-elections-were-he",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61935835",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64352407",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63818661",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63817196",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63816892",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2010-10-19-higher-education-minister-william-ruto-w",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-10-22-the-kirinyaga-central-constituency-mp-jo",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-10-26-nairobi-mayor-geoffrey-majiwa-steps-asid",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-10-27-foreign-minister-moses-wetangula-resigne",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-11-02-the-truth-justice-and-reconciliation-com",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2010-11-06-peter-karanja-a-jealous-administration-p",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64638148",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6016573",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q113364823",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q55605611",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q5012870",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q3089106",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798486",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798793",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799097",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799398",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799698",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61930943",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933690",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933949",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q90571011",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q100942474",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q106411967",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141668999",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q30261978",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q131936095",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2011-01-01-10-people-die-when-a-bus-veers-off-road",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q30589472",
+   "action": "keep",
+   "title": "Unity Party of Kenya is founded"
+  },
+  {
+   "id": "wd-Q28223356",
+   "action": "keep",
+   "title": "Kirinyaga University is founded"
+  },
+  {
+   "id": "wd-Q28223358",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1957 rather than 2011."
+  },
+  {
+   "id": "wd-Q19749298",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q16250182",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q4623167",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q25041052",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q24236523",
+   "action": "keep",
+   "title": "Kibabii University is founded"
+  },
+  {
+   "id": "wd-Q24236250",
+   "action": "keep",
+   "title": "University of Embu is founded"
+  },
+  {
+   "id": "wd-Q4623168",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q7816748",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q3524257",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q4629009",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q110235766",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q141424332",
+   "action": "approve",
+   "title": "Kenya National Union of Nurses and Midwives is founded"
+  },
+  {
+   "id": "wd-Q110269574",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "yl-2011-01-04-the-minister-of-industrialisation-henry",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2011-01-04-a-delegation-led-by-kenyan-prime-ministe",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64172020",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2011-01-27-simon-mbugua-of-pnu-loses-his-kamukunji",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2011-01-31-the-commission-on-the-implementation-of",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63816921",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63340765",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63338033",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2011-02-09-ten-people-die-as-a-bus-collides-with-a",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2011-02-12-nine-people-die-as-a-matatu-and-a-bus-co",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2011-02-16-joseph-gitari-of-pnu-won-the-kirinyaga-c",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2011-02-18-bonny-khalwale-of-new-ford-kenya-loses-h",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2011-03-01-thousands-of-residents-flee-mandera-town",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64672626",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63838390",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66387135",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61935765",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64678392",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2011-03-09-the-international-criminal-court-summons",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63341120",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64219825",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64678366",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63842125",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63840448",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63334695",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63320819",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63338648",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64649577",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63843321",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q223390",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61957550",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63340072",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63335573",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64647553",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64352128",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65375011",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q131398624",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q63838190",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63807426",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64666346",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q5403455",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2011-09-12-over-100-people-die-in-a-pipeline-fire-i",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64607023",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64655637",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63321612",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63813708",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63812319",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2011-10-16-kenyan-defense-forces-enter-southern-som",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q923340",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65361405",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63334302",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64648777",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q17110806",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q6974007",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6974971",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7079336",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q7079357",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q7139039",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7169226",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1981 rather than 2012."
+  },
+  {
+   "id": "wd-Q7169227",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1988 rather than 2012."
+  },
+  {
+   "id": "wd-Q7257603",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7403673",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7691254",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q109570552",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q5152883",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q111915832",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q5152666",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q5152696",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q4627497",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q5152735",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6302943",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6392544",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1997 rather than 2012."
+  },
+  {
+   "id": "wd-Q6392545",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2003 rather than 2012."
+  },
+  {
+   "id": "wd-Q6392588",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6392593",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6503100",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q20010704",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q7141057",
+   "action": "keep",
+   "title": "The Party of Development and Reforms, later the UDA, is founded",
+   "source_url": "https://en.wikipedia.org/wiki/United_Democratic_Alliance_(Kenya)",
+   "source_name": "Wikipedia: United Democratic Alliance (Kenya)"
+  },
+  {
+   "id": "wd-Q7316238",
+   "action": "keep",
+   "title": "Restore and Build Kenya is founded"
+  },
+  {
+   "id": "wd-Q7887687",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q7889105",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q10872818",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q4627495",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q14628884",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q30266511",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q16934870",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140876125",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q117885049",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q114893595",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q107518001",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66041348",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65327545",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63334125",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63320476",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63316998",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q46825016",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q15036557",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6971573",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q30271674",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30268306",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q15980825",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q18354873",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q64645061",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63321409",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67193194",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61955930",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63837274",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63316356",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64648139",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63315781",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64641347",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q106907379",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141779490",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q63317604",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63843208",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63843241",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63806987",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63843270",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63842678",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2012-06-10-6-people-died-in-the-police-helicopter-c",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q2822709",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2012-06-26-the-united-states-embassy-in-nairobi-hel",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61957425",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63841258",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64641955",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64170768",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64029578",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64354280",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64643128",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2012-08-22-52-people-died-during-the-tana-river-dis",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64644803",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64642207",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64626317",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64622554",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66403153",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64639940",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q4858181",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q64638890",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q5137952",
+   "action": "approve",
+   "title": "The CORD coalition is formed"
+  },
+  {
+   "id": "wd-Q139760737",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q15036634",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q6392783",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q7895375",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1946 rather than 2013."
+  },
+  {
+   "id": "wd-Q7692314",
+   "action": "keep",
+   "title": "Technical University of Mombasa is founded"
+  },
+  {
+   "id": "wd-Q6866618",
+   "action": "reject",
+   "reason": "A government department; ministries are not cards."
+  },
+  {
+   "id": "wd-Q30635866",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q27798487",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798794",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799098",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799399",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799699",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933769",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64029649",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64029732",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64640365",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64643583",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113551476",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q137943588",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141195705",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q30264221",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q125349257",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q122872353",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q17037289",
+   "action": "keep",
+   "title": "Maasai Mara University is founded"
+  },
+  {
+   "id": "wd-Q16954019",
+   "action": "keep",
+   "title": "Multimedia University of Kenya is founded"
+  },
+  {
+   "id": "wd-Q65043358",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q17092819",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q22080540",
+   "action": "reject",
+   "reason": "A government department; ministries are not cards."
+  },
+  {
+   "id": "wd-Q22080442",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q16258314",
+   "action": "keep",
+   "title": "South Eastern Kenya University is founded"
+  },
+  {
+   "id": "wd-Q16241117",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q15036648",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q86750226",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q121283017",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q98078026",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q22906681",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q38585",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q38587",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q70252",
+   "action": "approve",
+   "title": "Provinces give way to 47 counties",
+   "date": "2013-03"
+  },
+  {
+   "id": "wd-Q38589",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q390213",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q15036625",
+   "action": "keep",
+   "title": "Karatina University is founded"
+  },
+  {
+   "id": "wd-Q17110874",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q15993156",
+   "action": "approve",
+   "title": "Death of Mutula Kilonzo",
+   "date": "2013-04-27"
+  },
+  {
+   "id": "wd-Q122955752",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q185371",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q328493",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q26794481",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q4739845",
+   "action": "keep",
+   "title": "Amani Alliance is founded"
+  },
+  {
+   "id": "wd-Q6301806",
+   "action": "keep",
+   "title": "Jubilee Alliance is founded"
+  },
+  {
+   "id": "wd-Q65368727",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65363873",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64030506",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q269218",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2010 rather than 2013."
+  },
+  {
+   "id": "wd-Q64223213",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64352976",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64639606",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6392806",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392801",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392800",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q749665",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6392802",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392797",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392799",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392798",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392793",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392792",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392794",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392789",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392788",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392790",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q590860",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1494292",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1477874",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q429955",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q383150",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q285072",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1278653",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1121429",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1313202",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1335242",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q473717",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6392803",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q1800699",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1781723",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1743809",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1743730",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q17088537",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q17088526",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q17088518",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q2189432",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q2096419",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1964569",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1951652",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1882639",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1852220",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1852209",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1852202",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q23015043",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2010 rather than 2013."
+  },
+  {
+   "id": "wd-Q15216433",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q15045704",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1741307",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2010 rather than 2013."
+  },
+  {
+   "id": "wd-Q1739252",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1714352",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1633078",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1625834",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1569613",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1499046",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1112885",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q1017519",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q952571",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q891952",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2010 rather than 2013."
+  },
+  {
+   "id": "wd-Q808201",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q772097",
+   "action": "reject",
+   "reason": "Covered by the general election card."
+  },
+  {
+   "id": "wd-Q6392784",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392786",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392781",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392780",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392777",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392776",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392778",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392775",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6375976",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q7193788",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6392831",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392830",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392825",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392824",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q3482913",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6392827",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q3335223",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6392821",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q2928204",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q6392820",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392823",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392822",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392817",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392816",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392819",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392813",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392812",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392815",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392814",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392809",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392808",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392811",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392810",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q6392804",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q17007305",
+   "action": "approve",
+   "title": "The 11th Parliament opens"
+  },
+  {
+   "id": "wd-Q64634467",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65362616",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65365507",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64354990",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q17110765",
+   "action": "approve",
+   "title": "Uhuru Kenyatta becomes president",
+   "date": "2013-04-09"
+  },
+  {
+   "id": "wd-Q17110519",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q65362847",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65367305",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65368288",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65369916",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65367069",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64352861",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65356477",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64353503",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66343541",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65336405",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65363909",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63843905",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66407511",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64139626",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65360398",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65364842",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65365387",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65369948",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63316237",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64613349",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65336555",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q14941568",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2013-09-21-al-shabaab-islamic-militants-attack-the",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64170840",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65366200",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65363397",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64150518",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q15305030",
+   "action": "reject",
+   "reason": "The source text describes the 2011–2014 attacks in general; that has its own card."
+  },
+  {
+   "id": "wd-Q61014565",
+   "action": "reject",
+   "reason": "A power station; no event in the source."
+  },
+  {
+   "id": "wd-Q117771995",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798488",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798795",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799099",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799400",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799700",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61475796",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64350082",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q100942473",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q101110419",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q117860188",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q137943580",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140681147",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q133467660",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q3431904",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q65062089",
+   "action": "approve",
+   "title": "The Beyond Zero campaign"
+  },
+  {
+   "id": "wd-Q125101372",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q65080599",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q65080661",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q115517045",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q25387983",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q21016923",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q16820394",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q64643407",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67133196",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64348934",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63577880",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64349592",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64219952",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64626252",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q136442991",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65366076",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61970084",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64220141",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64221954",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64612121",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65356065",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2014-04-23-nairobi-police-station-bombing",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65345639",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q16763563",
+   "action": "reject",
+   "reason": "The source text describes the 2011–2014 attacks in general; that has its own card."
+  },
+  {
+   "id": "yl-2014-05-30-killing-of-satao-one-of-the-country-s-la",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64222503",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64609546",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61975648",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65352886",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65356497",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67134746",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q17374244",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q17338445",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q64607756",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64393680",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63838704",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64602602",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q64397692",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65352388",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67127605",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64606574",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64608389",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64600706",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64608503",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67134306",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2014-11-01-unidentified-gunmen-kill-at-least-20-pol",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63316671",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65353200",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2014-11-02-an-assault-on-a-police-barracks-by-suspe",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2014-11-17-kenyan-police-raid-two-mosques-in-mombas",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2014-11-22-al-shabaab-militants-hijack-a-bus-travel",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64608903",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64598096",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2014-12-02-the-red-cross-says-that-at-least-36-peop",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64606774",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64623231",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140798384",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q64606566",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65350488",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65357608",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66403037",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67132942",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q97040407",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q101110418",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q140352086",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q41498331",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q109535655",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q130260004",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q82721948",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q129903555",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q20899643",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q20310736",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q18758214",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q15036568",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q47489380",
+   "action": "keep",
+   "title": "Amani National Congress is founded"
+  },
+  {
+   "id": "wd-Q24236329",
+   "action": "approve",
+   "title": "Pope Francis visits Kenya",
+   "date": "2015-11-25",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q140798385",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q30268142",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q21749054",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2015-01-04-a-six-story-building-collapse-in-nairobi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2015-01-05-for-the-second-day-in-a-row-a-multi-stor",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64600449",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64395477",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65349084",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65343996",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64395255",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65346984",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65349762",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64376493",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2015-04-02-gunmen-attack-garissa-university-college",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q19750438",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q64394782",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64393854",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64397380",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65351149",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66042162",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q85745813",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64395631",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q111181045",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q65337997",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65341440",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65346838",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65343637",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65344173",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66547159",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64376328",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65336184",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66405340",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64150353",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113897286",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66403833",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65336891",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63574090",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q138794877",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q115398517",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64396863",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67125634",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64151712",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64607069",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64394555",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64396795",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67125674",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65343869",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63813367",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63578779",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2015-12-21-in-an-attack-on-a-bus-travelling-from-ma",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65080331",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q18391408",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q23015010",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q108427913",
+   "action": "approve",
+   "title": "Willie Kimani is killed",
+   "date": "2016-06-23"
+  },
+  {
+   "id": "wd-Q22666212",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q96406179",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q60776120",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q48742230",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "enwiki-kenya-reform-party",
+   "action": "approve",
+   "title": "Kenya Reform Party is founded"
+  },
+  {
+   "id": "wd-Q55605275",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q16896123",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q23019717",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q85743515",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q123560293",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q61899369",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65345603",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65359553",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65465609",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66411050",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q101110434",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q107518440",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q120147593",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q140798341",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q141064234",
+   "action": "reject",
+   "reason": "A recurring conference."
+  },
+  {
+   "id": "wd-Q141783159",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q123412984",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q131316266",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q131409156",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q27963537",
+   "action": "keep",
+   "title": "Jubilee Party of Kenya is founded"
+  },
+  {
+   "id": "wd-Q47489396",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q22078513",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64397055",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66074120",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66403978",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66076538",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66391445",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64836990",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64397219",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66399465",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66405418",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63229495",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64217067",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q114385531",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q67127313",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66406352",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65403798",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64396022",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63813337",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66070383",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66404250",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63807840",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64598520",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66388074",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64396500",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66402271",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66403534",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64187097",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66402572",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67129828",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66076221",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63593306",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65401506",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q80365636",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65335235",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141804135",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q64187083",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66397583",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66080906",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q57699274",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q66345877",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66081293",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66046863",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66071232",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64172458",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63402463",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27990965",
+   "action": "approve",
+   "title": "The Naivasha tanker explosion",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q66080567",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q55075065",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q102138942",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q111179653",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66074979",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q112751982",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q121536406",
+   "action": "keep",
+   "title": "Kenya Space Agency is established"
+  },
+  {
+   "id": "wd-Q114268613",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q114340008",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q140798339",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q130559643",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141805550",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q30634242",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q30589468",
+   "action": "approve",
+   "title": "The National Super Alliance is formed"
+  },
+  {
+   "id": "wd-Q48816436",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q28223286",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q117231206",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q67171435",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q135261426",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q111913897",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q55615513",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q29025672",
+   "action": "approve",
+   "title": "Kenya Medical Practitioners, Pharmacists and Dentists Union is founded"
+  },
+  {
+   "id": "wd-Q61940741",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q24088686",
+   "action": "approve",
+   "title": "The Mombasa–Nairobi Standard Gauge Railway opens",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q28868309",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q42954840",
+   "action": "keep",
+   "title": "Economic Freedom Party is founded"
+  },
+  {
+   "id": "wd-Q66397138",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q28654012",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q66073258",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63229500",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65342897",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66072951",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63578356",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66404285",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66072985",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66083628",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66072643",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66401901",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64140083",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30646339",
+   "action": "keep",
+   "title": "Enkare Review is founded"
+  },
+  {
+   "id": "wd-Q66062442",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66045646",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66069269",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66402826",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66041406",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62818986",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66044635",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66406175",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63812158",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2017-05-30-inaugural-kenya-standard-gauge-railway-f",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2017-05-31-inaugural-kenya-standard-gauge-railway-p",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q66069911",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64802822",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63011444",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64807620",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66069207",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64793692",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66043786",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q28128006",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q33133901",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30645367",
+   "action": "reject",
+   "reason": "A county-level election."
+  },
+  {
+   "id": "wd-Q47486410",
+   "action": "approve",
+   "title": "The 12th Parliament opens"
+  },
+  {
+   "id": "wd-Q66071316",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2017-09-01-the-supreme-court-nullified-kenyatta-s-e",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63013014",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66067412",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64818708",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62811005",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141802597",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q66072933",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q38716916",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q66075883",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61908896",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62821705",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q5295981",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q54263824",
+   "action": "approve",
+   "title": "Kenya's first satellite",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q60744405",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q16746823",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q55621164",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q134437548",
+   "action": "approve",
+   "title": "Fly-SAX Flight 102 crashes",
+   "date": "2018-06-05",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q26742032",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q50828855",
+   "action": "reject",
+   "reason": "A continental agreement, not a Kenyan event."
+  },
+  {
+   "id": "wd-Q55389664",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q114074482",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q141504893",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q28223317",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q30646493",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2006 rather than 2018."
+  },
+  {
+   "id": "wd-Q87933072",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63229090",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66042826",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66044713",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64803657",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64150663",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63811705",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63401571",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63405018",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2018-03-01-june-2018-east-africa-floods",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q55391145",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63400696",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63401263",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63400634",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2018-03-19-sudan-last-known-male-northern-white-rhi",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q66078677",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63811740",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2018-03-26-a-giant-crack-in-the-ground-measuring-50",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64802297",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64806125",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q74275787",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62809554",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2018-05-09-the-patel-dam-near-the-township-of-solai",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63394977",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66393385",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63397938",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64795780",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61905147",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q80365185",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141800502",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q64171870",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63596824",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64789667",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2018-10-10-at-least-51-people-are-killed-when-a-bus",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q63393655",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63400729",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62034708",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q60753479",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q63573557",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62034824",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61904748",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63595627",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63597261",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q121461382",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q31348477",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q104866849",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q61707724",
+   "action": "approve",
+   "title": "Death of Caroline Mwatha",
+   "date": "2019-02-06"
+  },
+  {
+   "id": "wd-Q131933373",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q123964944",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q48784352",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q85850121",
+   "action": "approve",
+   "title": "Landslides in West Pokot",
+   "date": "2019-11",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q113002953",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q64122109",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q79110864",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460051",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460054",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460057",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460060",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113460064",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q114336056",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q120155384",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q136663862",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q139890032",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141553544",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141600508",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q123783307",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q125761896",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q141801124",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q141801206",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q141948708",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q60628970",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q61907599",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63393156",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63584535",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63593642",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q113921117",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64794040",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q138127999",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q64189820",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64792260",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64796512",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64793059",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63583689",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64791675",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64187303",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66066585",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64186042",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64817570",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q85414105",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141274410",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q104676443",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66061379",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66064400",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63579545",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63808504",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q67124985",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141801299",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q66067237",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q74279537",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141779643",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q102152920",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141804195",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q79110279",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141804532",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q140367822",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q76980282",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q81068910",
+   "action": "reject",
+   "reason": "The global pandemic; Kenya's has its own card."
+  },
+  {
+   "id": "wd-Q76981120",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q79109820",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  }
+ ]
+}

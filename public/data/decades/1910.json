@@ -1,0 +1,79 @@
+{
+ "decade": 1910,
+ "events": [
+  {
+   "id": "wd-Q6935366",
+   "date": "1913-01-01",
+   "date_precision": "year",
+   "title": "Mumboism is founded",
+   "summary": "Mumboism, also known as the Mumbo cult, was a new religious movement founded by Onyango Dunde in the early 20th century. Followers of the religion, known as Mumboites, were most active in the Nyanza region of Kenya near Lake Victoria.",
+   "lens": "culture",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/Mumboism",
+   "source_name": "Wikipedia: Mumboism",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q6406452",
+   "date": "1913-01-01",
+   "date_precision": "year",
+   "title": "The Kikuyu controversy",
+   "summary": "The Kikuyu controversy was an Anglican church controversy in 1913 and 1914.",
+   "lens": "culture",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/Kikuyu_controversy",
+   "source_name": "Wikipedia: Kikuyu controversy",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q704921",
+   "date": "1914-11-03",
+   "date_precision": "day",
+   "title": "Battle of Tanga",
+   "summary": "The Battle of Tanga, also known as the Battle of the Bees, was an unsuccessful invasion of the Port of Tanga in German East Africa by the British Indian Expeditionary Force \"B\" on 3–5 November 1914 during World War I. Under the command of the Major-General Arthur Aitken, British forces attacked Tanga in concert with Indian Expeditionary Force \"C\", which concomitantly attempted to capture Longido.",
+   "lens": "politics",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/Battle_of_Tanga",
+   "source_name": "Wikipedia: Battle of Tanga",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude",
+   "place": {
+    "name": "Tanga",
+    "wikidata_id": "Q152902"
+   }
+  }
+ ],
+ "images": [
+  {
+   "event_id": "wd-Q6406452",
+   "lens": "culture",
+   "year": "1913",
+   "commons_title": "File:Peel_4690776328_1a4e06f632_o.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Peel_4690776328_1a4e06f632_o.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Peel_4690776328_1a4e06f632_o.jpg",
+   "width": 800,
+   "height": 1089,
+   "author": "The original uploader was Richard Arthur Norton (1958- ) at English Wikipedia .",
+   "licence": "Public domain",
+   "licence_url": "https://commons.wikimedia.org/wiki/File:Peel_4690776328_1a4e06f632_o.jpg",
+   "caption": "Bain News Service,, publisher.",
+   "taken": "2010"
+  },
+  {
+   "event_id": "wd-Q704921",
+   "lens": "politics",
+   "year": "1914",
+   "commons_title": "File:Battle of tanga.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_tanga.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Battle_of_tanga.jpg",
+   "width": 800,
+   "height": 478,
+   "author": "Martin Frost",
+   "licence": "Public domain",
+   "licence_url": "https://commons.wikimedia.org/wiki/File:Battle_of_tanga.jpg",
+   "caption": "Germans on the left, British on the right"
+  }
+ ]
+}

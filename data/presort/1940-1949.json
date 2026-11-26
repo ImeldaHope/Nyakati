@@ -1,0 +1,124 @@
+{
+ "_note": "Drafted by autosort.py from rules on 2026-11-21, then read through by AI before applying. keep = a Wikidata event approved under the trust rule; approve = approved by AI; hold = left for a person; reject = with a reason.",
+ "decisions": [
+  {
+   "id": "wd-Q4698015",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q4840749",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q108737267",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6392541",
+   "action": "keep",
+   "title": "Kenya African Union is founded"
+  },
+  {
+   "id": "wd-Q7307491",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q22281076",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q954747",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q15036534",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1965 rather than 1945."
+  },
+  {
+   "id": "wd-Q30262063",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140811808",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q131299149",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q7320593",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q739993",
+   "action": "keep",
+   "title": "Nairobi National Park is established"
+  },
+  {
+   "id": "wd-Q136419453",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6392594",
+   "action": "approve",
+   "title": "The Kenya Literature Bureau is founded",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q127447429",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q15036581",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q18387772",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q1368818",
+   "action": "keep",
+   "title": "Tsavo East National Park is established"
+  },
+  {
+   "id": "wd-Q1602738",
+   "action": "keep",
+   "title": "Tsavo West National Park is established"
+  },
+  {
+   "id": "wd-Q6392682",
+   "action": "keep",
+   "title": "Kenya Police Reserve is established"
+  },
+  {
+   "id": "wd-Q172070",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q1516724",
+   "action": "keep",
+   "title": "Marsabit National Park is established"
+  },
+  {
+   "id": "wd-Q1639468",
+   "action": "keep",
+   "title": "Mount Kenya National Park is established"
+  }
+ ]
+}

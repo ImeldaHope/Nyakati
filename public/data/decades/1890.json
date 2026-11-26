@@ -1,0 +1,134 @@
+{
+ "decade": 1890,
+ "events": [
+  {
+   "id": "wd-Q141304315",
+   "date": "1895-01-01",
+   "date_precision": "year",
+   "title": "Lumboka-Chetambe war",
+   "summary": "The Lumboka-Chetambe war was a military confrontation and a war of resistance by the Ababukusu and the Abatachoni sects of the Abaluhya community against the British Empire in present-day Western Kenya, taking place from 1894 to 1895, just as the British were starting to establish their presence in East Africa.",
+   "lens": "politics",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/Lumboka-Chetambe_war",
+   "source_name": "Wikipedia: Lumboka-Chetambe war",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q136564117",
+   "date": "1895-01-01",
+   "date_precision": "year",
+   "title": "The East Africa Rifles are raised",
+   "summary": "The East Africa Rifles was a British Colonial Auxiliary Forces military unit created in 1895 that was later merged into the King's African Rifles in 1902. Based in the East Africa Protectorate but containing troops from across the British Empire, it fought against the Mazrui and the Ogaden people in Jubaland.",
+   "lens": "places",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/East_Africa_Rifles",
+   "source_name": "Wikipedia: East Africa Rifles",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q500115",
+   "date": "1896-01-01",
+   "date_precision": "year",
+   "title": "Work begins on the Uganda Railway",
+   "summary": "The Uganda Railway was a metre-gauge railway system and former British state-owned railway company. The line linked the interiors of Uganda and Kenya with the Indian Ocean port of Mombasa in Kenya.",
+   "lens": "places",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/Uganda_Railway",
+   "source_name": "Wikipedia: Uganda Railway",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q2510263",
+   "date": "1898-01-01",
+   "date_precision": "year",
+   "title": "The Tsavo man-eaters",
+   "summary": "The Tsavo Man-Eaters were a pair of large man-eating male lions in the Tsavo region of Kenya, which were responsible for the deaths of many construction workers on the Kenya-Uganda Railway between March and December 1898. The lion pair was said to have killed dozens of people, with some early estimates reaching over a hundred deaths.",
+   "lens": "places",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/Tsavo_Man-Eaters",
+   "source_name": "Wikipedia: Tsavo Man-Eaters",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude"
+  },
+  {
+   "id": "wd-Q1637884",
+   "date": "1899-01-01",
+   "date_precision": "year",
+   "title": "1899 famine in central Kenya",
+   "summary": "The famine in central Kenya in 1899 is regarded as a devastating catastrophe in Kenyan history. It spread rapidly from 1898 in the central region of the country around Mount Kenya after several consecutive years of low rainfall.",
+   "lens": "places",
+   "era": "protectorate",
+   "source_url": "https://en.wikipedia.org/wiki/1899_famine_in_central_Kenya",
+   "source_name": "Wikipedia: 1899 famine in central Kenya",
+   "licence": "CC BY-SA 4.0",
+   "reviewed_by": "claude",
+   "place": {
+    "name": "East Africa Protectorate",
+    "wikidata_id": "Q876185"
+   }
+  }
+ ],
+ "images": [
+  {
+   "event_id": "wd-Q141304315",
+   "lens": "politics",
+   "year": "1895",
+   "commons_title": "File:Charles.W.Hobbley.png",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Charles.W.Hobbley.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Charles.W.Hobbley.png",
+   "width": 800,
+   "height": 1068,
+   "author": "Justin venswa",
+   "licence": "CC0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Charles.W.Hobbley"
+  },
+  {
+   "event_id": "wd-Q500115",
+   "lens": "places",
+   "year": "1896",
+   "commons_title": "File:URCengines.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/URCengines.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:URCengines.jpg",
+   "width": 800,
+   "height": 533,
+   "author": "Danbirchall at English Wikipedia",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Uganda Railways Corporation locomotives at Kampala Railway Station, Uganda, 23 November 2006.",
+   "taken": "2006"
+  },
+  {
+   "event_id": "wd-Q2510263",
+   "lens": "places",
+   "year": "1898",
+   "commons_title": "File:Lionsoftsavo2008.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Lionsoftsavo2008.jpg/960px-Lionsoftsavo2008.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lionsoftsavo2008.jpg",
+   "width": 800,
+   "height": 535,
+   "author": "Superx308 Jeffrey Jung email: superx308 at gmail.com",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "The maneless male Lions of Tsavo .",
+   "taken": "2008"
+  },
+  {
+   "event_id": "wd-Q1637884",
+   "lens": "places",
+   "year": "1899",
+   "commons_title": "File:Kenya_Map.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kenya_Map.png/960px-Kenya_Map.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Kenya_Map.png",
+   "width": 800,
+   "height": 969,
+   "author": "National Aeronautics and Space Administration",
+   "licence": "Public domain",
+   "licence_url": "https://commons.wikimedia.org/wiki/File:Kenya_Map.png",
+   "caption": "Shaded relief map of Kenya"
+  }
+ ]
+}

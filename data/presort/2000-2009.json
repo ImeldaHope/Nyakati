@@ -1,0 +1,2307 @@
+{
+ "_note": "Drafted by autosort.py from rules on 2026-11-21, then read through by AI before applying. keep = a Wikidata event approved under the trust rule; approve = approved by AI; hold = left for a person; reject = with a reason.",
+ "decisions": [
+  {
+   "id": "wd-Q2687972",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q100956021",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q5559712",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q5327651",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q7193584",
+   "action": "keep",
+   "title": "The National Alliance is founded"
+  },
+  {
+   "id": "wd-Q6985411",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q7308990",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q871806",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q6361195",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q4663564",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q2410322",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q4384864",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q30261641",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q6392602",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q3407882",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q61934126",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q1153249",
+   "action": "approve",
+   "title": "Kenya Airways Flight 431 crashes",
+   "date": "2000-01-30",
+   "lens": "places"
+  },
+  {
+   "id": "wd-Q138267600",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q27799691",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q17079783",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1980 rather than 2001."
+  },
+  {
+   "id": "wd-Q5044919",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q30261918",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30261970",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798479",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798785",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799090",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799391",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30262030",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141497735",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q104623409",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q6361197",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q6388810",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q871968",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q8034267",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q5156380",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q40890005",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q64028838",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q138298012",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q2500893",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q5327657",
+   "action": "approve",
+   "title": "The East African Legislative Assembly opens"
+  },
+  {
+   "id": "wd-Q100955965",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933869",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66029993",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6415328",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q5331123",
+   "action": "reject",
+   "reason": "A minor radio station."
+  },
+  {
+   "id": "wd-Q2729481",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q3130920",
+   "action": "keep",
+   "title": "National Rainbow Coalition is founded"
+  },
+  {
+   "id": "wd-Q4219378",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q104438578",
+   "action": "keep",
+   "title": "Kenya Institute Of Security & Criminal Justice is founded"
+  },
+  {
+   "id": "wd-Q6674197",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7102327",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q6343885",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2000 rather than 2002."
+  },
+  {
+   "id": "wd-Q30268458",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q4689811",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6046674",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q27798480",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798787",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799091",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799392",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799692",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30261626",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q33121125",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933756",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66036633",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66029045",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q19425528",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64041029",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6972473",
+   "action": "keep",
+   "title": "National Environment Management Authority is established"
+  },
+  {
+   "id": "wd-Q66029940",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q975747",
+   "action": "reject",
+   "reason": "A minor agency."
+  },
+  {
+   "id": "wd-Q138298296",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q1861196",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q1144639",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q98068017",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q98068019",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65118136",
+   "action": "approve",
+   "title": "Mwai Kibaki becomes president",
+   "date": "2002-12-30"
+  },
+  {
+   "id": "wd-Q117837664",
+   "action": "reject",
+   "reason": "The founding of a church; its notable event is later."
+  },
+  {
+   "id": "wd-Q59535775",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q2675538",
+   "action": "keep",
+   "title": "Kwani? is founded"
+  },
+  {
+   "id": "wd-Q7116908",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6316490",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 2008 rather than 2003."
+  },
+  {
+   "id": "wd-Q23038559",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q125388894",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q4601769",
+   "action": "approve",
+   "title": "The Ringera report on the judiciary"
+  },
+  {
+   "id": "wd-Q4601518",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q4601517",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q4892999",
+   "action": "approve",
+   "title": "A tribunal investigates Chief Justice Chunga"
+  },
+  {
+   "id": "wd-Q12142706",
+   "action": "reject",
+   "reason": "A diplomatic post or a list."
+  },
+  {
+   "id": "wd-Q141469709",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30264746",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61934139",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q56237649",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q30271809",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30269447",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6849885",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q4646589",
+   "action": "approve",
+   "title": "The 9th Parliament opens"
+  },
+  {
+   "id": "wd-Q63813064",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123784758",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66025942",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66026373",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65390793",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65380073",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66029537",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65363770",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66030630",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q24236339",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q3200452",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q30271549",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q43896715",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q50037332",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61931496",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933614",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q139771243",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q140811805",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q16954565",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q125629001",
+   "action": "reject",
+   "reason": "Somalia's election, not Kenya's."
+  },
+  {
+   "id": "wd-Q5069325",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q6392848",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7398407",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q1182824",
+   "action": "reject",
+   "reason": "Sport or a pageant."
+  },
+  {
+   "id": "wd-Q17003859",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q25182991",
+   "action": "reject",
+   "reason": "A government department; ministries are not cards."
+  },
+  {
+   "id": "wd-Q62105182",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65546263",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62106158",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65546268",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65540700",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64801836",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q130754",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q109229332",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q56275966",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q4229689",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q7712792",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6920596",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65544710",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q130314579",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q65376332",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63618882",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933250",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799693",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799393",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799092",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798788",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798481",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6392574",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "wd-Q111076716",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66058960",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q16911069",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q7427621",
+   "action": "approve",
+   "title": "Sauti Sol is formed",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q11997364",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q109312915",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q10963557",
+   "action": "keep",
+   "title": "National Rainbow Coalition – Kenya is founded"
+  },
+  {
+   "id": "wd-Q6726506",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q6080019",
+   "action": "keep",
+   "title": "Ishaqbini Hirola Conservancy is established"
+  },
+  {
+   "id": "wd-Q1640905",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q2032704",
+   "action": "reject",
+   "reason": "Outside Kenya: a park in Tanzania."
+  },
+  {
+   "id": "wd-Q17515257",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q39070673",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q60741505",
+   "action": "reject",
+   "reason": "A minor radio station."
+  },
+  {
+   "id": "wd-Q5584341",
+   "action": "approve",
+   "title": "The Gor Sunguh Commission"
+  },
+  {
+   "id": "wd-Q3551516",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q7499973",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q66035833",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65543542",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66028380",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q25342377",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65545983",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65542833",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66031775",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q1861076",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q96369105",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q23777587",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q22666182",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q21020140",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q1131466",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q6392669",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q17110475",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q2649103",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q1434496",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q5607783",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q5599489",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q5251223",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q5013900",
+   "action": "reject",
+   "reason": "A minor foreign-owned radio station."
+  },
+  {
+   "id": "wd-Q7083110",
+   "action": "keep",
+   "title": "Olare Orok Conservancy is established"
+  },
+  {
+   "id": "wd-Q7007666",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q15045661",
+   "action": "reject",
+   "reason": "A minor school or college."
+  },
+  {
+   "id": "wd-Q7458680",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q123126852",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123126846",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123126838",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q123126833",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q119857277",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q141733610",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q13122911",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q3195333",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q6416274",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q15106243",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q60776122",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q5384670",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q16848921",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q1042557",
+   "action": "reject",
+   "reason": "The source names Somalia, Djibouti and Ethiopia, not Kenya."
+  },
+  {
+   "id": "yl-2006-01-15-president-mwai-kibaki-has-declared-the-o",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2006-01-23-a-five-story-building-in-nairobi-collaps",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61933140",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2006-02-13-in-a-televised-address-to-the-nation-ken",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2006-02-14-kenyan-police-instruct-20-leading-figure",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2006-02-16-oxfam-reports-hundreds-of-thousands-are",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65537731",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66030504",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65537546",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2006-03-03-kenya-and-sudan-completing-trade-talks-t",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q138817788",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "yl-2006-03-17-six-people-have-been-charged-in-connecti",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65383953",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q116880591",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2006-04-10-2006-kenya-plane-crash-14-people-and-a-n",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65539526",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66031785",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q8001281",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q65379387",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65389141",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2006-06-16-evangelist-gilbert-deya-is-arrested-by-p",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65389861",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65384772",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64694365",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q62105414",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65386990",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65391236",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65386324",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2006-10-10-a-couple-is-caught-having-sex-in-a-mosqu",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q62110060",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933854",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q4607091",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q65390705",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q22666185",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q5249724",
+   "action": "keep",
+   "title": "Dedan Kimathi University of Technology is founded"
+  },
+  {
+   "id": "wd-Q22666315",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q118435006",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q135704105",
+   "action": "reject",
+   "reason": "A recurring conference."
+  },
+  {
+   "id": "wd-Q6326561",
+   "action": "reject",
+   "reason": "Contradicted by its source, which gives 1989 rather than 2007."
+  },
+  {
+   "id": "wd-Q100943569",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q64662043",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64027382",
+   "action": "reject",
+   "reason": "A recurring conference, an object or a structure; no event in the source."
+  },
+  {
+   "id": "wd-Q63836010",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933782",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61921811",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30271967",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q30271919",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799694",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799394",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799093",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798789",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q13125208",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q4609756",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q7225733",
+   "action": "reject",
+   "reason": "Covered by the 2007 general election card."
+  },
+  {
+   "id": "wd-Q7316424",
+   "action": "reject",
+   "reason": "Covered by the 2007 general election card."
+  },
+  {
+   "id": "wd-Q7961142",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q8030935",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q16258266",
+   "action": "keep",
+   "title": "Chuka University is founded"
+  },
+  {
+   "id": "wd-Q6392904",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q7240808",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q4609758",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q6049135",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q2559675",
+   "action": "keep",
+   "title": "Party of National Unity is founded"
+  },
+  {
+   "id": "wd-Q17110774",
+   "action": "keep",
+   "title": "Pwani University is founded"
+  },
+  {
+   "id": "wd-Q19462733",
+   "action": "reject",
+   "reason": "A place, with no event in the source."
+  },
+  {
+   "id": "yl-2007-01-01-kenya-tightens-security-at-somalian-bord",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q27798482",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65086824",
+   "action": "approve",
+   "title": "The handshake",
+   "date": "2018-03-09",
+   "note": "The article dates it 9 March 2018; its category had 2007."
+  },
+  {
+   "id": "wd-Q2175079",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q4696802",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q16837693",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q6938438",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65388184",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-01-04-three-administration-police-officers-sho",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-01-14-rift-valley-fever-outbreak-in-northeaste",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-01-19-kiraitu-murungi-and-david-mwiraria-were",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-01-20-25-world-social-forum-meeting-held-in-na",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-01-23-a-recording-of-a-conversation-involving",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-01-30-ban-ki-moon-the-new-secretary-general-of",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-02-18-the-statue-of-dedan-kimathi-was-unveiled",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-02-20-simon-matheri-ikere-the-most-wanted-crim",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-02-28-the-2006-kenya-certificate-of-secondary",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-03-04-five-dangerous-criminals-escaped-nakuru",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-03-15-internal-security-minister-john-michuki",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-03-19-president-mwai-kibaki-proposes-constitut",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65384554",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-04-03-tribal-clashes-in-mount-elgon-district-c",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-04-24-a-policeman-is-shot-dead-by-mungiki-sect",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65377498",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61921487",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-05-01-during-his-labour-day-speech-president-m",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65381158",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-05-04-ethnic-violence-in-mt-elgon-area-continu",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-05-05-kenya-airways-flight-507-crashes-in-came",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q1739099",
+   "action": "approve",
+   "title": "Kenya Airways Flight 507 crashes",
+   "date": "2007-05-05",
+   "lens": "places"
+  },
+  {
+   "id": "yl-2007-05-14-by-election-held-in-magarini-constituenc",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-05-19-three-wildlife-rangers-and-four-suspecte",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-05-28-kenyan-economy-grew-by-6-1-per-cent-in-2",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64656189",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-06-08-over-30-suspected-mungiki-members-have-b",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-06-21-eleven-people-were-killed-around-nairobi",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q141504965",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63832762",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-07-05-five-people-were-shot-dead-by-criminals",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-07-05-eight-kenyan-cattle-raiders-have-been-ki",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-07-18-earth-tremors-have-been-felt-in-nairobi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-08-02-charity-ngilu-the-minister-of-health-was",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-08-11-several-people-die-following-mudslides-n",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-08-29-20-people-die-in-a-road-accident-near-ya",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-08-31-the-guardian-newspaper-featured-on-its-f",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61921362",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-09-01-kalonzo-musyoka-and-raila-odinga-were-se",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-09-08-14-ten-thousand-tea-plantation-workers-u",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65379219",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65381010",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q65380173",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-10-09-twelve-people-were-killed-when-a-bus-plu",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-10-17-john-njue-the-newly-appointed-archbishop",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65471216",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2007-11-17-main-political-parties-odm-odm-k-and-pnu",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2007-11-23-solomon-nyanjui-the-missing-kws-helicopt",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q166087",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q3505319",
+   "action": "reject",
+   "reason": "Covered by the general election card."
+  },
+  {
+   "id": "wd-Q97754025",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q2743200",
+   "action": "keep"
+  },
+  {
+   "id": "wd-Q4272061",
+   "action": "reject",
+   "reason": "Covered by the general election card."
+  },
+  {
+   "id": "yl-2007-12-27-kenyan-general-election-2007-were-held-t",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q91872366",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q104902102",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q7572035",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "wd-Q6970147",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6392757",
+   "action": "approve",
+   "title": "Kenya Vision 2030 is launched"
+  },
+  {
+   "id": "wd-Q5595029",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-01-01-riots-in-kenya-escalated-following-the-t",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6820757",
+   "action": "keep",
+   "title": "Meru University of Science and Technology is founded"
+  },
+  {
+   "id": "wd-Q27798483",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798790",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799094",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799395",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799695",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q59536121",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61932553",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q24236469",
+   "action": "reject",
+   "reason": "A company."
+  },
+  {
+   "id": "wd-Q4612362",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q4612363",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q131311717",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q131308678",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q123527253",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q61981168",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q15045626",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q6723389",
+   "action": "reject",
+   "reason": "A minor private university."
+  },
+  {
+   "id": "wd-Q6979314",
+   "action": "keep",
+   "title": "National Vision Party is founded"
+  },
+  {
+   "id": "wd-Q4547082",
+   "action": "approve",
+   "title": "The 10th Parliament opens"
+  },
+  {
+   "id": "yl-2008-01-24-president-mwai-kibaki-and-his-rival-rail",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64717772",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61979832",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64048641",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q5589265",
+   "action": "approve",
+   "title": "The Government of National Unity is formed"
+  },
+  {
+   "id": "wd-Q65381018",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2008-04-13-the-new-coalition-cabinet-is-finally-unv",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65472408",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64187642",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q63816371",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61938456",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q66387073",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64046431",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2008-06-10-four-people-including-politicians-kipkal",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-06-11-the-first-parliamentary-by-elections-in",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-07-08-amos-kimunya-resigns-from-his-post-of-mi",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-07-15-prime-minister-raila-odinga-issued-an-or",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-07-31-cattle-raiders-shot-around-30-herdsmen-a",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-08-11-the-results-of-kamukunji-constituency-of",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-08-13-a-fokker-f27-500-cargo-aircraft-operated",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64394048",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2008-09-25-mv-faina-a-ukrainian-ship-was-seized-by",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-09-25-by-elections-were-held-in-bomet-and-soti",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-10-15-the-post-election-violence-report-by-wak",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-11-01-a-nakumatt-supermarket-and-other-fully-o",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-11-05-the-kenya-people-celebrated-the-election",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q130437500",
+   "action": "reject",
+   "reason": "A holiday, not an event."
+  },
+  {
+   "id": "wd-Q61938455",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2008-12-11-kenyan-parliament-passes-the-kenya-commu",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-12-19-joel-onyancha-of-ford-people-lost-the-bo",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-12-24-president-kibaki-signs-a-bill-disbanding",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2008-12-31-over-120-political-parties-four-with-a-p",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q65370673",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q117319701",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q117885231",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799095",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798484",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27798791",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q7865381",
+   "action": "reject",
+   "reason": "An office, not an event."
+  },
+  {
+   "id": "wd-Q4615406",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q2814305",
+   "action": "reject",
+   "reason": "A list of a year's events, not an event."
+  },
+  {
+   "id": "wd-Q16851003",
+   "action": "keep",
+   "title": "Jaramogi Oginga Odinga University of Science and Technology is founded"
+  },
+  {
+   "id": "wd-Q16952856",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q27799396",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27799696",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27903148",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27903166",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27903184",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27903200",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q27903216",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q59536278",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61932728",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61933634",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q128211479",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q85759463",
+   "action": "reject",
+   "reason": "A church office or unit."
+  },
+  {
+   "id": "wd-Q5027435",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "yl-2009-01-01-two-corruption-cases-the-2009-triton-oil",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q28136159",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q4614956",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q3545957",
+   "action": "approve",
+   "title": "The MTV Africa Music Awards in Nairobi",
+   "date": "2009-10-10",
+   "lens": "culture"
+  },
+  {
+   "id": "wd-Q4614120",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q7106071",
+   "action": "approve",
+   "title": "Oscar Kingara is killed",
+   "date": "2009-03-05"
+  },
+  {
+   "id": "wd-Q24915301",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6392563",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6502700",
+   "action": "hold",
+   "note": "Dated only by its Wikipedia year category, and the article's opening does not name the year."
+  },
+  {
+   "id": "yl-2009-01-16-kenya-makes-an-international-food-appeal",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-01-23-amos-kimunya-is-appointed-the-minister-o",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q4614418",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2009-01-28-a-nakumatt-supermarket-in-the-nairobi-cb",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6896742",
+   "action": "reject",
+   "reason": "The source text is a list, not this event."
+  },
+  {
+   "id": "yl-2009-01-31-an-oil-spill-ignition-kills-over-50-peop",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61980435",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64709735",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-02-19-kenyan-fishermen-are-forced-to-flee-the",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-02-25-an-un-report-recommends-dismissing-the-a",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64709802",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61980974",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-03-30-student-riots-at-the-kenyatta-university",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64680123",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q61980691",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-04-06-kenyan-minister-of-justice-martha-karua",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-04-20-over-20-people-die-at-a-clash-between-th",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q6787282",
+   "action": "keep"
+  },
+  {
+   "id": "yl-2009-04-24-eliud-wabukala-is-elected-the-new-archbi",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64678116",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64722204",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64680155",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-05-01-a-government-official-was-forced-to-cut",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-05-07-thomas-cholmondeley-was-found-guilty-of",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q61865067",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q23055128",
+   "action": "hold",
+   "note": "The rules could not place this one."
+  },
+  {
+   "id": "wd-Q64675769",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64673682",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-06-12-the-othaya-police-chief-john-nzau-was-sh",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-06-16-an-oil-tanker-fire-kills-at-least-four-a",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-07-09-the-un-secretary-general-kofi-annan-hand",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-07-21-a-collision-of-two-buses-in-siapei-along",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-07-23-the-seacom-cable-becomes-operational-rai",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-07-30-kenyan-cabinet-announced-that-no-special",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-08-01-a-small-airplane-belonging-to-aim-air-cr",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64695191",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-08-04-6-the-8th-african-growth-and-opportunity",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-08-23-a-bus-and-a-truck-collide-near-gilgil-re",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-08-24-long-distance-buses-and-matatus-are-bann",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-08-24-the-kenyan-census-in-2009-is-initiated",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-08-27-parliamentary-by-elections-were-held-in",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64677748",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64697180",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64658494",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64661089",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64675341",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64676843",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-09-30-aaron-ringera-resigns-from-the-position",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64699070",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64661874",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64656851",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64661065",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-10-04-fourteen-people-die-when-a-matatu-and-a",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-10-20-a-building-collapsed-in-kiambu-killing-s",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-10-27-mungiki-chairman-maina-njenga-was-acquit",
+   "action": "approve"
+  },
+  {
+   "id": "wd-Q64677167",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64662964",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "wd-Q64673421",
+   "action": "reject",
+   "reason": "Too little in the source to write a card."
+  },
+  {
+   "id": "yl-2009-11-05-mungiki-spokesman-david-gitau-njuguna-wa",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-11-09-a-light-cargo-plane-crashes-at-the-wilso",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-11-15-ten-people-died-when-samburu-cattle-raid",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-11-16-the-kenyan-government-started-to-evict-s",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-11-17-the-harmonized-draft-constitution-of-ken",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-11-22-six-people-die-when-a-trailer-hit-a-mata",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-12-02-eleven-people-died-as-a-bus-and-a-lorry",
+   "action": "approve"
+  },
+  {
+   "id": "yl-2009-12-17-the-high-court-declares-the-south-mugira",
+   "action": "approve"
+  }
+ ]
+}
