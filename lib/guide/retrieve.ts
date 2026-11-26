@@ -26,7 +26,9 @@ export async function embedQuestion(question: string, signal?: AbortSignal): Pro
   const r = await fetch(`${ollamaUrl()}/api/embed`, {
     method: "POST",
     headers: ollamaHeaders(),
-    body: JSON.stringify({ model: EMBED_MODEL, input: question }),
+    // Ask Ollama to keep bge-m3 loaded: by default it unloads a model after five idle minutes,
+    // and loading it again on a busy CPU can outlast the guide's wait.
+    body: JSON.stringify({ model: EMBED_MODEL, input: question, keep_alive: process.env.OLLAMA_EMBED_KEEP_ALIVE || "24h" }),
     signal,
   });
   if (!r.ok) throw new Error(`embed failed: ${r.status}`);

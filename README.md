@@ -95,6 +95,7 @@ IMAGE_TAG=<optional: a version such as 0.1.0, to pin or roll back; default lates
 OLLAMA_API_KEY=<optional: bearer key for the model host>
 OLLAMA_TIMEOUT_MS=<optional: default 90000>
 OLLAMA_EMBED_TIMEOUT_MS=<optional: default 60000>
+OLLAMA_EMBED_KEEP_ALIVE=<optional: how long Ollama keeps bge-m3 loaded after a question; default 24h>
 ```
 
 The proxy sends the domain to service `nyakati-web`, port `3000`. Ollama needs `bge-m3` and the chat model. To release, bump `version` in `package.json`, commit, tag and push the tag:
@@ -115,7 +116,7 @@ Fill the database from this machine with a direct (not pooled) URL, again whenev
 GUIDE_DATABASE_URL='<direct URL>' make guide-db
 ```
 
-A slow CPU can pass the guide's time limits. If answers come back unavailable before any passages show, Ollama is reloading `bge-m3`: raise `OLLAMA_EMBED_TIMEOUT_MS`, or let Ollama keep both models loaded (`OLLAMA_MAX_LOADED_MODELS=2` on the Ollama container, about 3.5 GB of memory with a 3B chat model). If they come back unavailable after the passages, raise `OLLAMA_TIMEOUT_MS`.
+A slow CPU can pass the guide's time limits. If answers come back unavailable before any passages show, Ollama is reloading `bge-m3`: the guide asks Ollama to keep it loaded (`OLLAMA_EMBED_KEEP_ALIVE`, about 1.2 GB of memory), and `OLLAMA_EMBED_TIMEOUT_MS` sets how long it waits while it loads. If they come back unavailable after the passages, raise `OLLAMA_TIMEOUT_MS`.
 
 ## Palette contrast
 
